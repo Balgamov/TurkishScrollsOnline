@@ -1,7 +1,8 @@
 local LMP = LibMediaProvider
 TurkishScrollsOnline = {}
 TurkishScrollsOnline.name  = "Turkish Scrolls Online"
-TurkishScrollsOnline.version = "1.11"
+TurkishScrollsOnline.addonName  = "TurkishScrollsOnline"
+TurkishScrollsOnline.version = "1.18"
 TurkishScrollsOnline.settings = TurkishScrollsOnline.defaults
 TurkishScrollsOnline.langString = nil
 TurkishScrollsOnline.positionning = false
@@ -19,7 +20,7 @@ TurkishScrollsOnline.defaults = {
 
 local confirmDialog = {
     title = { text = zo_iconFormat("TurkishScrollsOnline/images/".."tr.dds", 24, 24).." Turkish Scrolls Online "..zo_iconFormat("TurkishScrollsOnline/images/".."tr.dds", 24, 24)},
-    mainText = { text = "Merhaba. ESC'ye bastıktan sonra sağ alt bölümde, ortada bulunan Türk bayrağına tıklayarak eklentimizi kullanmaya başlayabilirsiniz. Hata ve önerileri bildirmek için lütfen Discord yoluyla bize ulaşın.\nBalgamov & Sharlikran" },
+		mainText = { text = "Merhaba. ESC'ye bastıktan sonra sağ alt bölümde, ortada bulunan Türk bayrağına tıklayarak eklentimizi kullanmaya başlayabilirsiniz. Hata ve önerileri bildirmek için lütfen Discord yoluyla bize ulaşın.\nBalgamov & Sharlikran" },
     buttons = {
         { text = SI_DIALOG_ACCEPT, callback = functionToCall},
     }
@@ -81,6 +82,15 @@ function TurkishScrollsOnline_Selected()
 end
 
 function TurkishScrollsOnline:OnInit(eventCode, addOnName)
+  if (TurkishScrollsOnline.addonName ~= addOnName) then return end
+
+  LMP:Register("font", "Century Gothic", "$(ESOTR_CENTURY_GOTHIC_FONT)")
+  LMP:Register("font", "Crimson Regular", "$(ESOTR_CRIMSON_REGULAR_FONT)")
+  LMP:Register("font", "Gentium", "$(ESOTR_GENTIUM_FONT)")
+  LMP:Register("font", "Metamorphous Regular", "$(ESOTR_METAMORPHOUS_REGULAR_FONT)")
+  LMP:Register("font", "Patrick Hand SC", "$(ESOTR_PATRICK_HAND_SC_FONT)")
+  LMP:Register("font", "ProseAntique", "$(ESOTR_PROSEANTIQUE_FONT)")
+
 	TurkishScrollsOnline.langString = GetCVar("language.2")
 	TurkishScrollsOnline.settings = ZO_SavedVars:New(TurkishScrollsOnline.name .. "_settings", 1, nil, TurkishScrollsOnline.defaults)
 
