@@ -792,7 +792,7 @@
 {{87370069-0-33769:}}Kristal
 {{87370069-0-32983:}}Gala Davetiyesi
 {{87370069-0-32982:}}Gala Davetiyeleri Sandığı
-{{87370069-0-32985:}}Aramak
+{{87370069-0-32985:}}Ara
 {{87370069-0-33474:}}Kökleri Kavramak
 {{87370069-0-34260:}}Kristal Jack Kozası
 {{87370069-0-33114:}}Kırık Heykel
@@ -1175,7 +1175,7 @@
 {{87370069-0-33307:}}Rün
 {{87370069-0-34057:}}Bilmece Araştırmacısının Kasası
 {{87370069-0-34309:}}Dönen Libasyon
-{{87370069-0-34659:}}Sınıf Komut Dosyası İkilemi
+{{87370069-0-34659:}}Sınıf Script İkilemi
 {{87370069-0-34658:}}Ejderha Analizi Mührü
 {{87370069-0-33158:}}Bozuk Ceset
 {{87370069-0-34248:}}Oblivion
@@ -1228,7 +1228,7 @@
 {{87370069-0-34613:}}Grifon Anahtarının Parçası
 {{87370069-0-34612:}}Pişmanlığın yankısı
 {{87370069-0-34611:}}Ağlama Duvarı^n
-{{87370069-0-34642:}}Affix Komut Dosyası: Güvenlik Açığı
+{{87370069-0-34642:}}Affix Script: Vulnerability
 {{87370069-0-33990:}}Naku
 {{87370069-0-33202:}}Kaldırıcı
 {{87370069-0-34428:}}Mücevher İstasyonu (Tharriker'in Saldırısı)
@@ -1538,7 +1538,7 @@
 {{111863941-0-18:}}Lucent Kalesi (Kıdemli)
 {{121548292-0-46:}}5 Saint Alessia Deste Parçasının tümüne sahip olduğunuzda: \nTales of Tribute'daki Saint Alessia Destesi Parçasının kilidini açmak için bunları birleştirmek için kullanın.
 {{121548292-0-44:}}Tuhaf Daedrik Et, İnce Ebonçelik Zincir ve Güçlendirilmiş Welwa Namluya sahip olduğunuzda: \nMolag Bal İllüzyon İmp'ini Anchorborn Welwa bineğine dönüştürmek için birleştirin.
-{{243094948-0-553:}}Scribing Altarına erişim kazanmak için "Scribing'in İkinci Çağı" görevini tamamlamanız gerekir. Bu görevi tamamladığınızda ayrıca Grimoire'a ve Scribing becerisi için gerekli olan Komut Dosyalarına da erişebileceksiniz.\n\nScribing işlemi yalnızca Eyevea'nın altındaki Scholarium'da tamamlanabilir. Bir Beceri Scribing'lemek için <<1>> tuşuna basarak Altar ile etkileşime geçin.
+{{243094948-0-553:}}Scribing Altarına erişim kazanmak için "Scribing'in İkinci Çağı" görevini tamamlamanız gerekir. Bu görevi tamamladığınızda ayrıca Grimoire'a ve Scribing becerisi için gerekli olan Script'lere de erişebileceksiniz.\n\nScribing işlemi yalnızca Eyevea'nın altındaki Scholarium'da tamamlanabilir. Bir Beceri Scribing'lemek için <<1>> tuşuna basarak Altar ile etkileşime geçin.
 {{184479092-16-31:}}ITHELIA: Aklım bir görüntü, ses ve anı fırtınasından ibaret.
 {{184479092-0-31:}}TRIBUNE ALEA IDOLUS:\nBu çok kötü bir şeydi.
 {{184479092-13-31:}}Ayleidlerin gücü burayı istila ediyor.
@@ -5314,7 +5314,7 @@
 {{200879108-0-78395:}}Mizzik <<1>>'in arkadaşıydı. Henüz bir suç savaşçısı yavrusu iken, kayıp oğlunun davası üzerinde yorulmadan çalıştı. Bu Mizzik'in çözemediği tek vakaydı. Şimdi onun ölüm saatinde oğlunun geri döndüğünü duyar.
 {{200879108-0-78398:}}Mizzik <<1>>'in arkadaşıydı. Henüz bir suç savaşçısı yavrusu iken, kayıp oğlunun davası üzerinde yorulmadan çalıştı. Bu Mizzik'in çözemediği tek vakaydı. Şimdi onun ölüm saatinde oğlunun geri döndüğünü duyar.
 {{200879108-0-78399:}}Tharriker ilk kez güneybatı Weald'ın dönüşümünden kısa bir süre sonra görüldü. Orman Elflerinin yeni orman büyüme alanına Şafak Ormanı adını veriyor.\n\nVahşi ve gaddar görünüyorlar, bu yüzden onları gözlemlerken her türlü önlemi alın.
-{{200879108-0-81748:}}Sağ. Ulfsild, Ejderha işaretlerine dikkat etmelerini söyledi, böylece Ulfsild'in varisi olduğunuzdan emin olacaktı. Sonra da sana ya da senin gibi birine talimatlar bıraktı. \n\nBöylece Ejderhanın nerede durduğunuzu bilmeyeceğinden emin olabilirsiniz.
+{{200879108-0-81748:}}Doğru. Ulfsild, Ejderha işaretlerine dikkat etmelerini söyledi, böylece Ulfsild'in varisi olduğunuzdan emin olacaktı. Sonra da sana ya da senin gibi birine talimatlar bıraktı. \n\nBöylece Ejderhanın nerede durduğunuzu bilmeyeceğinden emin olabilirsiniz.
 {{200879108-0-81747:}}Bu, sizi kendi şartlarına göre test edecek olan diğer Aydınlatıcılar için işe yaradı. Ancak Ulfsild, kendi itirafına göre Ejderhanın davasıyla mücadele etmekte zorlandı. \n\nOnun izinden giden herkesin aynı sorunu yaşamadığından emin olmak istedi.
 {{200879108-0-81746:}}Aklınızda bulunsun, bu tam da böyle olduğunu düşünüyorum, tamam mı? Ulfsild, Scholarium'daki günlerinin sınırlı olduğunu biliyordu. Böylece yol boyunca bulduğunuz tüm yankıları, notları ve masalları geride bıraktı.
 {{200879108-0-81741:}}Bu çok ölümcül bir bakış açısı. Zihinlerimiz o kadar da farklı değil. Benim kökenim seninkinden daha renkli olabilir, doğru. \n\nAma sana söz veriyorum ki, daha önce karşılaştığın herhangi bir varlığı anlamaktan daha zor değilim. Sadece biraz kendinize güvenin.
@@ -5434,7 +5434,7 @@
 {{200879108-0-80347:}}Bana göre iyi. Aklında başka ne var?
 {{200879108-0-80344:}}Ah, Valenia. Neden bir hırsızın hayatını seçtiğini merak ettiğim zamanlar oldu. Valenwood'da ailesi vardı. Her an eve gidebilirdim. Ama bizimle kaldığı için minnettardım. \n\nŞu anda Vashabar'da. O... ah, unut gitsin.
 {{200879108-0-80345:}}Bıçaklar hakkında söylenecek fazla bir şey yok. Bizim Lejyon günlerimizde yarı yarıya şişedeydi ve biz cezamızı çektikten sonra sonuna kadar sürünerek içeri girdi. Ama sanırım hırsızlık yapmaktansa şakalaşmasını tercih ederim.\n\nSon duyduğuma göre Ontus'taymış.
-{{200879108-0-80342:}}Sağ. Kaçımız kaldığından tam olarak emin değilim. Şu ana kadar izini sürebildiğim tek kişiler Big Urm, Fallen-Knives ve Valenia'ydı.
+{{200879108-0-80342:}}Doğru. Kaçımız kaldığından tam olarak emin değilim. Şu ana kadar izini sürebildiğim tek kişiler Big Urm, Fallen-Knives ve Valenia'ydı.
 {{200879108-0-80343:}}Büyük Urm mu? Papazımız. Ve aynı zamanda bir şair. Tek kuralımızın sözlerini o yazdı. Bir tapınağa yerleşebilirdi ama bizim kapıları kırabilecek birine ihtiyacımız vardı.\n\nVaren'in Nöbetçileri'nde halletmesi gereken bazı sorunlar olduğunu duydum.
 {{200879108-0-78628:}}Pelena aşçımız Edric'ten bahsetmeye devam ediyor. Ölümüne yol açacak şekilde şüpheli davrandığını söylüyor. Ama ne olursa olsun onu nazik buluyorum. Kendisi bu duruma daha fazla ışık tutabilir.
 {{200879108-0-78629:}}Ayrıntılar birbirini tutmuyor. Soruşturmalar her zaman biraz hayal gücü gerektirir, ancak bu suç mahallini anlamlandırmak bir fantezi çalışması yaratmak anlamına gelir.
@@ -5740,7 +5740,7 @@
 {{200879108-0-79520:}}İşler yolunda gidiyordu ki birdenbire iş arkadaşlarım, Recollection adlı bir grup bana saldırdı! Canımı zar zor kurtardım! Şimdi Son Kralın Amblemini kurtaracak birine ihtiyacım var!
 {{200879108-0-79521:}}Evet, Ayleid hükümdarlarının sonuncusu Kral Dynar'ın makamının sembollerinden biri. Anma'nın bu keşifle ilgileneceğini düşündüm. Görünüşe göre çok ilgilendiler ve beni kovaladılar. Ama geri döneceğiz ve Amblemi geri alacağız.
 {{200879108-0-79528:}}Üzümlü olan. Kayıt olduğunuzda size birkaç şişe veriyorlar. West Weald şarabının Elf şarabı gibi cılız olacağını düşünmüştüm. Sana söyleyeyim. Değil.\n\nPeki hangi yöne gitmeliyim? Bir yere… ulaşmak için. Herhangi bir yer. Tercihen üzüm bağı.
-{{200879108-0-79529:}}Skingrad'ı mı? Grad kim ve neden onun derisini yüzüyoruz? Ah! \n\nAh, Skingrad şehrini kastediyorsun. Sağ. Ben gidiyorum.
+{{200879108-0-79529:}}Skingrad'ı mı? Grad kim ve neden onun derisini yüzüyoruz? Ah! \n\nAh, Skingrad şehrini kastediyorsun. Doğru. Ben gidiyorum.
 {{200879108-0-80283:}}Çok iyi. Bir fıçı West Weald Wallop. Sarhoş olmanız sırasında meydana gelebilecek yaralanmalardan işletmemiz sorumlu değildir.
 {{200879108-0-80282:}}West Weald Wallop mu dedin? Bu bizim en iyi biramız ve ucuza gelmiyor.
 {{200879108-0-80286:}}Oldukça basit: birinde durun ve mercekten bakın. Pek çok biçimdeki gizli büyüler karşınıza çıkacak.\n\nKapılar, semboller, hatta ciltlerin içine yerleştirilmiş sırlar. Ama burada yeterince konuşma var. Hadi başlayalım.
@@ -5933,7 +5933,7 @@
 {{200879108-0-81733:}}Ölümlü etkinin sınırlarının ötesindeki büyünün bir araya gelmesi nedeniyle varım. Ben büyülü bir kazadan ya da ters giden bir çağrıdan doğmadım. Aetherius ve Nirn'in gel-gitleri benim ailemdi.\n\nO halde sizin için küçük bir bilmece. Neden doğdum?
 {{200879108-0-80655:}}İçin mutlu. Hmm, Zenginlerin Bilmecesi basit görünüyor. Reaper's March'taki büyük yerleşim yerlerinde özel hazineler mi arıyorsunuz? \n\nŞanslısınız ki Mart ayında yalnızca üç büyük yerleşim yeri var! Rawl'kha, Arenthia ve Dune.
 {{200879108-0-78269:}}Bizi ciddi şekilde yaralayabilir, hatta öldürebilirdi. Ve ne için? Altın mı?\n\nSkingrad'a vardığımızda onu muhafızlara teslim etmem gerekecek. Daha sonra Kont Calantius'un zindan hücrelerinden birinde biraz zaman geçirecek.
-{{200879108-0-80938:}}Ah. Sağ. Evet. Ben de düşürdüm. \n\nBüyük, büyük bir kedi beni korkuttuğunda suyun kenarında su içiyordum. Kedilerin bu kadar büyüdüğünü düşünmemiştim! Sanırım hâlâ aşağıda.
+{{200879108-0-80938:}}Ah. Doğru. Evet. Ben de düşürdüm. \n\nBüyük, büyük bir kedi beni korkuttuğunda suyun kenarında su içiyordum. Kedilerin bu kadar büyüdüğünü düşünmemiştim! Sanırım hâlâ aşağıda.
 {{200879108-0-80036:}}Potansiyeli hissediyorum. Güce açsın. Tıpkı Ulfsild'in yıllar önce beni aradığında yaptığı gibi. Ona sorduğum sorunun aynısını sana da soracağım.\n\nBu gücü hak ediyor musun? Büyü kitaplarını düzenleme, sihri yeniden yazma gücü mü?
 {{200879108-0-78821:}}Feldagard Kalesi, Colovian Dağlık Bölgesi'ndeki en büyük kalelerden biridir. West Weald'ın savunması için kesinlikle hayati önem taşıyor. Tribune Alea, sen Hoperoot'ta o raporu bulduktan sonra oraya gitti.\n\nRecollection'ın bir saldırı planladığından endişeleniyor dostum.
 {{200879108-0-78401:}}Ah, pek değil. Ben şahsen oraya hiç gitmedim. Ama bir Ayleid harabesi gördüyseniz hepsini görmüşsünüzdür, haksız mıyım?\n\nBoş veya parçalanmış olabilir. Veya haydutlarla, ölümsüz veya vahşi yaratıklarla dolu olabilir. Herşey mümkün.
@@ -6473,7 +6473,7 @@
 {{200879108-0-78564:}}Daha fazlasını söyleyemem. Sadece saygılarımı sunmaya ve burayı arkamda bırakmaya geldim. Senin yerinde olsaydım, müfettiş korkunç bir şeyi ortaya çıkarmadan önce o malikaneden uzak dururdum.
 {{200879108-0-78567:}}Uygun, değil mi? Uriel'in ani dönüşüyle ilgili birçok soru var. Ve Pelena'nın bundan pek memnun görünmediğini de belirtmek gerekir. Mizzik elbette bir dizi başarısız evliliği araştırdı ama bu farklı görünüyor.\n\nAh, vasiyet ne olacak?
 {{200879108-0-78569:}}Eğer işi batırırsanız, Aetherial enerjisi aşırı döngüye girer ve ruhunuzu bedeninizden ayırır, ardından enerjinizi parçanın içinde hapseder. Şaka yapıyorum. Bunu yapmaz. Muhtemelen. Sadece yeniden başlamanız gerekiyor. Araştırma eğlenceli değil mi?\n\nDenemeye hazır mısınız?
-{{200879108-0-78568:}}Sağ. Kilitli bir Aetherial parçasındaki alarmı etkinleştirin. Bu, bağlanma sürecini tetikleyecektir. \n\nParçayı çevreleyen kristal direkler bir desen yaymalı, bu yüzden dikkatli olun. Bu model parçanın kilidini açmanın anahtarıdır.
+{{200879108-0-78568:}}Doğru. Kilitli bir Aetherial parçasındaki alarmı etkinleştirin. Bu, bağlanma sürecini tetikleyecektir. \n\nParçayı çevreleyen kristal direkler bir desen yaymalı, bu yüzden dikkatli olun. Bu model parçanın kilidini açmanın anahtarıdır.
 {{200879108-0-80179:}}Niryastare birlikte olduğum grup için fazla tehlikeliydi. Tuzakların yanı sıra Ayleid harabesi ölümsüz gardiyanlarla doluydu! Ancak en büyük engel, çökmüş geçitler ve gömülü kapılardı.\n\nHatırlama, çok fazla kazı yapmadan fazla uzağa gidemez.
 {{200879108-0-79091:}}Evet, maskeli haydutumuz. Aşçı onun bir sahtekar olduğundan emindi, peki ya diğerleri? Aquilia'nın şüpheleri var ama Pelena'nın bilmesi gerekmez miydi? Neden alarm zillerini çalıp diğerlerine söylemedi?
 {{200879108-0-78360:}}Menzil diplomatı, klanların ıvır zıvırlar kendilerine iade edilene ve belirli ayinler yerine getirilene kadar dinlenemeyeceklerini iddia ediyor. Bunların hepsi beni aşıyor ama Kont Calantius Markarth Despotu'nu kızdırmayı göze alamayacağımızı söylüyor. Zaten yeterince sorunumuz var.
@@ -6537,7 +6537,7 @@
 {{200879108-0-81574:}}Ben hâlâ hapisteyken Regomor, Noraine'i ele geçirmişti. Kral Nantharion'un, halkımız için yeni bir vatan inşa etme konusunda Orman Elflerine katılma çağrısını yapmasından kısa bir süre sonra buraya, Vashabar'a yerleştiler.
 {{200879108-0-81575:}}Sanırım Regomor'un muhakemesi bulanık. Bir çocuğu bildiği hayattan koparmak kolay değildir. Ama Regomor'a kızını nasıl yetiştireceğini söylemeye hakkım yok. Ona yaptıklarımdan sonra hayır.
 {{200879108-0-81570:}}İlk başta sadece hayatta kalmak içindi. Yankesicilik ve küçük hırsızlık, riske göre çok küçük bir kazançtı. Sonra işler büyümeye devam etti. Eğlenceli bulduğumu söylemekten utanıyorum. Hapishane beni bu durumdan kurtardı ama artık çok geçti.
-{{200879108-0-81785:}}Sağ. Gerçekten gittiğinden emin miyiz? Geri dönüş yolunu bulup bu belayı yeniden başlatamayacağını mı?\n\nNe diyorum? Elbette öyleyiz. Hermaeus Mora bile öyle söyledi! Hala ….
+{{200879108-0-81785:}}Doğru. Gerçekten gittiğinden emin miyiz? Geri dönüş yolunu bulup bu belayı yeniden başlatamayacağını mı?\n\nNe diyorum? Elbette öyleyiz. Hermaeus Mora bile öyle söyledi! Hala ….
 {{200879108-0-80180:}}Patronları, bir zamanlar unutulmuş Daedric Prensi Ithelia'yı hak ettiği iktidar yerine geri getirmeye çalışıyorlar. Ancak Ithelia, Hermaeus Mora'nın hapishanesinden kaçtığından beri pek kendinde değil.
 {{200879108-0-80189:}}Ben izlerken birkaç Hatıra izcisinin gelip gittiğini gördüm ama liderlerinden hiçbirini görmedim. Harabelerin yer altındaki kısımlarında bizi nelerin beklediğini elbette bilmiyorum.
 {{200879108-0-79279:}}Ah evet! Seni hatırlıyorum! Görüyorum ki hala dürüst iş arıyorum! Ne olursa olsun, bu çabamda sizleri bir kez daha kanatlarımın altına almanın mutluluğunu yaşıyorum!
@@ -6621,7 +6621,7 @@
 {{200879108-0-79443:}}HAYIR! Ne? HAYIR! Birdenbire geri döndüm... açık alanda bir geyik yavrusu gibi titrek bir adım atan Laeni'nin elini tutuyorum. Ah kalbim.\n\nBunun nedeni babaları değil mi? Nedolir seni aptal yaşlı adam.
 {{200879108-0-81531:}}Tribün en iyi subaylarımızdan biridir. Clivia Tharn'ın tahta geçmesinden bu yana onunla birlikte hizmet ediyorum. Artık çoğunlukla yerel meselelerle ilgileniyoruz.\n\nYöntemleri zaman zaman standart Legion protokolünden sapsa da her zaman sonuç elde ediyor.
 {{200879108-0-80976:}}Ah. Bilgenin Rüyası, Birçok Yolla olan bağlantımızın ölümlü adıdır. Bir içecek olarak tezahür ediyor ama benim özümle aşılanmış malzemelerden yapılıyor.\n\nBunu içmek yansımamı Birçok Yol'a yeniden bağlayacak ve onun gücünü dengeleyecek.
-{{200879108-0-80940:}}Sağ! Ve iyi zamanlama, tüm bu zıplamalar patilerimi havlatıyor.\n\nSen git kapını bul, ben de Grifon'a geri döneceğim ve onu konuşturacağız. Yay!
+{{200879108-0-80940:}}Doğru! Ve iyi zamanlama, tüm bu zıplamalar patilerimi havlatıyor.\n\nSen git kapını bul, ben de Grifon'a geri döneceğim ve onu konuşturacağız. Yay!
 {{200879108-0-80835:}}Neden ben değil? Bir şeyin önemli olduğuna inanıyorsanız onu başkalarının eline bırakmamanız gerektiği kanaatindeyim. \n\nYeşil sağlar gezgin. Ancak çoğu zaman ölümlü ellerin yardımına ihtiyaç duyar.
 {{200879108-0-79305:}}Anımsama'nın herkesin düşmanı olduğu açık; Parçadoğanların da. Bulabildiğim her yerde yardımı geri çevirmem aptallık olur.\n\nAyrıca West Weald'ın sorunlarının arkasında yeni komşularımızın olduğunu varsaymakta fazla acele etmiş olabilirim.
 {{200879108-0-81536:}}O yaptı? Evet, bu ikimiz için de utanç verici bir anı. Ve benim daha bencil hatalarımdan biri. İkinci kontrolü yapsaydım belki herkes hâlâ hayatta olurdu.\n\nYaptığım şey yüzünden hapse girmeyi hak ettim.
@@ -6650,7 +6650,7 @@
 {{200879108-0-78673:}}Edric mi? Bir katil? Şaşırmış durumdayım. Sanırım ondan şüphelenmekte haklıydım ama şimdi keşke onu hapse attırabilseydim. Ne saçmalık. En azından artık bir miktar kapanışımız var ve kayıp servete odaklanabiliyoruz.
 {{200879108-0-78675:}}Leydi ve ben o sabah buluşmayı planlamıştık ama aklımdan çıkmış. Eğer çay zehirli olsaydı... bu Otho'yu şüpheli yapmaz mıydı? Edric uzakta olsaydı Leydi Weatherleah'a çay hazırlayacak kişi o olurdu.
 {{200879108-0-78674:}}Elbette böyle bir suçlamada bulunacak uzmanlığa sahip değilim ama merak ediyorum. Otho ve Edric uzun yıllardır arazide çalışıyorlar. Servetten pay alma hakkına sahip olduklarını hissedebilirler miydi? Belki faydasız spekülasyonlar, ama zihin dolaşıp duruyor.
-{{200879108-0-78931:}}Sağ. Neyse, şehir evime dönelim dostum. Bulduğumuz haritayı bana ver. İncelemek istiyorum. Ve eğer gizemli görevinden döndüyse Leramil'e danışmalıyız.\n\nIthelia'nın Daedra'sının Anma'ya yardım ettiği açık. Nedenini bilmemiz gerekiyor.
+{{200879108-0-78931:}}Doğru. Neyse, şehir evime dönelim dostum. Bulduğumuz haritayı bana ver. İncelemek istiyorum. Ve eğer gizemli görevinden döndüyse Leramil'e danışmalıyız.\n\nIthelia'nın Daedra'sının Anma'ya yardım ettiği açık. Nedenini bilmemiz gerekiyor.
 {{200879108-0-81267:}}Hayır üzgünüm. Saldırılar başladığında yakındaki ormanlarda yiyecek aramaktan geri dönüyordum. Çocuklarımı bulmaya çalıştım ama kapıya ulaştığımda gardiyanlar içeri girmemi engelledi. Güvende olmaları için dua ediyorum.
 {{200879108-0-80396:}}Ah. Oh hayır. Birisi Scarlet'ları mı avlıyor? Tam oğlumun korktuğu gibi. Geçmişim yine beni yakaladı.\n\nBunu kapımın önünde notu bulduğumda anlamalıydım.
 {{200879108-0-80390:}}Macera dolu bir şey yapmayalı uzun zaman oldu ama Lejyon eğitimimi hâlâ hatırlıyorum. Ve İlahilerin benim güvenli geçişimi sağlayacağına inanıyorum.\n\nStendarr sana göz kulak olsun dostum.
@@ -7327,7 +7327,7 @@
 {{211640654-0-12463:}}Bölüğümdeki her asker Weald'ın büyüsünden yararlanabilseydi endişelenecek çok şeyim olurdu. Aceleyle geri çekilmek bir zayıflık işareti değildir. Bu lojistik açıdan bir altın madeni." —Teğmen Agrance
 {{211640654-0-12464:}}Efendinin zincirlerine bağlı Ankoritler yalnızca Molag Bal'ın iradesiyle seyahat eder." -Worm Adept Ivulen
 {{211640654-0-12465:}}Nekromansi, ceset toplamaktan ve kemiklerle oynamaktan daha fazlasıdır. Bitkiler ve otlar gibi canlıların uygulamada bir yeri vardır; ancak bu, büyücülerin malzemeleri kendi acımasız yetenekleriyle toplayamayacakları anlamına gelmez.
-{{211640654-0-12703:}}Affix Komut Dosyalarının günlük Dünya Etkinliği ödüllerinden, günlük Imperial City ödüllerinden ve günlük Undaunted görev ödüllerinin yanı sıra Scholarium ve Infinite Archive'daki satıcılardan elde edilmesini sağlar. Nadiren Işıltılı Mürekkebin hasat düğümlerinde bulunmasına neden olur.
+{{211640654-0-12703:}}Affix Script'lerinin günlük Dünya Etkinliği ödüllerinden, günlük Imperial City ödüllerinden ve günlük Undaunted görev ödüllerinin yanı sıra Scholarium ve Infinite Archive'daki satıcılardan elde edilmesini sağlar. Nadiren Işıltılı Mürekkebin hasat düğümlerinde bulunmasına neden olur.
 {{211640654-0-12526:}}Ters Eğik Çizgi, Ters Dilim ve Cellat için geçerlidir. Beceriler Menüsünde seçim yapın.
 {{211640654-0-12177:}}Nantharion'un Kraliyet tarzında omuzlara uygun bir kıyafet görünümü.
 {{211640654-0-12529:}}Elementlerdeki Zayıflık, Elemental Duyarlılık ve Elemental Drenaj için geçerlidir. Beceriler Menüsünde seçim yapın.
@@ -7384,8 +7384,8 @@
 {{211640654-0-12084:}}Shardborn Crafting Style'dan öğrenilir, Skingrad Daily Delves'ten alınır ve Skingrad World Boss Görevlerini tamamlar.
 {{211640654-0-12180:}}Nantharion'un Kraliyet tarzında bellere yönelik bir kıyafet görünümü.
 {{211640654-0-12708:}}Aziz Alessia'nın hikayesini anlatan Masallar Övgüsü destesi oluşturmak için gereken bir bileşen.
-{{211640654-0-12705:}}İmza Komut Dosyalarının günlük World Boss ödüllerinden, günlük Cyrodiil ödülünden ve günlük Fighters Guild görev ödüllerinden ve ayrıca Scholarium ve Infinite Archive'daki satıcılardan alınabilmesini sağlar. Tamriel'deki Büyücü Loncalarında destekli Komut Dosyalarının kilidini açar.
-{{211640654-0-12704:}}Odaklanma Komut Dosyalarının günlük Delve ödüllerinden, Layıklar için PvP Ödüllerinden ve günlük Büyücüler Loncası görevi ödüllerinin yanı sıra Scholarium ve Sonsuz Arşivdeki satıcılardan elde edilmesini sağlar.
+{{211640654-0-12705:}}Signature Script'lerinin günlük World Boss ödüllerinden, günlük Cyrodiil ödülünden ve günlük Fighters Guild görev ödüllerinden ve ayrıca Scholarium ve Infinite Archive'daki satıcılardan alınabilmesini sağlar. Tamriel'deki Büyücü Loncalarında destekli Script'lerin kilidini açar.
+{{211640654-0-12704:}}Focus Script'lerinin günlük Delve ödüllerinden, Layıklar için PvP Ödüllerinden ve günlük Büyücüler Loncası görevi ödüllerinin yanı sıra Scholarium ve Sonsuz Arşivdeki satıcılardan elde edilmesini sağlar.
 {{211640654-0-12707:}}Aziz Alessia'nın hikayesini anlatan Masallar Övgüsü destesi oluşturmak için gereken bir bileşen.
 {{211640654-0-12706:}}Bu kitaba sahip olan herkesin parmaklarının ucunda, büyü yazma sanatına ilişkin kapsamlı bir rehber bulunmaktadır.
 {{211640654-0-12187:}}Gold Road Dragoon stilinde bellere yönelik bir kıyafet görünümü.
@@ -7464,7 +7464,7 @@
 {{219317028-0-2071:}}Alemlerde var olan bilginin genişliğine rağmen, birçok gizem ve bilinmeyen hâlâ sorgulayan bir zihni rahatsız ediyor. Örneğin kökeni ve işlevi tamamen bilinmeyen gizemli düğüm. Ama sizin sayenizde, artık onu inceleme veya en azından kaotik doğasının kontrol edilebilmesi için onu kontrol altına alma fırsatına sahibiz. Yazıcılardan biri, bir koruma büyüsü tarafından kontrol altına alınıp alınamayacağını görmek için düğümü geçici olarak serbest bıraktı. Düşmanlığı paramparça oldu. Düğüme ne kadar süre maruz kaldığını bilmiyorum ama etkilendim.\n\nLütfen bunu al. Sadece Hermaeus Mora, gizli düğümü Xoryn'in kontrolünden uzak tutarak eylemlerinin nasıl bir felaketten kaçındığını biliyor.
 {{219317028-0-2086:}}The Elder Scrolls Online: Gold Road'u ön satın aldığınızda şu Ön Satın Alma bonus özelliklerine sahip olursunuz: \n\n• Strid River Fisherfolk kostümü\n• Eyebright Raven evcil hayvanı\n• Üç Altın Yol Hazine Haritası\n• Bir Elmas Yıldönümü Taç Sandığı\n• İki Taç Deneyim Parşömeni\n\nStrid River Fisherfolk kostümünüzü ve Eyebright Raven evcil hayvanınızı Koleksiyonlar menünüzde bulabilirsiniz. Taç Deneyim Parşömenleriniz ve Hazine Haritalarınız bu postaya eklenmiştir. Crown Crate'inizi hesabınıza ekledik, Crown Crate menüsünden açabilirsiniz. Gold Road'a hoş geldiniz!
 {{219317028-0-2087:}}The Elder Scrolls Online: Gold Road Deluxe Edition'ı satın alarak şu Deluxe Edition bonus özelliklerini aldınız: \n\n• West Weald Tharriker bineği\n• Skingrad Guard Mastiff evcil hayvanı\n• Ulfsild'in Tome of Legends hatırası\n• Peynir Yap ifadesi\n• Üzümleri Ezin ifadesi\n• Sommelier Swirl ifadesi\n• Skingrad Vedette kıyafet stili\n\nYeni bineğinizi, evcil hayvanınızı, hatıranızı ve ifadelerinizi Koleksiyonlar menünüzde bulabilirsiniz. Yeni kıyafet tarzınız Tamriel'deki kıyafet istasyonlarında görünecek ve kullanılabilir. Gold Road'a hoş geldiniz!
-{{21337012-0-8206:}}Katılın ustalar. Antik çağlardan beri kütüphanenin yeniden keşfedildiğine dair söylentileri mutlaka duymuşsunuzdur. Bunlar doğru! Bu şema henüz loncanın her üyesi tarafından toptan analize hazır olmasa da Başbüyücü Vanus Galerion, bu metamajikal teori setini merak edenlerin birincil kaynak malzemeleri incelemek için yeterli zamana sahip olmasını istiyor.\n\n|c0d5820Benim tarafımdan bol miktarda zaman ödünç alındı. analiz için yeterli metni temin etmek çok zaman aldı.|r\n\nBu amaçla, Tamriel'deki Büyücü Loncalarında dokuz Komut Dosyasından oluşan bir dizi tamamen ücretsiz olarak kullanıma sunuluyor. Bu Scriptler Başbüyücü Vanus Galerion tarafından titizlikle elle kopyalandı ve incelendi ve bazı durumlarda orijinallerinden daha iyi referans materyalleri olduklarına karar verildi! \n\n|c0d5820Ne kadar cesaretli olursan ol! Ben, Firandil, bu kopyaları yaratma işini yaptım. Şikayette bulunacağım!.|r\n\nBaşbüyücü'den gelen bu hediyeleri aşağıdaki lonca salonlarında bulabilirsiniz:\n- Vulkhel Muhafızı\n- Davon'un Gözcüsü\n- Daggerfall\n- Wayrest\n- Elden Root\ n- Mournhold\n- Riften\n- Evermore\n- Rawl'kha\n\nBu yeni ve heyecan verici mistik tekniği keşfederken dikkatli olun, ancak bunu coşkuyla yapın! Ve Büyücüler Loncası liderliğinin iltifatları.\n\n|c0d5820Gözlerimi övüyor! Sinir.|r
+{{21337012-0-8206:}}Katılın ustalar. Antik çağlardan beri kütüphanenin yeniden keşfedildiğine dair söylentileri mutlaka duymuşsunuzdur. Bunlar doğru! Bu şema henüz loncanın her üyesi tarafından toptan analize hazır olmasa da Başbüyücü Vanus Galerion, bu metamajikal teori setini merak edenlerin birincil kaynak malzemeleri incelemek için yeterli zamana sahip olmasını istiyor.\n\n|c0d5820Benim tarafımdan bol miktarda zaman ödünç alındı. analiz için yeterli metni temin etmek çok zaman aldı.|r\n\nBu amaçla, Tamriel'deki Büyücü Loncalarında dokuz Script'den oluşan bir dizi tamamen ücretsiz olarak kullanıma sunuluyor. Bu Scriptler Başbüyücü Vanus Galerion tarafından titizlikle elle kopyalandı ve incelendi ve bazı durumlarda orijinallerinden daha iyi referans materyalleri olduklarına karar verildi! \n\n|c0d5820Ne kadar cesaretli olursan ol! Ben, Firandil, bu kopyaları yaratma işini yaptım. Şikayette bulunacağım!.|r\n\nBaşbüyücü'den gelen bu hediyeleri aşağıdaki lonca salonlarında bulabilirsiniz:\n- Vulkhel Muhafızı\n- Davon'un Gözcüsü\n- Daggerfall\n- Wayrest\n- Elden Root\ n- Mournhold\n- Riften\n- Evermore\n- Rawl'kha\n\nBu yeni ve heyecan verici mistik tekniği keşfederken dikkatli olun, ancak bunu coşkuyla yapın! Ve Büyücüler Loncası liderliğinin iltifatları.\n\n|c0d5820Gözlerimi övüyor! Sinir.|r
 {{21337012-0-8207:}}Firaldil'e tanıdık, Tüccar\n\nBu Caal, sevgili ve sevgili tanıdık. Uzun yıllardır benimle birlikte. Lütfen Caal'a bir satıcı, tarihçi yardımcısı ve Büyücüler Loncası'nın tam teşekküllü bir üyesi olarak en büyük saygıyı ve nezaketi gösterin.\n\nO bir profesyonel, diyorum. Ve eğer ona nazik davranırsan sana iyi davranacaktır.
 {{21337012-0-8205:}}Şimdi seni altın yaprakların toprakta düştüğü yerde\nWeald'da\n\nharabeye dönmüş bir kale ileri karakolu\nBir üzüm bağının kokulu tarlasının yakınında\n\nKutsal Boğa burada savaştı ve diz çöktü\nKırık bir yolun yakınında duracaksın\n\nOyuncu , işte kartınız burada yatıyor\nMorihaus onun emrine koşarken
 {{21337012-0-8202:}}Nahlia, \n\nBenden sürekli bir not listesi tutmamı istedin, bende de birkaç tane var. Bu Scholarium'unuzda umursamadığım şeylerin kısa bir listesi.\n\n- Eski kitapların kokusu. Bazıları bunu romantikleştiriyor ama ben bunun sadece küf tozu olduğunu biliyorum. Doğrudan alerjilerime gidiyor. Bu eski ciltleri analiz etmek, sevdiğim şeylerin kalıntıları tarafından sonsuza kadar mahvolacağım anlamına geliyor.\n- Ne kadar kabarık olursa olsun, kitapların tahrif edicileri. Ve nazik. Ve sevimli. Pekala, Tilki o kadar da kötü değil.\n- Oldukça komik olduklarını düşünen kadim büyü varlıklarının yaptığı şakalar. Öyle değiller, sizi temin ederim.\n- Ben de aynısını yapabilirken, hücuma geçip sonra yeni bir sihir biçimi keşfetme şerefine ulaşan araya girenler.\n- Bilmeceler! Biz neyiz çocuklar? Tak tak. Oradaki kim? Durun, boş verin, umurumda değil ve şimdi tomarlarıma geri dönüyorum.
@@ -7594,7 +7594,7 @@
 {{21337012-0-8051:}}Evinizde/atölyenizde/kalenizde/vs. evinizde büyülü bir aşırılık nesnesi var mı?\n\nBu büyülü aşırılığın önem verdiğiniz her şeyin dengesini bozacağından mı endişeleniyorsunuz?\n\nDengesiz ve Nesnenizden gelen kaotik büyülü çıktı, eterin boş bir bölümüne taşınabilir mi? (Not: Sıfır arkı tam olarak bu şekilde çalışmaz. Spesifik bilgiler korunan bilgi olarak kabul edilir.)\n\nBoş arkadan başka bir yere bakmayın! Kaotik eserleri, kalıntıları, icatları ve diğer her türlü nesneyi dengeleyebilen bir kap. \n\nBoş arka. Sahip olduğunuz her şeyi, sahip olduğunuz tek bir şeyden korumak için ödemek istemediğiniz bir bedel var mı?\n\nNeletai'ye not: son satırın biraz gözden geçirilmesi gerekebilir.
 {{21337012-0-8050:}}Saraathu Tong'daki meslektaşlarım zamanlarını Fargrave'in sayısız sorusu ve gizemiyle harcarken, ben Salora Adlaron bu zamanı verimli bir şekilde geçirmeyi seçti. Bu çabam adına, odaklanmak için bir soru seçtim. Yolculuğumun tek bir amacı var: Fargrave'in altyapısının ayrılmaz bir parçası olan şeffaf kristallerin kökenlerini ortaya çıkarmak. Açıklığa kavuşturmak gerekirse, şeffaf kristallerin işlevinin pek önemi yok; bunun yerine onların nasıl oluştuklarını ve nereden kaynaklandıklarını anlamaya çalışıyorum.\n\nFargrave'de çok fazla şeffaf kristal olduğu ve onu çevreleyen diyardan geriye kalanlar göz önüne alındığında, güvenli kristallerin bu konumla bir bağlantısı olduğunu varsaymak. Sonuçta Oblivion'un diğer düzlemlerinde sıklıkla bulunmuyorlar. Bu nedenle kristallerin Fargrave'e özgü olması gerekir. \n\nTest ettiğim ilk teori, kristallerin Fargrave'i çevreleyen kumlardan doğduğuydu. Tahmin ettiğim gibi bu kumun ısıtılması sonucu bir tür cam oluştu. Ön deneyler, camın bazı estetik avantajlara sahip olduğunu, ancak şeffaf kristallerin enerji depolama özelliklerinin hiçbirinin olmadığını gösteriyor. Hiç şaşırmayarak bardağı bir zanaatkâra verdim ve notlarıma geri döndüm.\n\nŞu anda test etme aşamasında olduğum ikinci teorim, şeffaf kristallerin Fargrave'in dışındaki Lucent Kalesi adı verilen bir yerden kaynaklandığı yönünde. Adından da anlaşılacağı gibi, kalede çok sayıda parlak kristal vardır, ancak büyük miktarda kristal bulmak, bunların kökenlerini keşfetmekle aynı şey değildir. \n\nKaledeki seyahatlerimde devasa bir ışık ya da ışıkların artık aşina olduğum görüntüsüne dönüşen büyülü bir enerji bağlantısı bulacağımı umuyordum. Bunlar teorimi destekleyecek açık ve tartışılmaz kanıtlar sağlayacaktır. Ne yazık ki, ezoterik çabalarım nadiren bariz ve tartışılmaz sonuçlara yol açıyor.\n\nDoğrulayabildiğim şey, kalede normalden daha fazla sayıda parlak kristal koleksiyonunun olduğu. Boyutları ve şekilleri farklılık gösterir, ancak neredeyse hepsi Fargrave'in lüsentlerinde görülen enerji miktarlarını depolamıyor. Belki kalenin içinde parlakları çeken bir şey vardır. Her ne ise, kristalleri oluşturmak yerine kristalleri buraya çekmenin bir yolu olabilir.\n\nEğer bu yeni teori doğruysa, kristallerin henüz bilinmeyen bir kökeni var demektir. Bir bakıma bu, teorilerimin şu ana kadar yanlış olduğu anlamına geliyor. Ancak onları araştırırken, saydam kristaller hakkında meslektaşlarımın bilmediği yeni bir şey keşfetmiş olabilirim. Onları daha fazla incelemek için burada kalmam gerekecek.
 {{21337012-0-7878:}}Gold Road ve West Weald boyunca seyahat edenler, yolculuklarında şans ve iyi şans garantilemek için belirli ritüelleri ve gelenekleri takip ederler.\n\nMadenciler, belirli bir kuyudan zengin olmak için madeni para teklif etmeleri gerektiğine inanırlar. En küçük yazı tura atmak bile zengin ödüller vaat edebilir, ya da onlar öyle olduğuna inanıyorlar.\n\nVahşi doğada iki tapınak gizlenmişti. Adalet için mi dua edeceksiniz, yoksa eğlence için mi? Neden ikisini de yapmayasınız!\n\nOrman Elflerinin gelişiyle birlikte yeni gelenekler yaygınlaşmaya başladı. Genç bir fidanı sulamak Y'ffre ve Green'in iyi lütuflarını memnuniyetle karşılar.
-{{21337012-0-8189:}}Ulfsild tarafından \n\nScholarium'daki son günümde yazılan kısa bir rehber. Yıllar süren çalışmanın sizin için özeti.\n\nKendiniz yapmak istediğiniz Grimoire'ı seçin.\n\n- Arkamda bıraktığım Grimoire'lar çok çeşitli senaryoları ve sihirli uygulamaları kapsıyor. Umarım beğeninize göre bir kitap bulursunuz.\n\n- Her Grimoire'ı bir çerçeve olarak düşünün. Bunlar saf fırsatlardır ve ihtiyaçlarınıza uyum sağlamanız için hazırdır.\n\n- Zamanla belki başkaları da benim tekniklerimden ders alır ve başka Büyü Kitapları oluşturulabilir. Çalışmamın hala devam ettiğini düşününce gülümsüyorum.\n\nBu senaryolardan birini seçerek Yazma Odak noktanızı tanımlayın.\n\n- Onlara "Odaklanma" Scriptleri diyorum çünkü onlar Yazma Becerisinin gerçekte ne olduğunu tanımlıyorlar. Ateş mi, don mu? İyileşmek mi, zarar vermek mi? Yazdıklarınız ne işe yarayacak?\n\n- Odak Komut Dosyalarını her zaman Gryphon ile ilişkilendirdim. O kadar yönlendirilmiş ve hareketlerinde kendinden o kadar emin ki.\n\nHer becerinin bir İmza unsuru olması gerekir.\n\n- "İmza" bu unsurlar için mükemmel bir kelime gibi göründü, çünkü bu sihirli bileşenler Yazılı çalışmalarınızı unutulmaz kılıyor. Karalama'nın diğer disiplinlerin ve diğer düşünce okullarının hedefleri ve büyüleriyle etkileşime girmesine olanak tanıyan pek çok yol keşfettim.\n\n- Bu çalışmalarda Ejderha ile yoğun bir şekilde işbirliği yaptım, onun keskin zekası bunlar için mükemmel bir ses tahtasıydı. karmaşık fikirler.\n\n- Parşömeni tutan kişinin dövüş ve büyülü tarzlarına uyum sağlayabilecek Senaryolar tasarlamak aslında Dragon'un fikriydi. Benim zamanımda bu Senaryoyu hiçbir zaman tam olarak geliştiremedik. Ama belki bir gün.\n\nSeçtiğiniz Ekleme avantajını uygulayarak beceriyi sonlandırın.\n\n- Her yeni büyü yazdığımda, yapıda bir boşluk kaldığını fark ettim. Bu basit mistik eklemeler Netch tarafından önerilen, bu boş alanı doldurmak için küçük bir şeyler eklemenin bir yoludur.\n\n- Ekler, çalışmanızı size veya müttefiklerinize en uygun yöne doğru itmenin bir yoludur. O kadar çok yöne gidebilirsiniz ki.\n\nYeni Yazılmış Becerinizi oluşturmak için Parıldayan Mürekkebi kullanın. \n\n- Netch ile işbirliği içinde yaratılan Scribing'de kullandığım mürekkep, sunak aracılığıyla verilen güce yalnızca bir alt tabakadır. Bu, bir tür bağlayıcı unsur, saf büyüyü, düşünceyi ve niyeti sayfada bir araya getirmenin bir yolu olarak düşünülmüştür.\n\nDiğer Notlar:\n\n- Bir beceri veya büyü yazdıktan sonra, her zaman deneyebilirsiniz Mevcut Grimoire'ınızdan yeniden yazıyorum. Sonsuz çeşitlilik her zaman amacımın bir parçası olmuştur. Tabii mürekkebinizin olması şartıyla.\n\n- Her Senaryo her büyü kitabına uygulanmayabilir ama burası oynamak, denemek ve keşfetmek için harika bir yer. Bana göre bu, Yazmanın gerçek büyüsünün bir parçası.\n\nBazı esprileri bağışlarsanız: tek yapmanız gereken bir güç odağı oluşturmak, saf büyü yaratıklarını iyi niyetli olduğunuza ikna etmek, güçlerini Grimoires'ı (tasarlamanız gereken) ve parlak mürekkebi geliştirerek yaratımınızı tamamlamanız gerekecek! Kolay!\n\nUmarım Karalama için harcadığım tüm emek zamanla kaybolmaz. Adımlarımı takip eden herkese iyi şanslar. Ve Karga rehberiniz olsun.
+{{21337012-0-8189:}}Ulfsild tarafından \n\nScholarium'daki son günümde yazılan kısa bir rehber. Yıllar süren çalışmanın sizin için özeti.\n\nKendiniz yapmak istediğiniz Grimoire'ı seçin.\n\n- Arkamda bıraktığım Grimoire'lar çok çeşitli senaryoları ve sihirli uygulamaları kapsıyor. Umarım beğeninize göre bir kitap bulursunuz.\n\n- Her Grimoire'ı bir çerçeve olarak düşünün. Bunlar saf fırsatlardır ve ihtiyaçlarınıza uyum sağlamanız için hazırdır.\n\n- Zamanla belki başkaları da benim tekniklerimden ders alır ve başka Büyü Kitapları oluşturulabilir. Çalışmamın hala devam ettiğini düşününce gülümsüyorum.\n\nBu senaryolardan birini seçerek Yazma Odak noktanızı tanımlayın.\n\n- Onlara "Odaklanma" Scriptleri diyorum çünkü onlar Yazma Becerisinin gerçekte ne olduğunu tanımlıyorlar. Ateş mi, don mu? İyileşmek mi, zarar vermek mi? Yazdıklarınız ne işe yarayacak?\n\n- Focus Script'leri her zaman Gryphon ile ilişkilendirdim. O kadar yönlendirilmiş ve hareketlerinde kendinden o kadar emin ki.\n\nHer becerinin bir Signature unsuru olması gerekir.\n\n- "Signature" bu unsurlar için mükemmel bir kelime gibi göründü, çünkü bu sihirli bileşenler Yazılı çalışmalarınızı unutulmaz kılıyor. Karalama'nın diğer disiplinlerin ve diğer düşünce okullarının hedefleri ve büyüleriyle etkileşime girmesine olanak tanıyan pek çok yol keşfettim.\n\n- Bu çalışmalarda Ejderha ile yoğun bir şekilde işbirliği yaptım, onun keskin zekası bunlar için mükemmel bir ses tahtasıydı. karmaşık fikirler.\n\n- Parşömeni tutan kişinin dövüş ve büyülü tarzlarına uyum sağlayabilecek Senaryolar tasarlamak aslında Dragon'un fikriydi. Benim zamanımda bu Senaryoyu hiçbir zaman tam olarak geliştiremedik. Ama belki bir gün.\n\nSeçtiğiniz Ekleme avantajını uygulayarak beceriyi sonlandırın.\n\n- Her yeni büyü yazdığımda, yapıda bir boşluk kaldığını fark ettim. Bu basit mistik eklemeler Netch tarafından önerilen, bu boş alanı doldurmak için küçük bir şeyler eklemenin bir yoludur.\n\n- Ekler, çalışmanızı size veya müttefiklerinize en uygun yöne doğru itmenin bir yoludur. O kadar çok yöne gidebilirsiniz ki.\n\nYeni Yazılmış Becerinizi oluşturmak için Parıldayan Mürekkebi kullanın. \n\n- Netch ile işbirliği içinde yaratılan Scribing'de kullandığım mürekkep, sunak aracılığıyla verilen güce yalnızca bir alt tabakadır. Bu, bir tür bağlayıcı unsur, saf büyüyü, düşünceyi ve niyeti sayfada bir araya getirmenin bir yolu olarak düşünülmüştür.\n\nDiğer Notlar:\n\n- Bir beceri veya büyü yazdıktan sonra, her zaman deneyebilirsiniz Mevcut Grimoire'ınızdan yeniden yazıyorum. Sonsuz çeşitlilik her zaman amacımın bir parçası olmuştur. Tabii mürekkebinizin olması şartıyla.\n\n- Her Senaryo her büyü kitabına uygulanmayabilir ama burası oynamak, denemek ve keşfetmek için harika bir yer. Bana göre bu, Yazmanın gerçek büyüsünün bir parçası.\n\nBazı esprileri bağışlarsanız: tek yapmanız gereken bir güç odağı oluşturmak, saf büyü yaratıklarını iyi niyetli olduğunuza ikna etmek, güçlerini Grimoires'ı (tasarlamanız gereken) ve parlak mürekkebi geliştirerek yaratımınızı tamamlamanız gerekecek! Kolay!\n\nUmarım Karalama için harcadığım tüm emek zamanla kaybolmaz. Adımlarımı takip eden herkese iyi şanslar. Ve Karga rehberiniz olsun.
 {{21337012-0-8188:}}<<1>>,\n\nAziz ve hikayeli Büyücüler Loncası yardımınızı istiyor. Lamba Tarikatı'ndaki bir Adanmış Şövalye, çok sıra dışı bir büyülü anormallik keşfetti. Heyecan verici ve potansiyel olarak kazançlı bir keşif gezisinin hazırlıkları şu anda sürüyor. \n\nKimseye söylemeyin. Mümkün olan en kısa sürede, haritadaki konumda Usta Irnard Rirnil'i arayın. Daha ayrıntılı olarak açıklayacak.\n\nİyi şanslar maceracı. \n\n- Lamba Nişanı Votary Nahlia adına gönderildi
 {{21337012-0-8088:}}Sırların efendisi, Gizli Forum'un büyük salonunda bir yaratılış kıymığı sakladı. Merdivenlerin tepesinde dört mum kıymığın yerini akıllıca gizler.\n\nMumları bu özel sırayla yakarak bu hazineyi ortaya çıkarın.\n\n1. Girişten başlayarak en uzaktaki ilk mum ilk ışığını bekliyor.\n\n2. Güneye doğru baktığınızda ikinci bir mum sizi çağırıyor.\n\n3. Bir sonraki mum kuzeydedir.\n\n4. Sonra altınızda son mum bekler.
 {{21337012-0-8084:}}<Bir kitaptan koparılmış sayfa.>\n\nForelhost'un altında, çünkü arazi yeniyken gizlenmişti.\n\n|c990000Forelhost'un altında. Yani Forelhost'ta değil mi? Belki altında bir mağara vardır. Bu Brokenhelm Hollow olmalı. |r\n\nZariah dirilen ölülerle çekişmemekten mutluydu. Ancak bu kadarını açıklarken nereye gittiğine dikkat etmemişti ve kış uykusundaki kar ayılarının oluşturduğu bir daireye doğru adım atmıştı. \n\nZariah mağaraların geniş çevresinden geçerek Nirn'in yüzündeki parmak izlerini gördüğü yerde Gray'e bağırdı ve hazinelerinin son parçasını alması için arkadaşına güvendi.
@@ -7653,8 +7653,8 @@
 {{21337012-0-8217:}}Benim itibarımdan şüphe duymuyormuş gibi görünüyordu; yalnızca şansından. Benim pek çok isimle anıldığım yerde, o yalnızca Shalidor tarafından biliniyordu. Geldiği dünyanın en uzak köşesinden benim başarılarıma dair hikayeler duymuştu. Büyülerime tanıklık etmek için beni aramıştı.\n\nElbette Shalidor'u biliyordum. Kim yapmadı? Bataklığın bir buzul olduğu konusunda söyledikleri aniden mantıklı geldi. Benden çok daha yaşlıydı ama yine de benim küçük bahçeme inecek kadar aptaldı! Buna güldüm ve sonunda çay içerken onun da gülümsemesi sağlandı.\n\nFırtına boyunca sadece çaydanlığı doldurmak için durduk. Yöntem ve uygulamadaki farklılıklarımızın bir haritasını çizerken ben onu büyüsü hakkında sorguya çektim, o da benim büyüm hakkında. \n\nBütün kış boyunca konuştuk, yazdık, okuduk ve dostane sessizlikler paylaştık. Bir cadı, rahibe ya da şifacı olarak becerilerim nedeniyle çağrıldığımda, o da gözlem yapmak için beni takip ederdi. Asla burnumu sokmadım, yalnızca ben aradığımda yardımcı oldum. Başkaları onu sorduğunda onun benim çırağım olduğunu söyleyerek şaka yaptım. Bunu hiçbir zaman yalanlamadı. Sanırım anonimliğini tercih etti.\n\nVe böylece kaldı. O zamanlar aynı yatağı paylaşmadık ama sürekli sohbetlerimizle birbirimizi sıcak tuttuk. Uzun yıllar boyunca yaşadığı yerleri, tanıştığı insanları, gördüğü şeyleri anlatmaktan çok benim nispeten kısa ama olaylarla dolu hayatımın tüm ayrıntılarıyla ilgileniyormuş gibi görünüyordu. \n\nHer an gidebilirdi ve benim de onu göndermek için pek çok nedenim vardı. Ama ondan hoşlanmaya başlamıştım. O da aynı şeyi hissetmiş olmalı, çünkü yolda baharla birlikte karlar hızla erimeye başlayıncaya kadar ayrılmaktan bahsetmedi. \n\nİşte o zaman tabiri caizse buzları kırdı. Bana sonsuz yaşamın sırrını bildiğini ve bunu benimle paylaşmak istediğini söyledi.
 {{21337012-0-8216:}}Julian o tozlu koridorda onun üzerinde yatarken yüzüme baktı. Tek söylediği "İyi yakalama" oldu. Ancak bundan sonra Llaren ve benim ilk gitmemize izin verdi.\n\nSonunda çalışmaya vardığımızda (iki çivi çukuru, bir ayı tuzağı ve üç zehirli ok daha sonra) tüm grup kitapları almaya ve işlerini bitirmeye hazırdı. o.\n\nÇalışma odası küflüydü, örümcek ağlarıyla kaplıydı ve donuyordu. Bir mezar gibi hissettim. Duvarlar, benim bile göz atmak istediğim eski ve gizemli ciltlerle dolu kitap raflarıyla kaplıydı. Odanın uzak tarafında ahşap bir masa vardı ve arkasında kral kıyafetleri giymiş bir iskelet oturuyordu. İskeletin uzanmış elleri, bu koleksiyonun mücevheri olan, deri kaplı devasa bir kitabın üzerinde duruyordu. Hiç şüphe yok ki kalıntılar kalenin eski sahibine aitti ve ölürken bile hâlâ kitaplarını koruyordu.\n\nLlaren ve ben hemen odayı tuzaklara karşı kontrol ettik. Hiçbir şey bulamayınca büyücülere içeri girip ihtiyaç duydukları şeyleri almalarını işaret ettik. Yine de bir şeyler doğru gelmiyordu. Kalenin sahibinin kişisel kütüphanesi için neden son bir savunma hattı olmasın ki?\n\nHâlâ kitap raflarını dikkatle araştıran Julian'la göz göze geldim. Yeni ustalardan birinin kitabı iskeletin kemikli pençesinden çıkarmaya çalıştığı masaya baktık.\n\n"Bırak onu yere, seni aptal!" Julian bağırdı.\n\nÇok geç oldu. İskelet, korkunç göz yuvalarından uğursuz bir parıltı yayarak canlandı. Usta çığlık attı ve kaçmaya çalıştı ama iskelet onun bileğine yapıştı. Llaren ya da ben tepki veremeden Julian bir sihir patlaması yaparak iskeletin çenesini salladı ve ustanın üzerindeki hakimiyetini gevşetti.\n\nKitabı olduğu yerde bıraktı ve odanın diğer tarafına çekildi. Julian bana, "Voter, bir portal kullanabiliriz" dedi.\n\n"Peki ya kitaplar? Şu ana kadar geldik!" dedim.\n\n"Onların önemi yok. Üstadlarımın buradan sağ salim çıkmasını istiyorum." Kemikli parmaklarında bir ateş topu çağırmaya başlayan iskelete bir büyü şimşek daha gönderirken Julian'ın gözleri parladı.\n\nBuna saygı duymam gerekiyordu. Portal bana kolayca geldi. Ustalar geri çekildi, bazıları çıkışta ele geçirmeyi başardıkları ciltleri ellerinde tutuyorlardı. Sonunda sadece Llaren, Julian ve ben kalmıştık.\n\n"Hadi gidelim" dedi Llaren. Ama Julian tereddüt etti. Eli boş ayrılma fikrinden nefret ettiğini söyleyebilirim. Ben de öyle yaptım.\n\n"Bekle," dedi Julian. Bana baktı.\n\n"Ne yapıyorsun?" Llaren, kendisine doğru gelen bir ateş topunu savuştururken bağırdı.\n\n"Devam edin!" Ona söyledim. Llaren'in tartışmak istediğini gördüm ama yıllarca birlikte kavga etmek aramızda kırılması zor bir güven inşa etmişti. Çekincelerine rağmen dediğimi yaptı ve arkasına bakmadan portala atladı.\n\nJulian zaten bir büyü çağırıyordu, yüzü bir konsantrasyon maskesiydi. "Hazır mısın?" diye sordu.\nBaşımı salladım.\n\nJulian başka bir söz söylemeden iskelete devasa bir element enerjisi patlaması göndererek onu tekrar ayağa kaldırdı. O bunu yaparken ben de öne atıldım ve masaya doğru kalan son birkaç metreyi kat ederek, iskelet dengesini toparlayamadan antik kitabı kaptım. Geri döndüğümde Julian çoktan portalda gözden kaybolmuştu ve içeri atlayıp portalı kapatmadan önce ilk önce kitabı fırlattım.\n\nBiraz yanmış olarak geri döndüm ama en son ne zaman böyle bir sırıtış olduğunu hatırlamıyorum yüzümü çatlattı. Bulaşıcı olmalı çünkü Julian bile beni görünce kahkahalara boğuldu. Sonuçta onunla çalışmak o kadar da kötü olmayabilir!
 {{21337012-0-8210:}}Netch ne kadar sıradışı bir yaratık! Bir noktada Scholarium'un içinden geçti, durdu ve filizlerinden biriyle başımı okşadı. Diyorum ki!\n\nAncak kardeşleri kadar güçlü. Artık Yazma sunağı aracılığıyla iletilen Netch'in gücü tüm ülkede yankılandı. Büyücüler Loncası'ndaki kaynaklardan aldığım bilgiye göre, Affix Scriptler yeni ve sıra dışı noktalarda ortaya çıkıyor. Kesinlikle burada Scholarium'da büyük bir hazine buldum. Dolayısıyla bu türden daha fazlasının stoklarımda görünmesini bekleyebilirsiniz. \n\nAyrıca bunların artık Dark Anchors veya Deadlands portalları gibi dünyadaki zorlu senaryolardan alınan önbelleklerde de göründüklerini anlıyorum. İmparatorluk Şehrindeki askerler onları ödüllerinden çekiyor ve Cesurlar da onları hazinelerinde buluyor.\n\nAyrıca Netch'in, Işıltılı Mürekkebin hasat edilebilir üretim malzemelerinden sızmaya başlamasına neden olduğuna inanmak için nedenlerimiz var. . Eğer bana nedenini ya da nasıl diye soracak olsaydın, sana saatlerce metabüyü teorisini anlatabilirdim. Sonuçta bunun Luminary'nin iyi niyetli "şakalarından" bir başkası olduğuna inanıyorum. Çıldırtıcı!
-{{21337012-0-8212:}}Ejderhanın standartlarını karşılayan bir bilmeceyi oluştururken karşılaştığınız zorlukları diğerlerinden duydum. Tebrikler sana maceracı! Çabalarınızın Tamriel'deki büyülü güçlerde gelgit değişimleriyle sonuçlanacağına sizi temin ederim. Ejderhanın gücünün aşılanması, Scholarium'un arka koridorlarında dolaşırken birkaç yeni İmza Scriptleri bulmamı sağladı.\n\nBu arada, Büyücüler Loncasındaki bağlantılarım, tüm dünyadaki kötü şöhretli güçlü canavarları yendikleri için ödüllendirilen önbelleklerde İmza Komut Dosyalarının göründüğünü fark etti. topraklarının yanı sıra Cyrodiil'deki Üç Sancak Savaşına katılmak için. Savaşçılar Loncası'ndaki ahmak gruplarımız bile görünüşe göre ödüllerinde özel senaryoların göründüğünü görmüşler, ancak mistik tasarımda bu kadar ustaca bir şeyin tura veya tura nasıl çıkabildiğini anlayamıyorum.\n\nSon olarak sizi uyarmalıyım ki Başmagister Vanus Galerion çabalarınızı kendisi fark etti. Kıtanın dört bir yanındaki lonca salonlarında araştırma amacıyla kullanıma sunulmak üzere çeşitli tarzlarda bir dizi senaryoya maddi destek sağladı. Ayrıntılar için lütfen ustalarımıza iletilen el ilanını inceleyin.\n\nÇok mutluyuz! İyi işler yapmaya devam edin!
-{{21337012-0-8211:}}Ben asla! Sen Grifon'un kanadını tamamlama sürecindeyken dükkanıma döndüğümde o Fox yaratığının mağazalarımda dolaştığını gördüm! Zavallı Caal anlamsız sözler söylüyor ve hırlıyordu, kendini kaybetmişti! Onu kovdum ama konuşmaya başladığında çok etkileyiciydi. Bütün günlerim boyunca bu kadar sevimli bir yaratıkla hiç uğraşmadığımı söylemeliyim. Ancak Caal hâlâ şüpheci olmaya devam ediyor.\n\nKonu dışına çıkıyorum! Gryphon ile çalışmanızın en bariz sonucu, Scholarium'u artık her türlü potansiyel tehdide karşı koruyan harika animasyonlu zırh yapılarıdır. Bu arada Gryphon'ların gücünün aşılanması Tamriel'de yeni ley hattı faaliyetiyle sonuçlandı. Scholarium'da incelemeniz için hazır çok sayıda Odaklanma Scriptleri buldum. \n\nAynı şekilde, Büyücüler Loncasındaki bağlantılarım da ödül hazinelerinde Odaklanma Komut Dosyalarının göründüğünü gördüklerinde oldukça şaşırdılar. Diğer maceracılara karşı mücadeleye katılan maceracılar, onları "Değerli" ödüllerle (böyle bir terim) buluyorlar ve araştırmalara girişenler de aynı şekilde bu değerli parşömen parçalarıyla ödüllendiriliyor.\n\nKaynakların ne kakofoni bir senfonisi! Daha fazla araştırma bekliyor! Harika!
+{{21337012-0-8212:}}Ejderhanın standartlarını karşılayan bir bilmeceyi oluştururken karşılaştığınız zorlukları diğerlerinden duydum. Tebrikler sana maceracı! Çabalarınızın Tamriel'deki büyülü güçlerde gelgit değişimleriyle sonuçlanacağına sizi temin ederim. Ejderhanın gücünün aşılanması, Scholarium'un arka koridorlarında dolaşırken birkaç yeni Signature Scriptleri bulmamı sağladı.\n\nBu arada, Büyücüler Loncasındaki bağlantılarım, tüm dünyadaki kötü şöhretli güçlü canavarları yendikleri için ödüllendirilen önbelleklerde Signature Scriptlerinin göründüğünü fark etti. topraklarının yanı sıra Cyrodiil'deki Üç Sancak Savaşına katılmak için. Savaşçılar Loncası'ndaki ahmak gruplarımız bile görünüşe göre ödüllerinde özel senaryoların göründüğünü görmüşler, ancak mistik tasarımda bu kadar ustaca bir şeyin tura veya tura nasıl çıkabildiğini anlayamıyorum.\n\nSon olarak sizi uyarmalıyım ki Başmagister Vanus Galerion çabalarınızı kendisi fark etti. Kıtanın dört bir yanındaki lonca salonlarında araştırma amacıyla kullanıma sunulmak üzere çeşitli tarzlarda bir dizi senaryoya maddi destek sağladı. Ayrıntılar için lütfen ustalarımıza iletilen el ilanını inceleyin.\n\nÇok mutluyuz! İyi işler yapmaya devam edin!
+{{21337012-0-8211:}}Ben asla! Sen Grifon'un kanadını tamamlama sürecindeyken dükkanıma döndüğümde o Fox yaratığının mağazalarımda dolaştığını gördüm! Zavallı Caal anlamsız sözler söylüyor ve hırlıyordu, kendini kaybetmişti! Onu kovdum ama konuşmaya başladığında çok etkileyiciydi. Bütün günlerim boyunca bu kadar sevimli bir yaratıkla hiç uğraşmadığımı söylemeliyim. Ancak Caal hâlâ şüpheci olmaya devam ediyor.\n\nKonu dışına çıkıyorum! Gryphon ile çalışmanızın en bariz sonucu, Scholarium'u artık her türlü potansiyel tehdide karşı koruyan harika animasyonlu zırh yapılarıdır. Bu arada Gryphon'ların gücünün aşılanması Tamriel'de yeni ley hattı faaliyetiyle sonuçlandı. Scholarium'da incelemeniz için hazır çok sayıda Odaklanma Scriptleri buldum. \n\nAynı şekilde, Büyücüler Loncasındaki bağlantılarım da ödül hazinelerinde Focus Script'lerinin göründüğünü gördüklerinde oldukça şaşırdılar. Diğer maceracılara karşı mücadeleye katılan maceracılar, onları "Değerli" ödüllerle (böyle bir terim) buluyorlar ve araştırmalara girişenler de aynı şekilde bu değerli parşömen parçalarıyla ödüllendiriliyor.\n\nKaynakların ne kakofoni bir senfonisi! Daha fazla araştırma bekliyor! Harika!
 {{21337012-0-8017:}}4. Hafta\n\nMürettebat bu ormanın perili olduğuna inanıyor. \n\nBuradaki hayvanlar ticaretimizin gürültüsünden çekinmiyor. Aslında, güvelerin fenere çekilmesi gibi bize doğru çekildiklerini düşünüyorum. Belki de Orman Elfleri ve onların büyüsü etrafında yaşamış oldukları için cesurdurlar. Yine de testere bıçağında dördüncü bir sincap bulduk. Burada derin bir yanlışlık olabilir. \n\nMürettebatın bir kısmı kaçtı. Nehrin yukarısında daha güvenli bir çalışma için ayrıldılar. Çok fazla şikayet edemem. Dışarı çıkmadan önce bana bunu söyleme nezaketini gösterdiler ve mürettebatın geri kalanı da üretimimizin yavaşlamadığından emin olmak için harekete geçti. Buradaki ağaçlar hediyedir. \n\nBen servetimi kazanacağım Lepida. O yüzden benden şüphe etme.\n\n<Sayfanın geri kalanı yırtılmış.>
 {{21337012-0-8016:}}1. Hafta\n\nHaldain Oduncu Kampı başarılı bir girişim, bunu iliklerime kadar hissedebiliyorum! \n\nBurada ahşap mükemmel ve rekabet düşük. Her zamanki gibi ağaç kesmeye başlamak için iyi bir yer seçtim. Üretim yüksek, buradaki ağaçlar çok hızlı büyüdüğü için ahşabın kalitesi eşsiz. İçlerinde neredeyse hiç düğüm veya halka yok. Seçtiğim ekip işini biliyor. Av eti ve ormandaki meyvelerle iyi besleniyoruz.\n\nYakında kendi aletlerimizi satın alabileceğiz ve West Weald Legion'dan ödünç aldığımız paketleri iade edebileceğiz.\n\nLepida ormanın tehlikeli olduğunu düşünüyor ama bunlar ilk birkaç gün onun yanıldığını kanıtlar. Hiçbir canavarla karşılaşmadık ya da açlıktan ölmek üzere olan bir haydut tarafından tehdit edilmedik. Kutsanmış olduğumuzu söyleyecek kadar ileri gitmeyeceğim ama bu iyi şans için bu gece Tanrılara şükran olarak dua edebilirim.\n\n<Bu sayfanın geri kalanı parçalanmış ve yırtılmış.>
 {{21337012-0-8014:}}İlk Tohum\nKaln: 2 altın\nEutropia Drusus: 1 altın\nJobaurr: 3 altın\nMach-Nassa: 5 altın\n\nRain's Hand\nKaln: 7 altın\nLouic Rephanie: 2 altın\nArnora Tullius: 14 altın\nJobaurr: 5 altın (hemen ödenmesi istenir)\nFelen Salas: 20 altın!\n\nİkinci Tohum\nTererume: 2 altın\nÇimli Standlar: 3 altın\nFlanelin: 5 altın\nJobaurr: 11 altın (merhum) (aileyi bul, belki onlardan borç tahsil edebilirim)
@@ -7748,9 +7748,9 @@
 {{12529189-0-4071:}}Çift Kullanımlı Çırak
 {{12529189-0-3999:}}Son Teknoloji Beceri Stilisti
 {{12529189-0-3998:}}Affix Scriptleri Ustalığı
-{{12529189-0-3997:}}İmza Scriptleri Ustalığı
+{{12529189-0-3997:}}Signature Scriptleri Ustalığı
 {{12529189-0-3996:}}Focus Script Ustalığı
-{{12529189-0-3995:}}Klas Sahibi Bir İmza
+{{12529189-0-3995:}}Sınıflı bir Signature
 {{12529189-0-3994:}}Başbüyücü'den hediyeler
 {{12529189-0-3993:}}Ulfsild'in Çırağı
 {{12529189-0-3992:}}Kalem Kılıçtan Keskindir
@@ -8094,10 +8094,10 @@
 {{188155806-0-3998:}}Aşağıda listelenen Affix scriptlerinin her birini öğrenin. Affix Scriptleri pek çok yerde bulunabilir, ancak öncelikle günlük Dünya Etkinliği ödüllerinden, günlük Imperial City ödüllerinden ve günlük Undaunted görev ödüllerinden bulunabilir. Ayrıca Scholarium ve Infinite Archive'daki satıcılarda da mevcuttur.
 {{188155806-0-3997:}}Aşağıda listelenen Signature scriptlerinin her birini öğrenin. Signature Scriptleri pek çok yerde bulunabilir, ancak öncelikle günlük Dünya Boss ödüllerinden, günlük Cyrodiil ödülünden ve günlük Savaşçılar Loncası görev ödüllerinden bulunabilir. Ayrıca Scholarium ve Infinite Archive'daki satıcılarda da mevcuttur.
 {{188155806-0-3996:}}Aşağıda listelenen Focus scriptlerinin her birini öğrenin. Odaklanma Scriptleri pek çok yerde bulunabilir, ancak öncelikle günlük Delve ödüllerinden, Layıklar için PvP Ödüllerinden ve günlük Büyücüler Loncası görev ödüllerinden bulunabilir. Ayrıca Scholarium ve Infinite Archive'daki satıcılarda da mevcuttur.
-{{188155806-0-3995:}}50 Sınıf Script Parçasını birleştirerek Sınıf Ustalığı Signature Komut Dosyasını öğrenin. Sınıf Scriptleri Parçalarını Denemeler, Zindanlar, Arenalar, PvP ve Usta Yazıları tamamlanarak verilen ödüllerde bulabilirsiniz.
+{{188155806-0-3995:}}50 Sınıf Script Parçasını birleştirerek Sınıf Ustalığı Signature Script'ini öğrenin. Sınıf Scriptleri Parçalarını Denemeler, Zindanlar, Arenalar, PvP ve Usta Yazıları tamamlanarak verilen ödüllerde bulabilirsiniz.
 {{188155806-0-3994:}}Tamriel'in Büyücüler Loncası salonlarında arayarak aşağıda listelenen her komut dosyasını öğrenin.
-{{188155806-0-3993:}}"Yazmanın İkinci Çağı" ve "İndrik'in Kanadı" görevleri sırasında Karga ve Indrik tarafından sunulan komut dosyalarını öğrenin.
-{{188155806-0-3992:}}İlk Scholarium seferi sırasında sunulan tüm Odak, Signature ve Ekleme Komut Dosyalarını öğrenme yolculuğunda aşağıda listelenen başarıları tamamlayın.
+{{188155806-0-3993:}}"Yazmanın İkinci Çağı" ve "İndrik'in Kanadı" görevleri sırasında Karga ve Indrik tarafından sunulan Scriptleri öğrenin.
+{{188155806-0-3992:}}İlk Scholarium seferi sırasında sunulan tüm Focus, Signature ve Affix Script'leri öğrenme yolculuğunda aşağıda listelenen başarıları tamamlayın.
 {{188155806-0-3991:}}Karalamada kullanılan Parıldayan Mürekkebin 500'ünü elde edin. Luminary Indrik Mührünün kilidini açtıktan sonra, Luminous Ink nadiren düşmanları yenerek bulunabilir. Işıklı Ağ Mührünün kilidini açtıktan sonra, Işıltılı Mürekkep, hasat düğümlerinden toplanırken nadiren bulunabilir.
 {{188155806-0-3990:}}Karalamada kullanılan Parıldayan Mürekkebin 50 tanesini edinin. Luminary Indrik Mührünün kilidini açtıktan sonra, Luminous Ink nadiren düşmanları yenerek bulunabilir. Işıklı Ağ Mührünün kilidini açtıktan sonra, Işıltılı Mürekkep, hasat düğümlerinden toplanırken nadiren bulunabilir.
 {{188155806-0-4073:}}Yay Silahı beceri hattında Rütbe 25'e ulaşın.
@@ -8284,7 +8284,7 @@
 {{125518133-0-850:}}Senaryo Yazma 2. Hafta
 {{42041397-0-112:}}West Weald Göktaşları
 {{249673710-0-59:}}Büyücü Loncası ile ilgili öğelerden oluşan gizemli bir koleksiyon!\n\nÖdül oranları hakkındaki bilgileri görüntülemek için Yardım > Eğitimler > Taç Mağazası > Taç Kasaları'nı açın.\n\n|cFFFFFFEn az dört ödül garantilidir.|r
-{{108533454-0-34389:}}Kazmak
+{{108533454-0-34389:}}Kaz
 {{108533454-0-32935:}}Kullan
 {{108533454-0-32936:}}Kullan
 {{108533454-0-32937:}}Tutuşuyor…
@@ -8329,7 +8329,7 @@
 {{108533454-0-33103:}}Aranıyor…
 {{108533454-0-33106:}}Tahrip etmek
 {{108533454-0-33109:}}Tahrip etmek
-{{108533454-0-33860:}}Dökün
+{{108533454-0-33860:}}Dök
 {{108533454-0-34709:}}Açılıyor…
 {{108533454-0-34125:}}Al
 {{108533454-0-34124:}}Yerleştiriyor…
@@ -8349,7 +8349,7 @@
 {{108533454-0-33181:}}Yerleştir
 {{108533454-0-33185:}}Kanal
 {{108533454-0-33983:}}Kullanılıyor…
-{{108533454-0-33945:}}Dökün
+{{108533454-0-33945:}}Dök
 {{108533454-0-34495:}}Açılıyor…
 {{108533454-0-34382:}}Açılıyor…
 {{108533454-0-34133:}}0
@@ -8390,7 +8390,7 @@
 {{108533454-0-34464:}}Açılıyor...
 {{108533454-0-34466:}}Açılıyor...
 {{108533454-0-34462:}}Açılıyor...
-{{108533454-0-33858:}}Dökün
+{{108533454-0-33858:}}Dök
 {{108533454-0-33586:}}Kullan
 {{108533454-0-33587:}}Kullan
 {{108533454-0-34617:}}Açılıyor…
@@ -8412,7 +8412,7 @@
 {{108533454-0-34728:}}Açılıyor…
 {{108533454-0-34057:}}Çalmak…
 {{108533454-0-33993:}}Alınıyor…
-{{108533454-0-34170:}}Hak talebinde bulunuluyor
+{{108533454-0-34170:}}Alınıyor
 {{108533454-0-33506:}}İncele
 {{108533454-0-33975:}}İncele
 {{108533454-0-33560:}}İncele
@@ -8441,7 +8441,7 @@
 {{86601028-0-615:}}Mirrormoor Mosaic'in dışında çok uzun süre oyalanmak tehlikelidir ve aşırı <<1>> üretir.
 {{86601028-0-612:}}Aynaların, savaştığınız düşmanların zıt rengiyle değiştirildiğinden emin olun.
 {{86601028-0-610:}}Hayalet Işıklar yolu gösteriyor
-{{86601028-0-611:}}Ölçek
+{{86601028-0-611:}}Test
 {{86601028-0-605:}}<<1>> sönmeden önce tüm aynaları çevirerek hasarını azaltın ve hayatta kalın
 {{86601028-0-604:}}Dark Shards ve Darkcasters'ın saldırıları size Creeping Dark uygulayacaktır. Işıltı kaynakları onu iyileştirecektir.
 {{86601028-0-606:}}Orfik Parçalanmış Parçanın, Şok Dalgası saldırısıyla Kader Sütunu'nu parçalaması gerekiyor.
@@ -8472,16 +8472,16 @@
 {{68561141-0-558:}}Armatürlerin Mühürleri
 {{68561141-0-551:}}Lucent Kalesi
 {{68561141-0-550:}}Genel Bakış
-{{68561141-0-553:}}Beceriler Nasıl Yazılır
+{{68561141-0-553:}}Beceriler Nasıl Scribe Edilir
 {{68561141-0-552:}}Mirrormoor Mozaikleri
-{{68561141-0-555:}}Kodlar
+{{68561141-0-555:}}Scriptler
 {{68561141-0-554:}}Grimoire'lar
 {{68561141-0-549:}}Altın Yolu Erişimi
 {{217086453-0-478:}}Yeni Sahabeler Geldi
 {{217086453-0-476:}}Shadow Over Morrowind Yıl Boyu Macera
 {{217086453-0-477:}}Sanity'nin Sınırı
-{{217086453-0-474:}}|cff6600AVAILABLE:|r Yeni Altın Yolu Bölümü
-{{217086453-0-475:}}Telvanni Yarımadası ve Apocrypha'yı keşfedin
+{{217086453-0-474:}}|cff6600MEVCUT:|r Yeni Altın Yolu Bölümü
+{{217086453-0-475:}}Telvanni Peninsula & Apocrypha'yı keşfedin
 {{188095652-0-121438:}}<Ayrıl>
 {{90331524-6-40:}}Bir Crux oluşturun.
 {{90331524-3-86:}}Hedefiniz %50 Sağlığın üzerindeyse <<1>> Büyü ve Dayanıklılığı yenileyin. Hedefiniz %50 Sağlıkta veya altındaysa Kritik Şansınızı <<3>> için <<2>> artırın.
@@ -8623,7 +8623,7 @@
 {{51188660-3-1618:}}<<1>>
 {{51188660-2-1642:}}<<1>>
 {{51188660-1-1642:}}<<1>>
-{{72660740-0-246:}}Düşmanları <<1>> boyunca Küçük Belirsizlikle etkileyerek onların Silah ve Büyü Kritik puanlarını <<2>> azaltır.
+{{72660740-0-246:}}Düşmanları <<1>> boyunca Minor Uncertainty ile etkileyerek onların Silah ve Büyü Kritik puanlarını <<2>> azaltır.
 {{72660740-0-270:}}<<2>> için <<1>> ile düşmanları etkiler, alınan hasarı <<3>> arttırır.
 {{72660740-0-271:}}<<2>> için <<1>> ile düşmanlara musallat olur, Silah ve Büyü Hasarını <<3>> azaltır.
 {{72660740-0-268:}}Hareket Hızını <<3>> artırarak, <<2>> karşılığında sana <<1>> verir.
@@ -8639,7 +8639,7 @@
 {{72660740-0-39:}}<<1>>, <<2>>, <<3>> ve <<4>> ile düşmanları etkiler.
 {{72660740-0-38:}}<<1>> boyunca düşmanları hareketsiz bırakır.
 {{72660740-0-167:}}<<2>> karşılığında <<1>> verir, Silah ve Büyü Hasarını <<3>> arttırır.
-{{72660740-0-146:}}Bağlantıdaki düşmanlara <<1>> Küçük Kırılganlık vererek, onların <<2>> tarafından alınan Kritik Hasarını arttırır.
+{{72660740-0-146:}}Bağlantıdaki düşmanlara <<1>> Minor Brittle vererek, onların <<2>> tarafından alınan Kritik Hasarını arttırır.
 {{72660740-0-147:}}<<2>> bağlantısındaki düşmanlara <<1>> etki ederek Fiziksel ve Büyü Direncini <<3>> azaltır.
 {{72660740-0-144:}}<<3>> bağlantısındaki müttefiklere ve müttefiklere <<1>> ve <<2>> verir, Magicka ve Dayanıklılık Yenilemesini <<4>> artırır.
 {{72660740-0-145:}}<<2>> için bağlantıdaki düşmanlara <<1>> saldırır, <<3>> tarafından verilen hasarı azaltır.
@@ -8651,25 +8651,25 @@
 {{72660740-0-208:}}Düşmanlara <<2>> yerine <<1>> verir.
 {{72660740-0-130:}}Müttefik oyuncunun veya yoldaşların ve bağlantıdaki diğer müttefik oyuncuların veya yoldaşların size aldığı hasarın |cffffff10|r%'sini aktarır.
 {{72660740-0-9:}}Düşmanlara <<2>> yerine <<1>> verir.
-{{72660740-0-8:}}Size ve müttefiklerinize <<1>> hasarı <<2>> kadar emen bir hasar kalkanı verir. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
-{{72660740-0-226:}}Her taramada düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-5:}}Düşmanlara <<1>> verir ve onları geri savurur <<2>> ve onları <<3>> süreyle sersemletir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-4:}}Düşmanlara <<1>> verir ve <<2>> boyunca size saldıracak ilk düşmanla alay eder. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-7:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
-{{72660740-0-6:}}Düşmanlara <<1>> saldırır ve <<2>> için onlardan korkar. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-1:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-204:}}Düşmanları geri savurur <<1>>. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-3:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-2:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-8:}}Size ve müttefiklerinize <<1>> hasarı <<2>> kadar emen bir hasar kalkanı verir. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
+{{72660740-0-226:}}Her taramada düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-5:}}Düşmanlara <<1>> verir ve onları geri savurur <<2>> ve onları <<3>> süreyle sersemletir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-4:}}Düşmanlara <<1>> verir ve <<2>> boyunca size saldıracak ilk düşmanla alay eder. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-7:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
+{{72660740-0-6:}}Düşmanlara <<1>> saldırır ve <<2>> için onlardan korkar. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-1:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-204:}}Düşmanları geri savurur <<1>>. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-3:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-2:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-272:}}<<2>> karşılığında düşmanları <<1>> ile etkiler ve Maksimum Sağlığı <<3>> azaltır.
 {{72660740-0-86:}}Sınıfınıza bağlı olarak bir efekt verir.
 {{72660740-0-87:}}<<2>> üzerindeki <<1>> Sağlığı iyileştirir.
 {{72660740-0-84:}}Düşmana <<1>> yerine <<2>> verir.
 {{72660740-0-85:}}Düşmanın Maksimum Sağlığının |cffffff8|r% kadarını Unutma Hasarı olarak vermek için bir Ruh Taşı tüketir. Sağlığı %<<2>>'nin altında olan düşmanlara <<1>>'ye kadar daha fazla hasar verir ve <<3>> bir kez meydana gelebilir.
-{{72660740-0-82:}}Sizi veya bir müttefiki <<1>> Sağlık açısından iyileştirir. Yararlı İmza ve Ek komut dosyaları siz veya bir müttefikiniz için geçerlidir.
-{{72660740-0-83:}}Size veya bir müttefikinize, <<2>> boyunca <<1>> hasarı emen, Maksimum Sağlığınızın veya Magicka'nızın yüksek olanını azaltan ve Maksimum Sağlığınızın |cffffff55|r%'si ile sınırlanan bir hasar kalkanı verir.\n\nYararlı İmza ve Ek komut dosyaları sizin veya bir müttefikiniz için geçerlidir.
-{{72660740-0-80:}}Bir düşmana <<1>> saldırır, onu kendinize çeker ve eğer halihazırda alay edilmediyse <<2>> ile alay eder. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.\n\nBu saldırı yansıtılamaz.
-{{72660740-0-81:}}Bir düşmana <<1>> verir ve <<2>>'yi sersemletir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-82:}}Sizi veya bir müttefiki <<1>> Sağlık açısından iyileştirir. Yararlı Signature ve Affix Scriptleri size veya bir müttefikinize uygulanır.
+{{72660740-0-83:}}Size veya bir müttefikinize, <<2>> boyunca <<1>> hasarı emen, Maksimum Sağlığınızın veya Magicka'nızın yüksek olanını azaltan ve Maksimum Sağlığınızın |cffffff55|r%'si ile sınırlanan bir hasar kalkanı verir.\n\nYararlı Signature ve Affix Scriptleri size veya bir müttefikinize uygulanır.
+{{72660740-0-80:}}Bir düşmana <<1>> saldırır, onu kendinize çeker ve eğer halihazırda alay edilmediyse <<2>> ile alay eder. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.\n\nBu saldırı yansıtılamaz.
+{{72660740-0-81:}}Bir düşmana <<1>> verir ve <<2>>'yi sersemletir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-88:}}<<1>> Magicka'yı ve <<2>> Dayanıklılığı geri yükler.
 {{72660740-0-89:}}Her <<2>>'e kadar <<1>> Ultimate oluşturmak için bir Ruh Taşı tüketir.
 {{72660740-0-137:}}Bağlantıyı terk ettiklerinde müttefike ve diğer müttefiklere <<4>> boyunca her <<3>> <<1>> Magicka ve <<2>> Dayanıklılığı geri yükler.
@@ -8753,26 +8753,26 @@
 {{72660740-0-101:}}Bir düşmana <<1>> verir.
 {{72660740-0-106:}}Bir düşmana <<1>> verir ve onu <<2>> süreyle hareketsiz bırakır.
 {{72660740-0-107:}}Düşmana <<1>> yerine <<2>> verir. Bu etki silah büyüsünüzü tetikleyebilir.
-{{72660740-0-79:}}Bir düşmana <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-78:}}Bir düşmana <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-77:}}Bir düşmana <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-79:}}Bir düşmana <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-78:}}Bir düşmana <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-77:}}Bir düşmana <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-108:}}<<1>> verir ve düşmanı Bastırır.
 {{72660740-0-74:}}<<2>> karşılığında size <<1>> verir, alan saldırılarından kaynaklanan hasarı <<3>> azaltır.
 {{72660740-0-73:}}<<3>> karşılığında size <<1>> ve <<2>> verir, Silah ve Büyü Kritik derecelendirmesini <<4>> artırır.
 {{72660740-0-72:}}<<2>> karşılığında <<1>> verir ve Kritik Hasarı <<3>> arttırır.
 {{72660740-0-71:}}<<2>> karşılığında <<1>> verir ve Hareket Hızını <<3>> arttırır.
 {{72660740-0-70:}}Düşmanları <<2>> için <<1>> ile etkiler, saldırganları her <<4>> <<3>> Sağlık kadar iyileştirir.
-{{72660740-0-227:}}Her taramada düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-227:}}Her taramada düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-212:}}<<1>> için yerde Affix betiğini bir alana uygulayan bir güç rünü oluşturur.
-{{72660740-0-225:}}Her taramada düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-225:}}Her taramada düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-222:}}<<2>> için <<1>> ile düşmanları etkiler, her <<4>> saldırganlara <<3>> Magicka'yı geri yükler.
 {{72660740-0-221:}}<<2>> için <<1>>'i etkiler, Fiziksel ve Büyü Direncini <<3>> azaltır.
 {{72660740-0-190:}}<<1>> için düşmanların Dengesini Kapatır.
 {{72660740-0-215:}}<<2>> karşılığında <<1>> verir, Fiziksel Direnci ve Büyü Direncini <<3>> arttırır.
 {{72660740-0-210:}}Sınıfınıza bağlı olarak bir efekt verir.
-{{72660740-0-229:}}İlk taramada düşmanların Hareket Hızını <<2>> boyunca <<1>> azaltır, ikinci taramada <<3>> boyunca hareketsizleştirir ve üçüncü taramada <<4>> boyunca sersemletir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-228:}}Her süpürmede <<1>> düşmanları geri savurur. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-231:}}Her taramada size ve müttefiklerinize <<1>> Ultimate kazandırır. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
+{{72660740-0-229:}}İlk taramada düşmanların Hareket Hızını <<2>> boyunca <<1>> azaltır, ikinci taramada <<3>> boyunca hareketsizleştirir ve üçüncü taramada <<4>> boyunca sersemletir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-228:}}Her süpürmede <<1>> düşmanları geri savurur. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-231:}}Her taramada size ve müttefiklerinize <<1>> Ultimate kazandırır. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
 {{72660740-0-244:}}Her taramada düşmanlara <<2>> süreyle <<1>> etkisi verir ve Maksimum Sağlığı <<3>> azaltır.
 {{72660740-0-211:}}<<2>> üzerindeki <<1>> Sağlığı iyileştirir.
 {{72660740-0-241:}}Her süpürmede <<2>> için <<1>> verir ve <<3>> tarafından alınan iyileştirmeyi artırır.
@@ -8799,7 +8799,7 @@
 {{72660740-0-47:}}Düşmanları <<2>> için <<1>> ile etkiler, saldırganları her <<4>> <<3>> Sağlık kadar iyileştirir.
 {{72660740-0-44:}}Bir düşmana vurulursa, <<3>> karşılığında size <<1>> ve <<2>> verir, Silah ve Büyü Hasarını <<4>> artırır.
 {{72660740-0-45:}}<<2>> için <<1>> ile düşmanlara musallat olur, Silah ve Büyü Hasarını <<3>> azaltır.
-{{72660740-0-230:}}Her taramada sizi ve müttefiklerinizi <<1>> Sağlık açısından iyileştirir. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
+{{72660740-0-230:}}Her taramada sizi ve müttefiklerinizi <<1>> Sağlık açısından iyileştirir. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
 {{72660740-0-119:}}<<2>> için düşmana <<1>> ile saldırır, Kritik Hasarı <<3>> azaltır.
 {{72660740-0-232:}}Düşmanlara <<2>> yerine <<1>> verir.
 {{72660740-0-233:}}<<2>> boyunca düşmanların Hareket Hızını <<1>> azaltır.
@@ -8816,18 +8816,18 @@
 {{72660740-0-253:}}Tüm düşmanlara <<1>> verir ve onları <<2>> geri savurur.
 {{72660740-0-250:}}Tüm düşmanlara <<1>> verir.
 {{72660740-0-251:}}Tüm düşmanlara <<1>> verir.
-{{72660740-0-207:}}Size ve müttefiklerinize, <<2>> boyunca <<1>> hasarı emen, Maksimum Sağlığınız veya Magicka'nızın yüksek olanını azaltan ve Maksimum Sağlığınızın |cffffff55|r%'si ile sınırlanan bir hasar kalkanı verir.\n\ n Yararlı İmza ve Ek komut dosyaları siz veya bir müttefikiniz için geçerlidir.
+{{72660740-0-207:}}Size ve müttefiklerinize, <<2>> boyunca <<1>> hasarı emen, Maksimum Sağlığınız veya Magicka'nızın yüksek olanını azaltan ve Maksimum Sağlığınızın |cffffff55|r%'si ile sınırlanan bir hasar kalkanı verir.\n\ n Yararlı Signature ve Affix Scriptleri size veya bir müttefikinize uygulanır.
 {{72660740-0-258:}}<<1>> boyunca arkanızda bir caltrop tarlası bırakın, her saniye <<2>> hasar verir ve düşmanın Hareket Hızını <<3>> azaltır.
 {{72660740-0-259:}}<<1>> boyunca düşmanları hareketsiz bırakır.
-{{72660740-0-55:}}Düşmanlara <<1>> verir ve onlardan birini <<2>> karşılığında size saldırması için kışkırtır. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-54:}}Düşmanlara <<1>> verir ve onları <<2>> süreyle hareketsiz bırakır. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-57:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-56:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
+{{72660740-0-55:}}Düşmanlara <<1>> verir ve onlardan birini <<2>> karşılığında size saldırması için kışkırtır. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-54:}}Düşmanlara <<1>> verir ve onları <<2>> süreyle hareketsiz bırakır. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-57:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-56:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
 {{72660740-0-50:}}<<2>> için <<1>> ile düşmanları etkiler, her <<4>> saldırganlara <<3>> Magicka'yı geri yükler.
-{{72660740-0-53:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-52:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-53:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-52:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-59:}}Düşmanlara <<2>> yerine <<1>> verir.
-{{72660740-0-58:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-58:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-176:}}Dönüşte bir düşmana <<1>> ve aranızdaki düşmanlara <<2>> verir.
 {{72660740-0-128:}}Her <<3>> bağlantıdaki müttefike ve diğer müttefiklere <<1>> Magicka ve <<2>> Dayanıklılık kazandırır.
 {{72660740-0-129:}}Bağlantıdaki müttefike ve diğer müttefiklere her <<2>> <<1>> hasarı emen bir hasar kalkanı verir.
@@ -8838,18 +8838,18 @@
 {{72660740-0-125:}}Müttefiklere, saldırganlara <<1>> veren, müttefik istatistiklerini azaltan büyülü dikenler verir.
 {{72660740-0-126:}}Bağlantıdaki müttefike ve diğer müttefiklere <<1>> için tuzaklara ve hareketsiz kılmalara karşı bağışıklık kazandırır ve kaldırır.
 {{72660740-0-127:}}Bağlantıdaki müttefiki ve diğer müttefikleri <<1>> Sağlık başına <<2>> iyileştirir.
-{{72660740-0-201:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-200:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-203:}}Düşmanlara <<1>> verir ve onlardan birini <<2>> karşılığında size saldırması için kışkırtır. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-201:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-200:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-203:}}Düşmanlara <<1>> verir ve onlardan birini <<2>> karşılığında size saldırması için kışkırtır. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-263:}}Mevcut Sürekli Saldırı pasif yetenek etkinizin süresine |cffffff30|r saniye ekler. Bu etki her <<1>>'de bir ortaya çıkabilir.
 {{72660740-0-105:}}Bir düşmana <<1>> saldırır, onu kendinize çeker ve henüz alay edilmediyse <<2>> için alay eder.\n\nBu saldırı yansıtılamaz.
 {{72660740-0-261:}}Sınıfınıza bağlı olarak bir efekt verir.
-{{72660740-0-202:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-202:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-267:}}<<3>> karşılığında size <<1>> ve <<2>> verir, Silah ve Büyü Kritik derecelendirmesini <<4>> artırır.
 {{72660740-0-266:}}<<1>> için düşmanların Dengesini Kapatır.
 {{72660740-0-265:}}Bu yeteneğin dışarıya doğru ilerledikçe verdiği hasarı her <<2>> <<1>> artırarak artırır.
 {{72660740-0-165:}}<<2>> karşılığında <<1>> verir ve Hareket Hızını <<3>> arttırır.
-{{72660740-0-205:}}Düşmanlara <<1>> verir ve onları <<2>> süreyle hareketsiz bırakır. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-205:}}Düşmanlara <<1>> verir ve onları <<2>> süreyle hareketsiz bırakır. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-269:}}<<2>> karşılığında size <<1>> verir ve her |cffffff1.5|r saniyede bir <<3>> Ultimate üretir.
 {{72660740-0-164:}}Yetenek kullanan düşmanların sözünü keser.
 {{72660740-0-166:}}<<2>> karşılığında <<1>> verir, Fiziksel Direnci ve Büyü Direncini <<3>> arttırır.
@@ -8863,21 +8863,21 @@
 {{72660740-0-27:}}<<1>> boyunca size saldırmaları için düşmanları kışkırtır.
 {{72660740-0-28:}}Düşmanlara <<1>> verir.
 {{72660740-0-29:}}Düşmanlara <<1>> verir.
-{{72660740-0-206:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
+{{72660740-0-206:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
 {{72660740-0-161:}}<<2>> üzerindeki <<1>> Sağlığı iyileştirir.
 {{72660740-0-160:}}Sınıfınıza bağlı olarak bir efekt verir.
 {{72660740-0-162:}}<<1>>'e kadar negatif etkiyi ortadan kaldırır.
 {{72660740-0-163:}}Her <<2>>'e kadar <<1>> Ultimate oluşturmak için bir Ruh Taşı tüketir.
 {{72660740-0-159:}}Düşmanın Maksimum Sağlığının |cffffff8|r% kadarını Oblivion Hasarı olarak vermek için bir Ruh Taşı tüketir, en fazla <<1>>. Sağlığı %<<3>> altındaki düşmanlara <<2>> kadar daha fazla hasar verir ve her <<4>> kez gerçekleşebilir.
 {{72660740-0-158:}}<<2>> boyunca düşmanların Hareket Hızını <<1>> azaltır.
-{{72660740-0-155:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı İmza ve Ek komut dosyaları siz ve müttefikleriniz için geçerlidir.
-{{72660740-0-154:}}<<1>> boyunca düşmanları hareketsiz bırakır. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-155:}}<<1>> Sağlık açısından sizi ve müttefiklerinizi iyileştirir. Yararlı Signature ve Affix Scriptleri size ve müttefiklerinize uygulanır.
+{{72660740-0-154:}}<<1>> boyunca düşmanları hareketsiz bırakır. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{72660740-0-157:}}Düşmanlara <<2>> yerine <<1>> verir.
-{{72660740-0-156:}}Size ve müttefiklerinize, <<2>> boyunca <<1>> hasarı emen, Maksimum Sağlığınızın veya Magicka'nızın yüksek olanını azaltan ve Maksimum Sağlığınızın |cffffff55|r%'si ile sınırlanan bir hasar kalkanı verir.\n\nYararlı İmza ve Ek komut dosyaları sizin veya bir müttefikiniz için geçerlidir.
-{{72660740-0-151:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-150:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-153:}}<<1>>'den sonra, 8 metre yakınınızdaki düşmanları kendinize çekin. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
-{{72660740-0-152:}}Düşmanlara <<1>> verir. Yararlı İmza ve Ek komut dosyaları yalnızca sizin için geçerlidir.
+{{72660740-0-156:}}Size ve müttefiklerinize, <<2>> boyunca <<1>> hasarı emen, Maksimum Sağlığınızın veya Magicka'nızın yüksek olanını azaltan ve Maksimum Sağlığınızın |cffffff55|r%'si ile sınırlanan bir hasar kalkanı verir.\n\nYararlı Signature ve Affix Scriptleri size veya bir müttefikinize uygulanır.
+{{72660740-0-151:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-150:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-153:}}<<1>>'den sonra, 8 metre yakınınızdaki düşmanları kendinize çekin. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
+{{72660740-0-152:}}Düşmanlara <<1>> verir. Yararlı Signature ve Affix Scriptleri yalnızca size uygulanır.
 {{63937076-0-753:}}İLK BÜYÜSÜNÜZÜ NASIL YAPACAĞINIZ KONUSUNDA BİR KUŞ TARAFINDAN YÖNLENDİRİLİRSİNİZ.
 {{63937076-0-809:}}Kilit Başarıyla Açıldı
 {{224768149-0-182:}}Kader Mühürleyen
@@ -8935,10 +8935,10 @@
 {{132143172-0-217637:}}İçi dolu bir meşale yaratın ve onun gücüyle önünüzdeki alanı üç kez süpürün.
 {{132143172-0-208043:}}Hedefin silahını ve büyü gücünü azaltır.
 {{132143172-0-217190:}}Yakındaki düşmanları <<1>> süreyle hareketsiz bırakır ve <<2>> verir. Bir müttefik <<3>> Sinerjisini etkinleştirerek pençelerin içinde tutulan düşmanlara hasar verebilir.
-{{132143172-0-200332:}}· Düşmana <<1>> saldırır\n· <<3>> için <<2>> hedefini tuzağa düşürür
-{{132143172-0-200336:}}· Düşmana <<1>> saldırır\n· <<3>> için <<2>> hedefini tuzağa düşürür
-{{132143172-0-200334:}}· Düşmana <<1>> saldırır\n· <<3>> için <<2>> hedefini tuzağa düşürür
-{{132143172-0-200335:}}· Düşmana <<1>> saldırır\n· <<3>> için <<2>> hedefini tuzağa düşürür
+{{132143172-0-200332:}}· Düşmana <<1>> verir\n· <<3>> için <<2>> hedefini tuzağa düşürür
+{{132143172-0-200336:}}· Düşmana <<1>> verir\n· <<3>> için <<2>> hedefini tuzağa düşürür
+{{132143172-0-200334:}}· Düşmana <<1>> verir\n· <<3>> için <<2>> hedefini tuzağa düşürür
+{{132143172-0-200335:}}· Düşmana <<1>> verir\n· <<3>> için <<2>> hedefini tuzağa düşürür
 {{132143172-0-219599:}}Bir saldırıyı engellemek, <<1>> tarafından <<2>> boyunca Alınan Hasarınızı azaltır.
 {{132143172-0-202766:}}Gölge Görüntüye ışınlanmak için etkinleştirin
 {{132143172-0-223292:}}İçi dolu bir meşale yaratın ve onun gücüyle önünüzdeki alanı üç kez süpürün.
@@ -8954,7 +8954,7 @@
 {{132143172-0-219572:}}Bir canavarı öldürdüğünüzde, canavar kan büyüsüyle patlar ve 6 metre içindeki düşmanlara Maksimum Sağlıklarının <<1>> kadarını Kanama Hasarı olarak |cffffff24096|r Kanama Hasarına kadar verir. Bu hasar kritik vuruş yapamaz. Bu etki her <<2>>'de bir ortaya çıkabilir.
 {{132143172-0-222613:}}Zincir Yıldırıma karşı savunmasızsınız!\n\nXoryn'in yıldırımı, zırhınızda Zincir Yıldırımın ikinci vuruşta daha yıkıcı olmasını sağlayan bir çatlak açtı.
 {{132143172-0-217808:}}Kalkanınızı düşmana fırlatın, o da size geri döner.
-{{132143172-0-218359:}}· Fırsatlar <<1>>
+{{132143172-0-218359:}}· <<1>> verir
 {{132143172-0-219404:}}Sağlığınız |cffffff50|r%'nin üzerindeyken <<1>> Durum Etkisi Şansı ekler. Sağlığınız |cffffff50|r% veya daha az olduğunda <<2>> Yapılan İyileştirmeyi ekler.
 {{132143172-0-222678:}}<<1>> için kendinizi Ulfsild'in büyülü rünleriyle aşılayın. Bu rünler, bedeli olan bir yetenek kullandığınızda tetiklenir ve etrafınızda bir büyü patlamasına neden olur.
 {{132143172-0-217178:}}Önünüzdeki bir koniyi parçalamak için silahınızı yerde sürükleyin.
@@ -9113,7 +9113,7 @@
 {{52183620-0-8348:}}Whitestrake Kargaşası sırasında Bag of Veteran's Glory'den alındı.
 {{52183620-0-12519:}}"Gryphon'un Kanadı" görevi tamamlanarak elde edilir.
 {{52183620-0-12516:}}"Beceri Stilisti: Büyük Şifa" başarısını tamamlayarak kazanılır.
-{{52183620-0-12511:}}"Sınıflı Bir İmza" başarısını tamamlayarak kazanılır.
+{{52183620-0-12511:}}"Sınıflı Bir Signature" başarısını tamamlayarak kazanılır.
 {{52183620-0-12512:}}"Mirrormoor Incursion Disruptor" başarısını tamamlayarak elde edilir.
 {{52183620-0-9752:}}Whitestrake Kargaşası sırasında Bag of Veteran's Glory'den alındı.
 {{52183620-0-9751:}}Whitestrake Kargaşası sırasında Bag of Veteran's Glory'den alındı.
@@ -9351,73 +9351,73 @@
 {{39619172-0-10344:}}Yemek
 {{39619172-0-10314:}}Yemek
 {{39619172-0-10386:}}Et
-{{236900164-0-67:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye, alınan kritik hasarı artıran bir zayıflatma olan Brittle'ı ekler.
-{{236900164-0-53:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, ağır saldırı hasarını artıran bir güçlendirme olan Empower'ı ekler.
-{{236900164-0-60:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, verilen hasarı azaltan bir zayıflatma olan Sakatlama'yı ekler.
-{{236900164-0-52:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye, artan silah ve büyü hasarını güçlendiren Vahşet ve Büyücülük ekler.
-{{236900164-0-55:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye silah ve büyü hasarını artıran bir güçlendirme olan Cesaret'i ekler.
-{{236900164-0-61:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye silah ve büyü hasarını azaltan bir zayıflatıcı olan Cowardice'i ekler.
-{{236900164-0-19:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye kaynak restorasyonu ekler.
-{{236900164-0-18:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye iyileştirme ekler.
-{{236900164-0-31:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye sınıf imzası geliştirmesi ekler.
-{{236900164-0-30:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye unutulma hasarı etkisi vermek için tüketen bir ruh taşı ekler.
-{{236900164-0-37:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye bir sonraki doğrudan hasar saldırısının saptırılmasını ekler.
-{{236900164-0-36:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye zayıflatıcı etkilerin kaldırılmasını ekler.
-{{236900164-0-35:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye yönelik hareketliliğinize iyileştirme ekler.
-{{236900164-0-34:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye kaynak restorasyonu ekler.
-{{236900164-0-10:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye çok hedefli bir vuruş ekler.
-{{236900164-0-13:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye geri tepme ekler.
-{{236900164-0-12:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye alay hareketi ekler.
-{{236900164-0-15:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye hareketsizleştirme etkisi ekler.
-{{236900164-0-14:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye çekicilik ekler.
-{{236900164-0-17:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye bir dispel ekler.
-{{236900164-0-16:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye sersemletme ekler.
-{{236900164-0-62:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye, kritik hasarı azaltan bir zayıflatma olan Enervation'ı ekler.
-{{236900164-0-39:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye nihai etki kazandırmak için tüketen bir ruh cevheri ekler.
-{{236900164-0-38:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye hasar azaltma ekler.
-{{236900164-0-59:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye, alınan hasarı artıran bir zayıflatıcı olan Güvenlik Açığı ekler.
-{{236900164-0-58:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye, kritik hasarı artıran bir güçlendirme olan Force'u ekler.
-{{236900164-0-57:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye Zeka ve Dayanıklılık ekler, artan büyü ve dayanıklılık iyileştirmesini güçlendirir.
-{{236900164-0-63:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye maksimum sağlığı azaltan bir zayıflatma olan Mangle'ı ekler.
-{{236900164-0-9:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye iyileştirme emilimi etkisi ekler.
-{{236900164-0-8:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye alev hasarı ekler.
-{{236900164-0-5:}}Bir büyü kitabına yazıldığında, belirtilen beceriye büyü hasarı ekler.
-{{236900164-0-4:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye kanama hasarı ekler.
-{{236900164-0-7:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye donma hasarı ekler.
-{{236900164-0-6:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye şok hasarı ekler.
-{{236900164-0-1:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye fiziksel hasar ekler.
-{{236900164-0-3:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye hastalık hasarı ekler.
-{{236900164-0-2:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye zehir hasarı ekler.
-{{236900164-0-20:}}Bir büyü kitabına yazıldığında, belirtilen beceriye bir hasar kalkanı ekler.
-{{236900164-0-70:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye geliştirilmiş buff ve debuff uygulamasını ekler.
-{{236900164-0-22:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye nihai nesil ekler.
-{{236900164-0-23:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye hasar azaltma ekler.
-{{236900164-0-24:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye zamanla hasar ekler.
-{{236900164-0-25:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye yavaşlama etkisi ekler.
-{{236900164-0-26:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye gelişmiş bash veya engelleme kullanımı ekler.
-{{236900164-0-27:}}Bir büyü kitabına yazıldığında, belirtilen beceriye verilen hasarın yüzdesi kadar bir iyileşme ekler.
-{{236900164-0-28:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye hareketsizleştirme etkisi ekler.
-{{236900164-0-29:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye durum efektlerinin gelişmiş kullanımını ekler.
-{{236900164-0-33:}}Bir büyü kitabına yazıldığında, belirtilen beceriye bir hasar kalkanı ekler.
-{{236900164-0-48:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, fiziksel ve büyü direncini artıran bir güçlendirme olan Azim'i ekler.
-{{236900164-0-49:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, alan etkilerinden kaynaklanan hasarı azaltan bir güçlendirme olan Kaçınma'yı ekler.
-{{236900164-0-68:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, silahın kritik hasarını azaltan bir zayıflatma olan Belirsizlik'i ekler.
-{{236900164-0-69:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye, saldırganlara magicka restorasyonu sağlayan bir zayıflatma olan Magickasteal'i ekler.
-{{236900164-0-32:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye zamanla iyileştirme ekler.
-{{236900164-0-42:}}Bir büyü kitabına yazıldığında, yetenek tanımlanmış bir becerinin etkisini sürdürdüğü için hasara bir artış ekler.
-{{236900164-0-65:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye, saldırganlara şifa veren bir zayıflatma olan Can Çalma'yı ekler.
-{{236900164-0-40:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye beceri serisi pasiflerinin geliştirilmiş işlevselliğini ekler.
-{{236900164-0-41:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye bir sonraki doğrudan hasar veren saldırı efektinizi iyileştirir.
-{{236900164-0-46:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye Vahşet ve Kehanet ekler, artan silah ve büyü kritik şansını güçlendirir.
-{{236900164-0-47:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, hareket hızını artıran bir güçlendirme olan Keşif'i ekler.
-{{236900164-0-44:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye dengesizlik etkisi ekler.
-{{236900164-0-45:}}Bir büyü kitabına yazıldığında, tanımlanmış bir beceriye kesinti etkisi ekler.
-{{236900164-0-54:}}Bir büyü kitabına yazıldığında, belirtilen beceriye, alınan hasarı azaltan bir güçlendirme olan Koruma'yı ekler.
-{{236900164-0-64:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, fiziksel ve büyü direncini azaltan bir zayıflatma olan Breach'i ekler.
-{{236900164-0-56:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, nihai nesli artıran bir güçlendirme olan Kahramanlık'ı ekler.
-{{236900164-0-51:}}Bir büyü kitabına yazıldığında, belirtilen beceriye, verilen hasarı artıran bir buff olan Berserk'i ekler.
-{{236900164-0-66:}}Bir büyü kitabına yazıldığında, belirlenmiş bir beceriye, alınan iyileşmeyi azaltan bir debuff olan Defile'ı ekler.
-{{236900164-0-50:}}Bir büyü kitabına yazıldığında, yazılı bir beceriye, alınan iyileşmeyi artıran bir güçlendirme olan Vitality'yi ekler.
+{{236900164-0-67:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, alınan kritik hasarı artıran bir zayıflatma olan Brittle'ı ekler.
+{{236900164-0-53:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, ağır saldırı hasarını artıran bir güçlendirme olan Empower'ı ekler.
+{{236900164-0-60:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, verilen hasarı azaltan bir zayıflatma olan Maim'i ekler.
+{{236900164-0-52:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, artan silah ve büyü hasarını güçlendiren Brutality ve Sorcery ekler.
+{{236900164-0-55:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe silah ve büyü hasarını artıran bir güçlendirme olan Courage'ı ekler.
+{{236900164-0-61:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe silah ve büyü hasarını azaltan bir zayıflatıcı olan Cowardice'i ekler.
+{{236900164-0-19:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe kaynak restorasyonu ekler.
+{{236900164-0-18:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe iyileştirme ekler.
+{{236900164-0-31:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe sınıf imzası geliştirmesi ekler.
+{{236900164-0-30:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe unutulma hasarı etkisi vermek için tüketen bir ruh taşı ekler.
+{{236900164-0-37:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe bir sonraki doğrudan hasar saldırısının saptırılmasını ekler.
+{{236900164-0-36:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe zayıflatıcı etkilerin kaldırılmasını ekler.
+{{236900164-0-35:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe yönelik hareketliliğinize iyileştirme ekler.
+{{236900164-0-34:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe kaynak restorasyonu ekler.
+{{236900164-0-10:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe çok hedefli bir vuruş ekler.
+{{236900164-0-13:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe geri tepme ekler.
+{{236900164-0-12:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe alay hareketi ekler.
+{{236900164-0-15:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe hareketsizleştirme etkisi ekler.
+{{236900164-0-14:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe çekicilik ekler.
+{{236900164-0-17:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe bir dispel ekler.
+{{236900164-0-16:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe sersemletme ekler.
+{{236900164-0-62:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, kritik hasarı azaltan bir zayıflatma olan Enervation'ı ekler.
+{{236900164-0-39:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe nihai etki kazandırmak için tüketen bir ruh cevheri ekler.
+{{236900164-0-38:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe hasar azaltma ekler.
+{{236900164-0-59:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, alınan hasarı artıran bir zayıflatıcı olan Vulnerability ekler.
+{{236900164-0-58:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, kritik hasarı artıran bir güçlendirme olan Force'u ekler.
+{{236900164-0-57:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe Intellect ve Endurance ekler, artan büyü ve dayanıklılık iyileştirmesini güçlendirir.
+{{236900164-0-63:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe maksimum sağlığı azaltan bir zayıflatma olan Mangle'ı ekler.
+{{236900164-0-9:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe iyileştirme emilimi etkisi ekler.
+{{236900164-0-8:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe alev hasarı ekler.
+{{236900164-0-5:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe büyü hasarı ekler.
+{{236900164-0-4:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe kanama hasarı ekler.
+{{236900164-0-7:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe donma hasarı ekler.
+{{236900164-0-6:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe şok hasarı ekler.
+{{236900164-0-1:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe fiziksel hasar ekler.
+{{236900164-0-3:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe hastalık hasarı ekler.
+{{236900164-0-2:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe zehir hasarı ekler.
+{{236900164-0-20:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe bir hasar kalkanı ekler.
+{{236900164-0-70:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe geliştirilmiş buff ve debuff uygulamasını ekler.
+{{236900164-0-22:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe ulti yenileme ekler.
+{{236900164-0-23:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe hasar azaltma ekler.
+{{236900164-0-24:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe zamanla hasar ekler.
+{{236900164-0-25:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe yavaşlama etkisi ekler.
+{{236900164-0-26:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe gelişmiş bash veya engelleme kullanımı ekler.
+{{236900164-0-27:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe verilen hasarın yüzdesi kadar bir iyileşme ekler.
+{{236900164-0-28:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe hareketsizleştirme etkisi ekler.
+{{236900164-0-29:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe durum efektlerinin gelişmiş kullanımını ekler.
+{{236900164-0-33:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe bir hasar kalkanı ekler.
+{{236900164-0-48:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, fiziksel ve büyü direncini artıran bir güçlendirme olan Resolve'u ekler.
+{{236900164-0-49:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, alan etkilerinden kaynaklanan hasarı azaltan bir güçlendirme olan Evasion'ı ekler.
+{{236900164-0-68:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, silahın kritik hasarını azaltan bir zayıflatma olan Uncertainty'i ekler.
+{{236900164-0-69:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, saldırganlara magicka restorasyonu sağlayan bir zayıflatma olan Magickasteal'i ekler.
+{{236900164-0-32:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe zamanla iyileştirme ekler.
+{{236900164-0-42:}}Bir grimoire'a yazıldığında, yetenek tanımlanmış bir becerinin etkisini sürdürdüğü için hasara bir artış ekler.
+{{236900164-0-65:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, saldırganlara şifa veren bir zayıflatma olan Can Çalma'yı ekler.
+{{236900164-0-40:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe beceri serisi pasiflerinin geliştirilmiş işlevselliğini ekler.
+{{236900164-0-41:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe bir sonraki doğrudan hasar veren saldırı efektinizi iyileştirir.
+{{236900164-0-46:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe Savagery ve Prophecy ekler, artan silah ve büyü kritik şansını güçlendirir.
+{{236900164-0-47:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, hareket hızını artıran bir güçlendirme olan Expedition'ı ekler.
+{{236900164-0-44:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe dengesizlik etkisi ekler.
+{{236900164-0-45:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe kesinti etkisi ekler.
+{{236900164-0-54:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, alınan hasarı azaltan bir güçlendirme olan Protection'ı ekler.
+{{236900164-0-64:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, fiziksel ve büyü direncini azaltan bir zayıflatma olan Breach'i ekler.
+{{236900164-0-56:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, nihai nesli artıran bir güçlendirme olan Heroism'i ekler.
+{{236900164-0-51:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, verilen hasarı artıran bir buff olan Berserk'i ekler.
+{{236900164-0-66:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, alınan iyileşmeyi azaltan bir debuff olan Defile'ı ekler.
+{{236900164-0-50:}}Bir grimoire'a yazıldığında, bir scribed yeteneğe, alınan iyileşmeyi artıran bir güçlendirme olan Vitality'yi ekler.
 {{131421317-0-63:}}Altın Yolu (Bölüm)
 {{131421317-0-64:}}Karalama
 {{131421317-0-66:}}Görünüm ve Özelleştirme
@@ -9426,15 +9426,15 @@
 {{74865733-0-32936:}}Kullan
 {{74865733-0-32932:}}Al
 {{74865733-0-32938:}}Tutuşturmak
-{{74865733-0-34578:}}Kazmak
-{{74865733-0-34570:}}Kazmak
+{{74865733-0-34578:}}Kaz
+{{74865733-0-34570:}}Kaz
 {{74865733-0-34186:}}Kullan
 {{74865733-0-34180:}}Al
 {{74865733-0-34188:}}Al
 {{74865733-0-33325:}}Kullan
 {{74865733-0-34229:}}Gidermek
-{{74865733-0-33608:}}Yakmak
-{{74865733-0-33607:}}Yakmak
+{{74865733-0-33608:}}Yak
+{{74865733-0-33607:}}Yak
 {{74865733-0-33353:}}Al
 {{74865733-0-33351:}}Görüş
 {{74865733-0-34379:}}Al
@@ -9442,16 +9442,16 @@
 {{74865733-0-32914:}}Söndürmek
 {{74865733-0-32912:}}Tahrip etmek
 {{74865733-0-32913:}}Al
-{{74865733-0-34271:}}Kapalı
-{{74865733-0-33160:}}Yakmak
+{{74865733-0-34271:}}Kapat
+{{74865733-0-33160:}}Yak
 {{74865733-0-33161:}}Al
 {{74865733-0-33163:}}İncele
 {{74865733-0-33854:}}Gidermek
 {{74865733-0-33857:}}Yerleştir
-{{74865733-0-33851:}}Aramak
+{{74865733-0-33851:}}Ara
 {{74865733-0-33853:}}Gidermek
 {{74865733-0-34671:}}İncele
-{{74865733-0-34108:}}Aramak
+{{74865733-0-34108:}}Ara
 {{74865733-0-34104:}}Al
 {{74865733-0-34103:}}Gidermek
 {{74865733-0-34102:}}Gidermek
@@ -9486,8 +9486,8 @@
 {{74865733-0-32937:}}Tutuşturmak
 {{74865733-0-32930:}}Gidermek
 {{74865733-0-32939:}}Tutuşturmak
-{{74865733-0-34576:}}Kazmak
-{{74865733-0-34574:}}Kazmak
+{{74865733-0-34576:}}Kaz
+{{74865733-0-34574:}}Kaz
 {{74865733-0-33313:}}Al
 {{74865733-0-33311:}}Yerleştir
 {{74865733-0-33310:}}Yerleştir
@@ -9511,7 +9511,7 @@
 {{74865733-0-34478:}}İncele
 {{74865733-0-34037:}}Tutuşturmak
 {{74865733-0-34134:}}Yerleştir
-{{74865733-0-34259:}}Kapalı
+{{74865733-0-34259:}}Kapat
 {{74865733-0-34258:}}Tutuşturmak
 {{74865733-0-33339:}}İncele
 {{74865733-0-33338:}}Al
@@ -9523,10 +9523,10 @@
 {{74865733-0-33590:}}Feneri Kullan
 {{74865733-0-33848:}}Tahrip etmek
 {{74865733-0-33847:}}Tahrip etmek
-{{74865733-0-33846:}}Aramak
+{{74865733-0-33846:}}Ara
 {{74865733-0-33840:}}Al
 {{74865733-0-34319:}}Etkinleştir
-{{74865733-0-34648:}}Aramak
+{{74865733-0-34648:}}Ara
 {{74865733-0-34642:}}Al
 {{74865733-0-34315:}}Etkinleştir
 {{74865733-0-33312:}}Yerleştir
@@ -9534,18 +9534,18 @@
 {{74865733-0-34664:}}İncele
 {{74865733-0-34662:}}İncele
 {{74865733-0-34663:}}İncele
-{{74865733-0-33102:}}Aramak
+{{74865733-0-33102:}}Ara
 {{74865733-0-33100:}}Al
 {{74865733-0-33106:}}Tahrip etmek
 {{74865733-0-33458:}}İncele
 {{74865733-0-34101:}}Gidermek
-{{74865733-0-33467:}}Yakmak
+{{74865733-0-33467:}}Yak
 {{74865733-0-33461:}}İncele
 {{74865733-0-32998:}}Al
 {{74865733-0-33462:}}İncele
 {{74865733-0-34112:}}Etkinleştir
 {{74865733-0-34441:}}Al
-{{74865733-0-33860:}}Dökün
+{{74865733-0-33860:}}Dök
 {{74865733-0-33863:}}Yerleştir
 {{74865733-0-33865:}}Al
 {{74865733-0-34665:}}İncele
@@ -9555,7 +9555,7 @@
 {{74865733-0-32993:}}İncele
 {{74865733-0-32991:}}İncele
 {{74865733-0-32999:}}Al
-{{74865733-0-33187:}}Yakmak
+{{74865733-0-33187:}}Yak
 {{74865733-0-34510:}}Saklamak
 {{74865733-0-34364:}}Yerleştir
 {{74865733-0-32873:}}Al
@@ -9583,12 +9583,12 @@
 {{74865733-0-34238:}}İncele
 {{74865733-0-34690:}}İncele
 {{74865733-0-34240:}}İncele
-{{74865733-0-34244:}}Dökün
-{{74865733-0-33281:}}Yakmak
+{{74865733-0-34244:}}Dök
+{{74865733-0-33281:}}Yak
 {{74865733-0-33280:}}İncele
 {{74865733-0-33534:}}İncele
-{{74865733-0-33533:}}Yakmak
-{{74865733-0-33532:}}Yakmak
+{{74865733-0-33533:}}Yak
+{{74865733-0-33532:}}Yak
 {{74865733-0-33759:}}Yerleştir
 {{74865733-0-33750:}}İncele
 {{74865733-0-33756:}}Yerleştir
@@ -9600,13 +9600,13 @@
 {{74865733-0-34080:}}Gidermek
 {{74865733-0-34275:}}İncele
 {{74865733-0-34274:}}Karışım
-{{74865733-0-34572:}}Kazmak
+{{74865733-0-34572:}}Kaz
 {{74865733-0-32872:}}Al
 {{74865733-0-32874:}}Al
 {{74865733-0-34270:}}Etkinleştir
 {{74865733-0-34614:}}Al
 {{74865733-0-34273:}}Karışım
-{{74865733-0-33473:}}Aramak
+{{74865733-0-33473:}}Ara
 {{74865733-0-33173:}}Kullan
 {{74865733-0-33519:}}Kullan
 {{74865733-0-33511:}}Al
@@ -9630,26 +9630,26 @@
 {{74865733-0-33984:}}Açık
 {{74865733-0-33988:}}İncele
 {{74865733-0-32910:}}Tahrip etmek
-{{74865733-0-33546:}}Dökün
-{{74865733-0-33547:}}Dökün
+{{74865733-0-33546:}}Dök
+{{74865733-0-33547:}}Dök
 {{74865733-0-34125:}}Al
 {{74865733-0-33579:}}İncele
 {{74865733-0-34324:}}İncele
-{{74865733-0-33466:}}Yakmak
-{{74865733-0-33795:}}Kapalı
+{{74865733-0-33466:}}Yak
+{{74865733-0-33795:}}Kapat
 {{74865733-0-33128:}}İncele
 {{74865733-0-33406:}}Al
 {{74865733-0-33238:}}Yerleştir
 {{74865733-0-33540:}}Kullan
 {{74865733-0-33230:}}Yerleştir
 {{74865733-0-33231:}}Yerleştir
-{{74865733-0-33544:}}Dökün
+{{74865733-0-33544:}}Dök
 {{74865733-0-33966:}}Yeniden şarj et
 {{74865733-0-33961:}}Yeniden şarj et
 {{74865733-0-33962:}}İncele
 {{74865733-0-33963:}}İncele
 {{74865733-0-33217:}}Al
-{{74865733-0-32967:}}Aramak
+{{74865733-0-32967:}}Ara
 {{74865733-0-34236:}}Tahrip etmek
 {{74865733-0-33555:}}Al
 {{74865733-0-33557:}}Kullan
@@ -9657,10 +9657,10 @@
 {{74865733-0-34249:}}Etkinleştir
 {{74865733-0-34302:}}İçmek
 {{74865733-0-34066:}}Kaldırmak
-{{74865733-0-33947:}}Aramak
-{{74865733-0-33945:}}Dökün
-{{74865733-0-33948:}}Aramak
-{{74865733-0-33949:}}Aramak
+{{74865733-0-33947:}}Ara
+{{74865733-0-33945:}}Dök
+{{74865733-0-33948:}}Ara
+{{74865733-0-33949:}}Ara
 {{74865733-0-33057:}}Al
 {{74865733-0-34365:}}Beslemek
 {{74865733-0-34495:}}Açık
@@ -9672,13 +9672,13 @@
 {{74865733-0-33200:}}İncele
 {{74865733-0-33203:}}Kullan
 {{74865733-0-33205:}}Kullan
-{{74865733-0-33207:}}Aramak
+{{74865733-0-33207:}}Ara
 {{74865733-0-33206:}}İncele
 {{74865733-0-34321:}}Etkinleştir
 {{74865733-0-34320:}}Etkinleştir
 {{74865733-0-34009:}}Etkinleştir
 {{74865733-0-34327:}}Etkisiz hale getirmek
-{{74865733-0-34267:}}Kapalı
+{{74865733-0-34267:}}Kapat
 {{74865733-0-34264:}}Yerleştir
 {{74865733-0-34268:}}Yerleştir
 {{74865733-0-34269:}}Açık
@@ -9696,21 +9696,21 @@
 {{74865733-0-34388:}}İncele
 {{74865733-0-32904:}}Gidermek
 {{74865733-0-33833:}}Saklamak
-{{74865733-0-33831:}}Aramak
+{{74865733-0-33831:}}Ara
 {{74865733-0-33837:}}Saklamak
 {{74865733-0-33835:}}Kullan
 {{74865733-0-33263:}}Kullan
 {{74865733-0-33262:}}Al
 {{74865733-0-33261:}}Al
-{{74865733-0-33267:}}Aramak
+{{74865733-0-33267:}}Ara
 {{74865733-0-33266:}}Kullan
 {{74865733-0-33265:}}Kullan
 {{74865733-0-33264:}}Kullan
 {{74865733-0-33269:}}Kullan
 {{74865733-0-33486:}}Kullan
 {{74865733-0-33483:}}Al
-{{74865733-0-33482:}}Aramak
-{{74865733-0-33481:}}Aramak
+{{74865733-0-33482:}}Ara
+{{74865733-0-33481:}}Ara
 {{74865733-0-34288:}}Görüş
 {{74865733-0-34289:}}Gidermek
 {{74865733-0-32886:}}Al
@@ -9719,12 +9719,12 @@
 {{74865733-0-33010:}}Yerleştir
 {{74865733-0-33012:}}Yerleştir
 {{74865733-0-33017:}}Tamirat
-{{74865733-0-33868:}}Yakmak
+{{74865733-0-33868:}}Yak
 {{74865733-0-32920:}}İncele
 {{74865733-0-33245:}}İncele
 {{74865733-0-33244:}}İncele
 {{74865733-0-33241:}}Al
-{{74865733-0-33240:}}Yakmak
+{{74865733-0-33240:}}Yak
 {{74865733-0-33243:}}İncele
 {{74865733-0-33242:}}İncele
 {{74865733-0-32929:}}Gidermek
@@ -9735,7 +9735,7 @@
 {{74865733-0-33817:}}Uyum
 {{74865733-0-34265:}}Açık
 {{74865733-0-34082:}}Gidermek
-{{74865733-0-34389:}}Kazmak
+{{74865733-0-34389:}}Kaz
 {{74865733-0-32927:}}Al
 {{74865733-0-32926:}}Gidermek
 {{74865733-0-32925:}}Gidermek
@@ -9744,13 +9744,13 @@
 {{74865733-0-32928:}}Al
 {{74865733-0-33030:}}Al
 {{74865733-0-33035:}}İncele
-{{74865733-0-34568:}}Kazmak
-{{74865733-0-34147:}}Yakmak
-{{74865733-0-34148:}}Yakmak
+{{74865733-0-34568:}}Kaz
+{{74865733-0-34147:}}Yak
+{{74865733-0-34148:}}Yak
 {{74865733-0-33151:}}Al
 {{74865733-0-33157:}}İncele
 {{74865733-0-33407:}}Yerleştir
-{{74865733-0-33158:}}Yakmak
+{{74865733-0-33158:}}Yak
 {{74865733-0-33405:}}Al
 {{74865733-0-33404:}}Al
 {{74865733-0-33403:}}Al
@@ -9778,22 +9778,22 @@
 {{74865733-0-34697:}}İncele
 {{74865733-0-34347:}}Etkinleştir
 {{74865733-0-34694:}}İncele
-{{74865733-0-32969:}}Aramak
+{{74865733-0-32969:}}Ara
 {{74865733-0-32960:}}Söndürmek
 {{74865733-0-33150:}}Dönüş
-{{74865733-0-33159:}}Yakmak
+{{74865733-0-33159:}}Yak
 {{74865733-0-34140:}}Al
 {{74865733-0-33282:}}Al
 {{74865733-0-33538:}}Sıfırla
 {{74865733-0-33537:}}İncele
-{{74865733-0-33288:}}Kazmak
-{{74865733-0-33531:}}Yakmak
+{{74865733-0-33288:}}Kaz
+{{74865733-0-33531:}}Yak
 {{74865733-0-33530:}}Kullan
 {{74865733-0-33456:}}İncele
 {{74865733-0-34295:}}Al
 {{74865733-0-34146:}}Işık
 {{74865733-0-34290:}}Gidermek
-{{74865733-0-32945:}}Yakmak
+{{74865733-0-32945:}}Yak
 {{74865733-0-32944:}}Al
 {{74865733-0-32941:}}İncele
 {{74865733-0-32943:}}Al
@@ -9813,7 +9813,7 @@
 {{74865733-0-34272:}}Karışım
 {{74865733-0-32940:}}Tutuşturmak
 {{74865733-0-33998:}}İncele
-{{74865733-0-33148:}}Yakmak
+{{74865733-0-33148:}}Yak
 {{74865733-0-32942:}}Al
 {{74865733-0-33144:}}İncele
 {{74865733-0-33142:}}Al
@@ -9835,15 +9835,15 @@
 {{74865733-0-33116:}}İncele
 {{74865733-0-33113:}}İncele
 {{74865733-0-33118:}}Al
-{{74865733-0-34465:}}Kazmak
+{{74865733-0-34465:}}Kaz
 {{74865733-0-34587:}}İncele
 {{74865733-0-33268:}}Kullan
 {{74865733-0-33327:}}İncele
 {{74865733-0-33324:}}Kullan
 {{74865733-0-32988:}}Al
 {{74865733-0-32983:}}İncele
-{{74865733-0-32982:}}Yakmak
-{{74865733-0-33858:}}Dökün
+{{74865733-0-32982:}}Yak
+{{74865733-0-33858:}}Dök
 {{74865733-0-33589:}}Kullan
 {{74865733-0-33586:}}Kullan
 {{74865733-0-33587:}}Kullan
@@ -9881,10 +9881,10 @@
 {{74865733-0-33318:}}Hizala
 {{74865733-0-34004:}}Para Atma
 {{74865733-0-33149:}}Dönüş
-{{74865733-0-33146:}}Dökün
-{{74865733-0-33147:}}Dökün
-{{74865733-0-33139:}}Dökün
-{{74865733-0-33133:}}Aramak
+{{74865733-0-33146:}}Dök
+{{74865733-0-33147:}}Dök
+{{74865733-0-33139:}}Dök
+{{74865733-0-33133:}}Ara
 {{74865733-0-33145:}}Al
 {{74865733-0-34225:}}İncele
 {{74865733-0-34223:}}İncele
@@ -9905,9 +9905,9 @@
 {{74865733-0-34097:}}Al
 {{74865733-0-34098:}}Al
 {{74865733-0-33228:}}Yerleştir
-{{74865733-0-33103:}}Aramak
+{{74865733-0-33103:}}Ara
 {{74865733-0-34333:}}Açık
-{{74865733-0-33104:}}Aramak
+{{74865733-0-33104:}}Ara
 {{74865733-0-33105:}}Kullan
 {{74865733-0-34266:}}Tutuşturmak
 {{74865733-0-34644:}}Etkinleştir
@@ -9925,28 +9925,28 @@
 {{74865733-0-33834:}}Saklamak
 {{74865733-0-33749:}}İncele
 {{74865733-0-34217:}}Etkinleştir
-{{74865733-0-34216:}}Aramak
+{{74865733-0-34216:}}Ara
 {{74865733-0-34215:}}Görüş
 {{74865733-0-34728:}}Açık
 {{74865733-0-34725:}}İncele
 {{74865733-0-34721:}}İncele
 {{74865733-0-33199:}}İncele
-{{74865733-0-33195:}}Yakmak
+{{74865733-0-33195:}}Yak
 {{74865733-0-33197:}}Kullan
-{{74865733-0-33196:}}Yakmak
-{{74865733-0-33191:}}Yakmak
-{{74865733-0-33995:}}Yakmak
+{{74865733-0-33196:}}Yak
+{{74865733-0-33191:}}Yak
+{{74865733-0-33995:}}Yak
 {{74865733-0-33997:}}Dans
-{{74865733-0-33996:}}Yakmak
+{{74865733-0-33996:}}Yak
 {{74865733-0-33990:}}İncele
 {{74865733-0-33993:}}Al
 {{74865733-0-33992:}}Etkisiz hale getirmek
 {{74865733-0-34170:}}İddia
 {{74865733-0-34171:}}Serbest bırakmak
-{{74865733-0-33994:}}Yakmak
+{{74865733-0-33994:}}Yak
 {{74865733-0-33506:}}İncele
-{{74865733-0-33507:}}Yakmak
-{{74865733-0-33508:}}Yakmak
+{{74865733-0-33507:}}Yak
+{{74865733-0-33508:}}Yak
 {{74865733-0-33760:}}Yerleştir
 {{74865733-0-33766:}}Kullan
 {{74865733-0-33767:}}Kullan
@@ -9959,14 +9959,14 @@
 {{74865733-0-33972:}}İncele
 {{74865733-0-34201:}}İncele
 {{74865733-0-33129:}}İncele
-{{74865733-0-34119:}}Toplamak
+{{74865733-0-34119:}}Topla
 {{74865733-0-33454:}}İncele
 {{74865733-0-34318:}}Al
 {{74865733-0-33560:}}İncele
 {{74865733-0-33561:}}İncele
 {{74865733-0-33565:}}İncele
 {{74865733-0-33569:}}Yerleştir
-{{74865733-0-34111:}}Aramak
+{{74865733-0-34111:}}Ara
 {{74865733-0-33780:}}Yerleştir
 {{74865733-0-33781:}}Araştırmak
 {{74865733-0-34695:}}İncele
@@ -9975,9 +9975,9 @@
 {{74865733-0-34655:}}İncele
 {{74865733-0-34653:}}İncele
 {{74865733-0-34652:}}İncele
-{{74865733-0-33951:}}Aramak
-{{74865733-0-33950:}}Aramak
-{{74865733-0-33952:}}Aramak
+{{74865733-0-33951:}}Ara
+{{74865733-0-33950:}}Ara
+{{74865733-0-33952:}}Ara
 {{74865733-0-33955:}}Al
 {{74865733-0-33956:}}Yerleştir
 {{74865733-0-34050:}}Al
@@ -9993,12 +9993,12 @@
 {{74865733-0-33545:}}Al
 {{74865733-0-34019:}}Kullan
 {{74865733-0-34016:}}Kullan
-{{74865733-0-34276:}}Dökün
+{{74865733-0-34276:}}Dök
 {{74865733-0-34339:}}Kullan
 {{74865733-0-34073:}}Etkinleştir
-{{74865733-0-34070:}}Oyuncu Sinerjisi
+{{74865733-0-34070:}}Sinerjiyi Kullan
 {{74865733-0-34077:}}Kullan
-{{74865733-0-34041:}}Aramak
+{{74865733-0-34041:}}Ara
 {{74865733-0-34046:}}Gidermek
 {{74865733-0-34552:}}Kullan
 {{74865733-0-33937:}}Üzüm parçala
@@ -10013,7 +10013,7 @@
 {{74865733-0-34133:}}0
 {{74865733-0-33188:}}İncele
 {{74865733-0-32911:}}Tahrip etmek
-{{74865733-0-33212:}}Yakmak
+{{74865733-0-33212:}}Yak
 {{74865733-0-34350:}}Etkinleştir
 {{74865733-0-33918:}}Dönüş
 {{74865733-0-33913:}}İncele
@@ -10035,7 +10035,7 @@
 {{74865733-0-33279:}}Al
 {{74865733-0-33494:}}Çöz
 {{74865733-0-33495:}}İncele
-{{74865733-0-33493:}}Kapalı
+{{74865733-0-33493:}}Kapat
 {{74865733-0-34057:}}Şuradan çal:
 {{74865733-0-34724:}}İncele
 {{74865733-0-34051:}}Al
@@ -10044,11 +10044,11 @@
 {{74865733-0-33441:}}İncele
 {{74865733-0-33110:}}İncele
 {{74865733-0-33112:}}İncele
-{{74865733-0-34646:}}Aramak
+{{74865733-0-34646:}}Ara
 {{74865733-0-34640:}}Al
 {{74865733-0-34641:}}Al
-{{74865733-0-34461:}}Kazmak
-{{74865733-0-34463:}}Kazmak
+{{74865733-0-34461:}}Kaz
+{{74865733-0-34463:}}Kaz
 {{74865733-0-34074:}}Kullan
 {{74865733-0-33029:}}Al
 {{74865733-0-33028:}}Al
@@ -10058,7 +10058,7 @@
 {{74865733-0-33257:}}Vur
 {{74865733-0-33255:}}Al
 {{203274254-0-33:}}Altın Yol Kupaları
-{{96069573-0-11530:}}İsabel
+{{96069573-0-11530:}}Isabel
 {{96069573-0-12237:}}Prizma
 {{96069573-0-12258:}}Acıburn
 {{96069573-0-12264:}}göz kamaştırıcı
@@ -10093,12 +10093,12 @@
 {{96069573-0-12456:}}Elsweyr Kum Bahçesi
 {{96069573-0-11643:}}Alıcı
 {{96069573-0-11533:}}Dev Taşıyıcı
-{{219689294-1-967:}}Tamirat
+{{219689294-1-967:}}Tamir Et
 {{219689294-1-968:}}Etkinleştir
 {{219689294-0-968:}}Etkinleştir
-{{219689294-0-967:}}Kırmak
-{{219689294-1-956:}}Açmak
-{{219689294-2-968:}}Devre dışı bırakmak
+{{219689294-0-967:}}Kır
+{{219689294-1-956:}}Aç
+{{219689294-2-968:}}Devre dışı bırak
 {{219689294-0-956:}}Kısmak
 {{162658389-0-1458:}}Mitos
 {{162658389-0-1459:}}Wendir
@@ -10257,18 +10257,18 @@
 {{99527054-0-119498:}}Bankacı
 {{99527054-0-119499:}}Demirci
 {{99527054-0-119555:}}Savaş Alanı Malzemeleri Tüccarı
-{{99527054-0-122298:}}Büyük Üstad'a saygı duruşu
+{{99527054-0-122298:}}Tribute Büyük Üstadı
 {{99527054-0-119550:}}Tüccar
 {{99527054-0-119545:}}Tüccar
 {{99527054-0-121286:}}Kısır Dedikodu
-{{99527054-0-119234:}}Silahşör
+{{99527054-0-119234:}}Silahçı
 {{99527054-0-122096:}}Tüccar
 {{99527054-0-123076:}}Başarı Sağlayıcısı
 {{99527054-0-119549:}}Tüccar
 {{99527054-0-119546:}}Lonca Tüccarı
 {{99527054-0-119547:}}Tefeci
-{{99527054-0-119544:}}Çit
-{{99527054-0-119542:}}Çit
+{{99527054-0-119544:}}Fence
+{{99527054-0-119542:}}Fence
 {{99527054-0-119540:}}Paket Satıcısı
 {{99527054-0-119541:}}Gezgin
 {{99527054-0-118782:}}Simyacı
@@ -10292,21 +10292,21 @@
 {{99527054-0-119528:}}Lonca Tüccarı
 {{99527054-0-119529:}}Ev Eşyaları Döşemecisi
 {{99527054-0-119548:}}Tüccar
-{{99527054-0-119537:}}Ağaç ustası
+{{99527054-0-119537:}}Marangoz
 {{99527054-0-119534:}}Mistik
 {{99527054-0-119533:}}Tüccar
-{{99527054-0-119531:}}Deri işçisi
+{{99527054-0-119531:}}Deri İşçisi
 {{99527054-0-119530:}}Hancı
-{{99527054-0-119539:}}Ahır ustası
-{{99527054-0-119538:}}Silah ustası
+{{99527054-0-119539:}}Ahır Ustası
+{{99527054-0-119538:}}Silah Ustası
 {{99527054-0-119514:}}Kıyafetçi
-{{99527054-0-119503:}}Bira üreticisi
+{{99527054-0-119503:}}Meşrubatçı
 {{99527054-0-118704:}}Başarı Sağlayıcısı
-{{99527054-0-119515:}}Büyücü
+{{99527054-0-119515:}}Efsuncu
 {{99527054-0-119511:}}Şef
-{{99527054-0-119510:}}marangoz
+{{99527054-0-119510:}}Marangoz
 {{99527054-0-119536:}}Terzi
-{{99527054-0-119532:}}Büyücü
+{{99527054-0-119532:}}Magus
 {{99527054-0-117861:}}Günlük İş Komisyoncusu
 {{267200725-0-2542:}}Aydınlık Alevler Arenası
 {{267200725-0-2541:}}Karga Kanadı
@@ -10331,8 +10331,8 @@
 {{267200725-0-2456:}}Leftwheal Ticaret Merkezi
 {{267200725-0-2590:}}Caelum Mahzenleri Kanalizasyonları
 {{267200725-0-2592:}}Ontus
-{{267200725-0-2593:}}umut kökü
-{{267200725-0-2594:}}umut kökü
+{{267200725-0-2593:}}Hoperoot
+{{267200725-0-2594:}}Hoperoot
 {{267200725-0-2460:}}Valente Şarap İmalathanesi Nakliye Mağarası
 {{267200725-0-2461:}}Weatherleah Malikanesi
 {{267200725-0-2468:}}Niryastare
@@ -10372,7 +10372,7 @@
 {{267200725-0-2519:}}Sunnamere
 {{267200725-0-2619:}}Mythos Kasaları
 {{267200725-0-2509:}}Fargrave Dış Harabeleri
-{{267200725-0-2508:}}umut kökü
+{{267200725-0-2508:}}Hoperoot
 {{267200725-0-2507:}}Cualorn
 {{267200725-0-2506:}}Wilderhall
 {{267200725-0-2505:}}Hastrel İçi Boş Tapınak
@@ -10382,11 +10382,11 @@
 {{267200725-0-2501:}}Skingrad Yasadışı Sığınma Evi
 {{267200725-0-2500:}}Miscarcand
 {{267200725-0-2586:}}Faro Mağarası
-{{267200725-0-2588:}}umut kökü
+{{267200725-0-2588:}}Hoperoot
 {{267200725-0-2573:}}Weatherleah Bodrum
 {{267200725-0-2473:}}Feldagard Kışlasını Koru
 {{267200725-0-2472:}}Feldagard Kalesi
-{{267200725-0-2589:}}umut kökü
+{{267200725-0-2589:}}Hoperoot
 {{267200725-0-2568:}}Weatherleah Malikanesi
 {{267200725-0-2565:}}Mitos
 {{267200725-0-2564:}}Merkezi Orfik Tüneller
@@ -10841,12 +10841,12 @@
 {{228378404-0-208310:}}Büyücüler Loncası ustasının mavi zırhını giymiş beyaz kürklü bir çocuk oyuncağı.
 {{228378404-0-208311:}}Skingrad hükümdarlarından birinin bu çocuk bebeği, yerel Kolov meşesinden yapılmış kendi kılıcıyla birlikte geliyor.
 {{228378404-0-208312:}}Bir Savaşçı Loncası savaşçısının kırmızı zırhını giymiş, kahverengi kürklü bir çocuk oyuncağı.
-{{228378404-0-204881:}}Grimoire'lara senaryo yazmak için kullanılır.
+{{228378404-0-204881:}}Grimoire'lara script yazmak için kullanılır.
 {{228378404-0-208336:}}Keskin bir tırnakla birlikte büyümeye devam eden kopmuş bir parmak. Bazı Orman Elfleri tarafından dişlerini törpülemek için kullanılır.
-{{228378404-0-203373:}}Shardborn Çıtalarının nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
-{{228378404-0-203372:}}Parçadoğan Omuzların nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
-{{228378404-0-203371:}}Parçadoğan Kalkanlarının nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
-{{228378404-0-203370:}}Shardborn Maces'in nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
+{{228378404-0-203373:}}Shardborn Asalarının nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
+{{228378404-0-203372:}}Shardborn Omuzların nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
+{{228378404-0-203371:}}Shardborn Kalkanlarının nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
+{{228378404-0-203370:}}Shardborn Topuzlarının nasıl yapıldığını öğrenmek için kullanın. Ayrıca eşdeğer Shardborn Kıyafet Stillerini de öğretir.
 {{228378404-0-204743:}}Bu küçük bir ev eşyası.
 {{228378404-0-204742:}}Bu küçük bir ev eşyası.
 {{228378404-0-204741:}}Bu küçük bir ev eşyası.
@@ -11129,7 +11129,7 @@
 {{228378404-0-206534:}}Arşiv Kıdemli Başarısının ve Sonsuz Vücut Sanatının Kıdemlisinin kilidini açmak için 20 Arşiv Bilmecesi tüketin!
 {{228378404-0-206533:}}Sonsuz Başarının Emektarını ve Sonsuz Yüz Sanatının Emektarını açmak için 20 Arşiv Gizemi tüketin!
 {{228378404-0-203214:}}Kör Yol Tarikatçısı üretim stilini öğrenmek için kullanın. Aynı zamanda eşdeğer Kör Yol Tarikatçısı Kıyafet Stillerini de öğretir.
-{{228378404-0-208068:}}50 Sınıf Script Parçasını birleştirmek, Sınıfa özel İmza Komut Dosyanızın kilidini açar.
+{{228378404-0-208068:}}50 Sınıf Script Parçasını birleştirmek, Sınıfa özel Signature Script kilidini açar.
 {{228378404-0-203531:}}Bir Kıyafet Stili Koleksiyon Parçası verir. Kıyafet Stili bir kez kullanıldığında hesabınızdaki tüm karakterler tarafından kullanılabilir. Kıyafet Stilleri, görünüşünüzü kişiselleştirmek için Kıyafet İstasyonunda kullanılabilir.
 {{228378404-0-203530:}}Bir Kıyafet Stili Koleksiyon Parçası verir. Kıyafet Stili bir kez kullanıldığında hesabınızdaki tüm karakterler tarafından kullanılabilir. Kıyafet Stilleri, görünüşünüzü kişiselleştirmek için Kıyafet İstasyonunda kullanılabilir.
 {{228378404-0-203533:}}Bir Kıyafet Stili Koleksiyon Parçası verir. Kıyafet Stili bir kez kullanıldığında hesabınızdaki tüm karakterler tarafından kullanılabilir. Kıyafet Stilleri, görünüşünüzü kişiselleştirmek için Kıyafet İstasyonunda kullanılabilir.
@@ -11392,8 +11392,8 @@
 {{12912341-0-22800:}}Al
 {{12912341-0-119805:}}Konuş
 {{12912341-0-120498:}}Konuş
-{{12912341-0-121636:}}Toplamak
-{{12912341-0-121635:}}Toplamak
+{{12912341-0-121636:}}Topla
+{{12912341-0-121635:}}Topla
 {{12912341-0-121207:}}Al
 {{12912341-0-122731:}}sarıl
 {{12912341-0-123069:}}Al
@@ -11410,7 +11410,7 @@
 {{12912341-0-117339:}}Sev
 {{12912341-0-119895:}}Konuş
 {{12912341-0-122301:}}Al
-{{12912341-0-121199:}}Toplamak
+{{12912341-0-121199:}}Topla
 {{12912341-0-118915:}}Konuş
 {{12912341-0-118895:}}Konuş
 {{12912341-0-118894:}}Konuş
@@ -11440,7 +11440,7 @@
 {{12912341-0-117967:}}İncele
 {{12912341-0-121261:}}Konuş
 {{12912341-0-121686:}}Konuş
-{{12912341-0-119070:}}Aramak
+{{12912341-0-119070:}}Ara
 {{12912341-0-117346:}}Sev
 {{12912341-0-122362:}}Sev
 {{12912341-0-122962:}}Sev
@@ -11842,22 +11842,22 @@
 {{112701171-0-13872:}}Mobilya, Yeşillik
 {{112701171-0-13878:}}Mobilya,İç Dekorasyon
 {{112701171-0-13153:}}Karakter, Saç Stilleri
-{{62156964-0-557:}}"Ejderhanın Kanadı" görevini tamamladıktan sonra, Ejderha Armatürünün büyüsü, güçlü bir İmza Senaryosunun mistik parçalarının Tamriel'de görünmeye başlamasına neden olur. 50 Sınıf Script Parçasını birleştirerek Sınıf Ustalığı İmza Komut Dosyasını elde edebilirsiniz. \n\nSınıf Script Parçalarını şu yollarla verilen ödüllerde bulabilirsiniz:\n• Normal ve kıdemli Denemeleri tamamlayarak\n• Normal ve kıdemli Deneme kasalarını açarak\n• Deneme skor tablolarında yer alarak\n• Normal ve kıdemli Arenaları tamamlayarak\n• Arena liderlik tablosunda görünme\n• Sonsuz Arşivi tamamlama\n• Günlük normal ve kıdemli Zindanları tamamlama karşılığında açılış ödülleri\n• Günlük Battleground ödül kutularını açma\n• Master Writs'i tamamlama\n• Elder Scrolls ele geçirmeyi tamamlayarak kazanılan açılış ödül kutularını açma Cyrodiil'deki görevler\n• Cyrodiil'de İmparator Olmak
+{{62156964-0-557:}}"Ejderhanın Kanadı" görevini tamamladıktan sonra, Ejderha Armatürünün büyüsü, güçlü bir Signature Script'inin mistik parçalarının Tamriel'de görünmeye başlamasına neden olur. 50 Sınıf Script Parçasını birleştirerek Sınıf Ustalığı Signature Scriptini elde edebilirsiniz. \n\nSınıf Script Parçalarını şu yollarla verilen ödüllerde bulabilirsiniz:\n• Normal ve kıdemli Denemeleri tamamlayarak\n• Normal ve kıdemli Deneme kasalarını açarak\n• Deneme skor tablolarında yer alarak\n• Normal ve kıdemli Arenaları tamamlayarak\n• Arena liderlik tablosunda görünme\n• Sonsuz Arşivi tamamlama\n• Günlük normal ve kıdemli Zindanları tamamlama karşılığında açılış ödülleri\n• Günlük Battleground ödül kutularını açma\n• Master Writs'i tamamlama\n• Elder Scrolls ele geçirmeyi tamamlayarak kazanılan açılış ödül kutularını açma Cyrodiil'deki görevler\n• Cyrodiil'de İmparator Olmak
 {{62156964-0-548:}}Altın Yol, 2024 yılının bölümüdür.\n\nDiğer uçaklardan gelen manipülasyonlar, büyük görevler ve istilalar, müreffeh West Weald'ı başka bir Parçalanmış Diyar'a çevirmekle tehdit ediyor. Ithelia'nın Evlatları ve Mirrormoor'lu müttefikleri, kayıp Prenslerini bulmak ve onun gücünü ve anılarını geri kazanmak için her şeyi yapacaklardır. Etkileri, Skingrad'ın arnavut kaldırımlı güzel sokaklarından onları besleyen zengin üzüm bağlarına ve yeni kurulan Dawnwood'un yemyeşil ormanlarına kadar bölgeye kaos yayıyor. West Weald'ı kesin bir çöküşten kurtarmak ve Unutulmuş Prens'in geri dönüşüne karşı koymak için Bilge Leramil'e ve yeni ve eski müttefiklere katılın.
-{{62156964-0-562:}}Yazma görevlerinden herhangi birini tamamlamasanız bile, pek çok Komut Dosyasının dünyadaki düşmanlardan düşme şansı çok nadir olacaktır. Komut dosyaları öncelikle içeriğin tamamlanmasından elde edilen ödüllerle edinilebilir. Her bir Script türüyle ilişkili Scholarium'un Kanadı görevini tamamlayarak, belirli bir komut dosyası türünü avlama şansınızı büyük ölçüde artırabilirsiniz. Bir karakterde bir Komut Dosyasının kilidini açtığınızda, hesabınızdaki diğer karakterler o komut dosyasını indirimli fiyattan satın alabilirler.\n\nGryphon'un Kanadı'nı tamamladıktan sonra günlük Delve görevlerinden, günlük Büyücüler Loncası görevlerinden ve günlük Sihirbazlar Loncası görevlerinden |cFFFFFFOdaklanma Scriptleri|r'yı arayın. Layık Olanlar için PvP Ödülleri. \n\n|cFFFFFFİmza Scriptleri|r, günlük Dünya Boss görevlerinden, günlük Cyrodiil görevlerinden ve günlük Savaşçılar Loncası görevlerinden Ejderhanın Kanadı tamamlandıktan sonra bulunabilir.\n\nAğ Kanadını tamamlamak | cFFFFFFAFfix Scripts|r'ı günlük Dünya Etkinliği görevleri, günlük Imperial City görevleri ve günlük Cesur görevler aracılığıyla kullanın.
-{{62156964-0-560:}}Herkes düşmanları yenerek Komut Dosyalarını yağmalayabilir, ancak Karalama sistemine erişmek için Altın Yol Bölümünü satın almak gerekir. Ek olarak, Karalama'ya erişebilmeniz için karakterinizin en az 30. seviyede olması veya en az bir Şampiyon Puanına sahip olması gerekir.\n\nKayıp Yazma sanatı sizi bekliyor! Maceranıza başlamak için, Koleksiyonlar menüsünün Yükseltmeler bölümündeki Karalama koleksiyonundan "İkinci Yazma Çağı" görevine erişin veya Skingrad'daki Büyücüler Loncası yakınında Usta Irnard Rirnil'i arayın.
+{{62156964-0-562:}}Yazma görevlerinden herhangi birini tamamlamasanız bile, pek çok Script'in dünyadaki düşmanlardan düşme şansı çok nadir olacaktır. Scriptler öncelikle içeriğin tamamlanmasından elde edilen ödüllerle edinilebilir. Her bir Script türüyle ilişkili Scholarium'un Kanadı görevini tamamlayarak, belirli bir komut dosyası türünü avlama şansınızı büyük ölçüde artırabilirsiniz. Bir karakterde bir Script'in kilidini açtığınızda, hesabınızdaki diğer karakterler o komut dosyasını indirimli fiyattan satın alabilirler.\n\nGryphon'un Kanadı'nı tamamladıktan sonra günlük Delve görevlerinden, günlük Büyücüler Loncası görevlerinden ve günlük Sihirbazlar Loncası görevlerinden |cFFFFFFOdaklanma Scriptleri|r'yı arayın. Layık Olanlar için PvP Ödülleri. \n\n|cFFFFFFSignature Scriptleri|r, günlük Dünya Boss görevlerinden, günlük Cyrodiil görevlerinden ve günlük Savaşçılar Loncası görevlerinden Ejderhanın Kanadı tamamlandıktan sonra bulunabilir.\n\nAğ Kanadını tamamlamak | cFFFFFFAFfix Scripts|r'ı günlük Dünya Etkinliği görevleri, günlük Imperial City görevleri ve günlük Cesur görevler aracılığıyla kullanın.
+{{62156964-0-560:}}Herkes düşmanları yenerek Script'lerini yağmalayabilir, ancak Scribing sistemine erişmek için Altın Yol Bölümünü satın almak gerekir. Ek olarak, Karalama'ya erişebilmeniz için karakterinizin en az 30. seviyede olması veya en az bir Şampiyon Puanına sahip olması gerekir.\n\nKayıp Yazma sanatı sizi bekliyor! Maceranıza başlamak için, Koleksiyonlar menüsünün Yükseltmeler bölümündeki Karalama koleksiyonundan "İkinci Yazma Çağı" görevine erişin veya Skingrad'daki Büyücüler Loncası yakınında Usta Irnard Rirnil'i arayın.
 {{62156964-0-561:}}"Ejderhanın Kanadı" görevini tamamladıktan sonra Başbüyücü Vanus Galerion, Tamriel'deki Büyücüler Loncası salonlarında bir dizi faydalı komut dosyasını kullanıma sunacak. \n\nBu hediyeleri şu şehirlerdeki Büyücüler Lonca Salonlarında bulabilirsiniz:\n- Vulkhel Muhafızı\n- Davon'un Gözcüsü\n- Daggerfall\n- Wayrest\n- Elden Root\n- Mournhold\n- Riften\n- Evermore\n- Rawl'kha
-{{62156964-0-559:}}Seçtiğiniz Büyü Kitabı ve Komut Dosyalarındaki sihri mühürleyerek, Karalama işlemini tamamlamak için Parıldayan Mürekkep gereklidir. Yazılı Beceriye eklenen veya değiştirilen her Komut dosyası, bir Parıldayan Mürekkep tüketir.\n\n"Indrik'in Kanadı" görevini tamamladıktan sonra, Parıldayan Mürekkep, mağlup edilen düşmanlardan nadiren düşer. "Ağın Kanadı" görevini tamamladıktan sonra, Işıltılı Mürekkep hasat malzemelerinden nadiren düşecektir.
+{{62156964-0-559:}}Seçtiğiniz Grimoire ve Script'leri sihri mühürleyerek, Scribing işlemini tamamlamak için Luminous Ink gereklidir. Yazılı Beceriye eklenen veya değiştirilen her Komut dosyası, bir Parıldayan Mürekkep tüketir.\n\n"Indrik'in Kanadı" görevini tamamladıktan sonra, Parıldayan Mürekkep, mağlup edilen düşmanlardan nadiren düşer. "Ağın Kanadı" görevini tamamladıktan sonra, Işıltılı Mürekkep hasat malzemelerinden nadiren düşecektir.
 {{62156964-0-563:}}Beceri Stilleri, karakterinizin becerilerinin görsel unsurlarını değiştiren tamamen kozmetik bir seçenektir. Becerilerin hasarını veya etkisini hiçbir şekilde etkilemezler. Beceri Stilleri, edinildikten sonra hesabınızdaki tüm karakterlerin erişimine açıktır. \n\nBir Beceri Stilini etkinleştirmek için ilgili Beceri Serisine göz atın. Stil uygulanabilen beceriler, adlarının solunda bir stil seçiciye sahip olacaktır. Kullanmak istediğiniz Beceri Stilini uygulamak için seçiciyi kullanın.
-{{62156964-0-558:}}Scholarium'un her Kanadı ile ilişkili görevi tamamlamak size ilgili Luminary'nin mührünü kazandırır. Bu mühür, Luminary'nin Scholarium'a olan bağlılığını ve sunakla olan bağlantısını temsil eder. Her Mühür, hesabınızdaki karakterlere belirli avantajlar sağlayan, hesap çapında bir koleksiyon parçasının kilidini açar.\n\n|cFFFFFFAydınlık Indrik'in Mührü|r\n• Scholarium Satıcısı Chronicler Firandil'in kilidini açar.\n• Hisse Senedi Chronicler Firandil'in tüm özellikleriyle birlikte kilidini açar. Gold Road Grimoires'ı başlatır.\n• Canavarları yenerken Luminous Ink'in nadiren düşmesine izin verir.\n\n|cFFFFFFLuminary Gryphon'un Mührü|r\n• Günlük Delve görevlerinden ve günlük Büyücüler Loncası görevlerinden olası ödüller olarak Odaklanma Scriptleri ekler ve Değerliler için PvP Ödülleri. \n• Scholarium Satıcısı ve Sonsuz Arşiv Satıcısı üzerinde dönüşümlü olarak Odaklanma Komut Dosyalarının kilidini açar.\n\n|cFFFFFFAydın Ejderhanın Mührü|r\n• Günlük Cyrodiil Dünya Baş Düşmanı görevlerinden olası ödüller olarak İmza Scriptleri ekler görevler ve günlük Savaşçılar Loncası görevleri. \n• Scholarium Satıcısı ve Sonsuz Arşiv Satıcısı'nda dönüşümlü olarak İmza Scriptleri seçiminin kilidini açar.\n• İlgili Yardım dosyasında özetlenen Büyücüler Loncası Destekli Script takibinin kilidini açar.\n• Ana hatlarıyla belirtilen Sınıf Ustalığı Signature Script takibinin kilidini açar ilgili Yardım dosyasında.\n\n|cFFFFFFAydınlık Netch'in Mührü|r\n• Günlük Dünya Etkinliği görevlerinden, günlük İmparatorluk Şehri görevlerinden ve günlük Undaunted görevlerinden olası ödüller olarak İliştirme Komut Dosyalarını ekler.\n• Dönen bir görevin kilidini açar Scholarium Satıcısı ve Sonsuz Arşiv Satıcısı'ndaki Yapıştırma Komut Dosyalarının seçimi.\n• Üretim malzemeleri toplanırken Parlak Mürekkebin nadiren düşmesine olanak tanır.
+{{62156964-0-558:}}Scholarium'un her Kanadı ile ilişkili görevi tamamlamak size ilgili Luminary'nin mührünü kazandırır. Bu mühür, Luminary'nin Scholarium'a olan bağlılığını ve sunakla olan bağlantısını temsil eder. Her Mühür, hesabınızdaki karakterlere belirli avantajlar sağlayan, hesap çapında bir koleksiyon parçasının kilidini açar.\n\n|cFFFFFFAydınlık Indrik'in Mührü|r\n• Scholarium Satıcısı Chronicler Firandil'in kilidini açar.\n• Hisse Senedi Chronicler Firandil'in tüm özellikleriyle birlikte kilidini açar. Gold Road Grimoires'ı başlatır.\n• Canavarları yenerken Luminous Ink'in nadiren düşmesine izin verir.\n\n|cFFFFFFLuminary Gryphon'un Mührü|r\n• Günlük Delve görevlerinden ve günlük Büyücüler Loncası görevlerinden olası ödüller olarak Odaklanma Scriptleri ekler ve Değerliler için PvP Ödülleri. \n• Scholarium Satıcısı ve Sonsuz Arşiv Satıcısı üzerinde dönüşümlü olarak Odaklanma Script'lerinin kilidini açar.\n\n|cFFFFFFAydın Ejderhanın Mührü|r\n• Günlük Cyrodiil Dünya Baş Düşmanı görevlerinden olası ödüller olarak Signature Scriptleri ekler görevler ve günlük Savaşçılar Loncası görevleri. \n• Scholarium Satıcısı ve Sonsuz Arşiv Satıcısı'nda dönüşümlü olarak Signature Scriptleri seçiminin kilidini açar.\n• İlgili Yardım dosyasında özetlenen Büyücüler Loncası Destekli Script takibinin kilidini açar.\n• Ana hatlarıyla belirtilen Sınıf Ustalığı Signature Script takibinin kilidini açar ilgili Yardım dosyasında.\n\n|cFFFFFFAydınlık Netch'in Mührü|r\n• Günlük Dünya Etkinliği görevlerinden, günlük İmparatorluk Şehri görevlerinden ve günlük Undaunted görevlerinden olası ödüller olarak Affix Script'lerini ekler.\n• Dönen bir görevin kilidini açar Scholarium Satıcısı ve Sonsuz Arşiv Satıcısı'ndaki Affix Script'lerinin seçimi.\n• Üretim malzemeleri toplanırken Parlak Mürekkebin nadiren düşmesine olanak tanır.
 {{62156964-0-551:}}Lucent Citadel, West Weald'ın kuzey ucunda bulunan 12 kişilik bir denemedir. Keşfedildikten sonra, Lucent Citadel simgesini seçerek geri dönmek için hızlı seyahat ağını kullanabilirsiniz.\n\nLucent Citadel için iki farklı zorluk modu mevcuttur: Normal ve Kıdemli. Her seviyedeki oyuncular Normal moda erişebilir. Kıdemli modun kilidi 50. seviyeye ulaştığınızda açılır. Kıdemli modu çok daha zorludur ancak riske karşılık daha büyük ödüllere sahiptir!
 {{62156964-0-550:}}Scribing, yepyeni beceriler toplamanıza ve özelleştirmenize olanak tanıyan benzersiz ve ilgi çekici bir sistemdir. Karalama yapmak, eski bir kütüphanede bir gizemi keşfedeceğiniz ve büyünün kalbini şekillendirmeyi öğreneceğiniz yeni bir maceranın parçasıdır.
-{{62156964-0-553:}}Yazma Altarına erişim kazanmak için "Yazmanın İkinci Çağı" görevini tamamlamanız gerekir. Bu görevi tamamladığınızda ayrıca Grimoire'a ve Yazma becerisi için gerekli olan Komut Dosyalarına da erişebileceksiniz.\n\nYazma işlemi yalnızca Eyevea'nın altındaki Scholarium'da tamamlanabilir. Bir Beceri Yazmak için <<1>> tuşuna basarak Altar ile etkileşime geçin.
+{{62156964-0-553:}}Yazma Altarına erişim kazanmak için "Yazmanın İkinci Çağı" görevini tamamlamanız gerekir. Bu görevi tamamladığınızda ayrıca Grimoire'a ve Yazma becerisi için gerekli olan Scriptlere de erişebileceksiniz.\n\nScribing işlemi yalnızca Eyevea'nın altındaki Scholarium'da tamamlanabilir. Bir Beceri Yazmak için <<1>> tuşuna basarak Altar ile etkileşime geçin.
 {{62156964-0-552:}}Mirrormoor'un güçlü güçleri West Weald'a saldırarak kaos yaratmaya ve kayıp Prenslerini bulmaya çalışır. Daedrik Alem'in Nirn'e müdahale ettiği noktalara "Mozaikler" denir. Her Mosaic'te, Mirrormoor Generallerinden oluşan üçlü saldırıyı yönetiyor. Bu Generaller, her Mozaik'in büyülü mahallinin etrafındaki kilit noktalarda konumlandırılmış olup, Mirrormoor ile Nirn arasındaki kapıyı sonuna kadar açacak olan ritüeli tamamlama niyetindedirler. Mirrormoor'dan çağırdıkları varlıkları yok edin ve ritüeli bozmak ve West Weald'e barışı sağlamak için Üçlü'nün sonunu getirin. \n\nMirrormoor Mozaikleri haritada işaretlenir ve aktif hale geldiklerinde çapraz kılıçlarla işaretlenirler. Yaklaştıkça onları bulmak için gökyüzündeki ışıltılı ayna kristallerini ve dünyadaki kaderin parıldayan altın ipliklerini arayın.
-{{62156964-0-555:}}Her Script, bir Yazılmış yeteneğe uygulayabileceğiniz benzersiz bir etkiye sahiptir. Komut dosyaları, "Scriptler Nasıl Edinilir?" Yardım dosyasında ayrıntıları verilen çeşitli yollarla yağmalanabilir veya satın alınabilir. Bir Script envanterinize girdiğinde, o karakter için Yazma Altarındaki Script efektinin kalıcı olarak kilidini açmak için onu tüketebilirsiniz.
+{{62156964-0-555:}}Her Script, bir Yazılmış yeteneğe uygulayabileceğiniz benzersiz bir etkiye sahiptir. Scriptler, "Scriptler Nasıl Edinilir?" Yardım dosyasında ayrıntıları verilen çeşitli yollarla yağmalanabilir veya satın alınabilir. Bir Script envanterinize girdiğinde, o karakter için Yazma Altarındaki Script efektinin kalıcı olarak kilidini açmak için onu tüketebilirsiniz.
 {{62156964-0-554:}}Grimoire'lar tüm Yazılı becerilerin temelidir. Bir Grimoire satın aldıktan sonra, onu kullanarak ilgili beceri hattında o karakterde kalıcı olarak yeni bir becerinin kilidini açabilirsiniz. Grimoire'lar altın değerindedir ve "Indrik'in Kanadı" görevini tamamladıktan sonra Scholarium'daki Chronicler Firandil'den satın alınabilir.
 {{62156964-0-549:}}Altın Yol, 2024'ün bölümüdür.\n\nAltın Yol'a ulaşmak için: Yeni bir karakter oluşturun ve eğitimi baştan sona oynayın. Portallar odasına girdiğinizde başlangıç varış noktanız olarak Gold Road'u seçin. Skingrad şehrine doğru ilerleyin ve Bilge Leramil'i arayın ya da mevcut bir karakterle bölgeye seyahat edin.
-{{241484741-1-183:}}Işık
+{{241484741-1-183:}}Hafif
 {{241484741-3-183:}}Ağır
 {{241484741-0-183:}}Hafif (Cüppeli)
 {{241484741-2-183:}}Orta
@@ -12553,7 +12553,7 @@
 {{162946485-0-21855:}}Labirent
 {{162946485-0-22083:}}West Weald
 {{162946485-0-22267:}}Q7217 - Dagon Anahtar Sandığı 2
-{{162946485-0-21138:}}Aramak
+{{162946485-0-21138:}}Ara
 {{162946485-0-21891:}}Q7104 - Grup Katmanına Giriş Eğitimi
 {{162946485-0-21989:}}Oyuncu Uçuş Bölgesi
 {{162946485-0-21981:}}Labirent
@@ -13306,7 +13306,7 @@
 {{115740052-0-49586:}}Ölümlü, yardım et bana. Lütfen.
 {{115740052-0-49585:}}Benim gidemediğim yere git, vekil. Bu kader düğümünü çözün.
 {{115740052-0-50170:}}Bunun için onun adı neydi ona mı inanacaksın? İmparatorluklarla gizli anlaşma yapan Elf mi?
-{{115740052-0-50171:}}Yeşilkonuşan Darolith Beragon'a inanıyor.
+{{115740052-0-50171:}}Greenspeaker Darolith, Beragon'a inanıyor.
 {{115740052-0-50173:}}Neye inanacağımı bilmiyorum. Herhangi bir kanıt var mı?
 {{115740052-0-49183:}}Bizi kurtardın! Lütfen, onu durdurmalısın.
 {{115740052-0-49182:}}Etkileri şimdiden azalmış gibi görünüyor.
@@ -13399,7 +13399,7 @@
 {{115740052-0-49715:}}Hayır bu benim kaderim olamaz...
 {{115740052-0-49718:}}Ana kapı orası. Orada bir sürü Hatıra var. Savaşmadan bunların üstesinden gelmemizin imkanı yok.
 {{115740052-0-49719:}}Ben Ayleidlerin varisiyim ve Ithelia'nın sevgilisiyim! Reddedilmeyeceğim!
-{{115740052-0-50057:}}Sağ. Yolu göster, gezgin. Kapı koridorun hemen aşağısında.
+{{115740052-0-50057:}}Doğru. Yolu göster, gezgin. Kapı koridorun hemen aşağısında.
 {{115740052-0-50055:}}Buraya dostum! Yapacak daha çok işimiz var!
 {{115740052-0-48908:}}Ah, kutsal emanetlerin içinden akmanın gücünü hissedebiliyorum. Tebrikler! Artık Scruut ve benim nasıl ilerleyeceğimize dair bir fikrimiz var.
 {{115740052-0-48909:}}Bu portal bizi Fargrave'e götürecek.
@@ -14048,7 +14048,7 @@
 {{115740052-0-50065:}}Fargrave'i çevreleyen kaderin ipleri kargaşa içinde. Yakında önemli bir şey gerçekleşecek.
 {{115740052-0-51148:}}Kutsal emanetler bu tarafta... minik ölümlülerin duvarında toz topluyor.
 {{115740052-0-48948:}}Çabuk, iradeyi yakala!
-{{115740052-0-48949:}}Sağ. İşte buradasın.
+{{115740052-0-48949:}}Doğru. İşte buradasın.
 {{115740052-0-48940:}}Meraklı. Hadi Konuşalım.
 {{115740052-0-49176:}}Lanet köpek! Hala nasıl hayattasın?
 {{115740052-0-49177:}}Skingrad Kontu kaderinize karar verecek.
@@ -14201,7 +14201,7 @@
 {{115740052-0-50461:}}Kendinize çok fazla dikkat çekmemeye çalışın. Goblinleri gereğinden fazla strese sokmak istemiyorum.
 {{115740052-0-48992:}}Defol zavallı! Kuyunun gücü benimdir!
 {{115740052-0-49792:}}İnanamıyorum! Buna inanabiliyor musun, Clen?
-{{115740052-0-49791:}}Sağ. Oradan Anvil'e doğru yola çıkıyoruz. Ama bu… ah. Gezgin, merhaba.
+{{115740052-0-49791:}}Doğru. Oradan Anvil'e doğru yola çıkıyoruz. Ama bu… ah. Gezgin, merhaba.
 {{115740052-0-49796:}}Şimdi! Lady Sowerra'nın performansını iyileştirmenin zamanı geldi. Gel benimle konuş.
 {{115740052-0-49797:}}Nöbet tutun Bay Klauser! Bu yeni hareket odaklanmayı gerektiriyor.
 {{115740052-0-49794:}}Bir gün bu harabeyi daha detaylı keşfetmemiz gerekecek. Bugün değil ama.
@@ -15761,15 +15761,15 @@
 {{267697733-0-8833:}}Karga Mührü
 {{267697733-0-8715:}}Gerçeklik Restorasyonu Parşömeni
 {{267697733-0-8780:}}Tuzakçının Notu
-{{267697733-0-8784:}}Sürüm
+{{267697733-0-8784:}}Versidue
 {{255457492-0-309:}}<<1>> at
-{{255457492-0-217:}}<<1>> kullanın
-{{255457492-0-294:}}<<1>> kullanın
+{{255457492-0-217:}}<<1>> kullan
+{{255457492-0-294:}}<<1>> kullan
 {{255457492-0-296:}}Getir oyna
-{{255457492-0-312:}}<<1>> kullanın
-{{255457492-0-313:}}<<1>> kullanın
+{{255457492-0-312:}}<<1>> kullan
+{{255457492-0-313:}}<<1>> kullan
 {{255457492-0-289:}}<<1>> at
-{{255457492-0-314:}}<<1>> kullanın
+{{255457492-0-314:}}<<1>> kullan
 {{91716526-0-34:}}Bu simge Kralların Muskası olacak, çünkü ben Ruhların Kralıyım ve sen de Ölümlülerin Kraliçesisin. Sen tüm ölümlü bedenlere tanıklık edeceksin, ben de tüm ölümsüz ruhlara tanıklık edeceğim. - Akatosh'tan Alessia'ya, Aziz Alessia'nın Duruşmaları
 {{91716526-0-33:}}Bu simge Kralların Muskası olacak, çünkü ben Ruhların Kralıyım ve sen de Ölümlülerin Kraliçesisin. Sen tüm ölümlü bedenlere tanıklık edeceksin, ben de tüm ölümsüz ruhlara tanıklık edeceğim. - Akatosh'tan Alessia'ya, Aziz Alessia'nın Duruşmaları
 {{73074773-0-675:}}Huntlands-Kutsanmış Deri
@@ -15817,13 +15817,13 @@
 {{204987124-0-81015:}}Yani yaratılışı bulmak için sadece lensi mi kullanmam gerekiyor?
 {{204987124-0-79319:}}Shardmarshal Vargas ve Kral Nantharion ne istiyor?
 {{204987124-0-79318:}}Ne keşfettik?
-{{204987124-1-79020:}}sabırlı bir kadındır.
+{{204987124-1-79020:}}Sabırlı bir kadındır.
 {{204987124-0-80819:}}İlginç.
 {{204987124-0-81438:}}Anlıyorum. Seninle Skingrad'ın Kanun Kaçakları Sığınma Evi'nde buluşacağım.
 {{204987124-0-78596:}}O karışıyor ama istersen bir mesaj iletebilirim.
 {{204987124-0-78598:}}Aile üyelerinin sorgulanmasına yardımcı olacağım.
 {{204987124-0-81298:}}Elbette. O halde içeri girelim.
-{{204987124-0-78599:}}Sağ. Bunu yapacağım.
+{{204987124-0-78599:}}Doğru. Bunu yapacağım.
 {{204987124-1-81698:}}Bana bu yer hakkında başka ne söyleyebilirsin?
 {{204987124-1-81691:}}Lambanın Düzeni. Bana onlar hakkında daha fazla bilgi verebilir misin?
 {{204987124-0-82014:}}Mehrunes Dagon'dan cretia'yı nereden çalıyoruz?
@@ -15915,7 +15915,7 @@
 {{204987124-0-78399:}}Thriker'ın Orman Elflerine hizmet ettiğini mi düşünüyorsun?
 {{204987124-0-81748:}}Peki paradoks bu mu?
 {{204987124-0-81747:}}Yani Scholarium'u kaybetmeden önce Ejderha ile konuştu.
-{{204987124-0-81746:}}Sağ.
+{{204987124-0-81746:}}Doğru.
 {{204987124-0-81741:}}Seni daha iyi anlamak için sana sorular sorabilir miyim?
 {{204987124-0-80839:}}O nerede?
 {{204987124-0-80834:}}Çiril benden seninle konuşmamı istedi. Laeni ve Clendagal şehri terk edecekler.
@@ -16038,8 +16038,8 @@
 {{204987124-1-81715:}}Yazmak tam olarak nedir?
 {{204987124-0-80155:}}Benimle gelmiyor musun?
 {{204987124-0-78958:}}Peki bu delikleri gerçekte nasıl düzeltebiliriz?
-{{204987124-0-78950:}}Sağ. Partinin tadını çıkar.
-{{204987124-0-78951:}}Sağ. Partinin tadını çıkar.
+{{204987124-0-78950:}}Doğru. Partinin tadını çıkar.
+{{204987124-0-78951:}}Doğru. Partinin tadını çıkar.
 {{204987124-0-78954:}}Elbette. Gidip Ithelia'yı durduralım.
 {{204987124-0-79607:}}Devam et o zaman.
 {{204987124-0-79604:}}Ah. Yolunda durmama izin verme.
@@ -16103,7 +16103,7 @@
 {{204987124-0-81794:}}Ve sonra ne?
 {{204987124-0-81795:}}Bana bundan bahset.
 {{204987124-0-78758:}}Ama Çile'nin sana Çok Yollu Asa'nın kullanıldığı yerleri gösterdiğini söyledin.
-{{204987124-0-81240:}}Sağ.
+{{204987124-0-81240:}}Doğru.
 {{204987124-0-81241:}}Onun yaptığını denemek ve yaşatmak ister misin?
 {{204987124-0-81243:}}Loncanın Yazarlığa geçeceğini mi düşünüyorsun?
 {{204987124-0-81245:}}Oldukça uzun bir yolculuktu Nahlia.
@@ -16370,7 +16370,7 @@
 {{204987124-0-81800:}}Kocasından mı bahsediyorsun? Şalidor mu?
 {{204987124-0-80936:}}Masaldan başka bir sayfayı buraya mı sakladın?
 {{204987124-0-81412:}}Kayıp şarabı hâlâ Legion's Rest'te aramayı planlıyorum.
-{{204987124-0-81518:}}Sağ. Hadi gidelim.
+{{204987124-0-81518:}}Doğru. Hadi gidelim.
 {{204987124-2-81593:}}Rustwall Malikanesi hakkında ne bilmeliyim?
 {{204987124-0-81512:}}Indrik hakkında ne düşünüyorsunuz?
 {{204987124-0-81514:}}Bu ölümlüyü nereden tanıyorsun?
@@ -17500,7 +17500,7 @@
 {{204987124-0-80966:}}O başka biriydi. Konuştuğum Belienne sana yardım etmek istiyor.
 {{204987124-0-80968:}}Ne yapmalıyız?
 {{204987124-0-80969:}}Peki buradaki tehdit bitti mi?
-{{204987124-0-81188:}}Sağ. Hadi konuya girelim.
+{{204987124-0-81188:}}Doğru. Hadi konuya girelim.
 {{204987124-1-82511:}}Bana yorgunluk ateşinden bahset.
 {{204987124-0-78967:}}Ostumir'de, Recollection'ın yeni ormanı yaratmak için yabani ot tohumu kullandığını öğrendim.
 {{204987124-0-79617:}}Yeşil Pakt'la neden bir sorunları olsun ki?
@@ -17679,7 +17679,7 @@
 {{204987124-0-81685:}}Bir Tribute destesi oluşturduğunuzu mu söylediniz?
 {{204987124-0-82131:}}Nişanlıyken seni terk ettiği için Fennorian'ı affettin mi?
 {{204987124-1-81405:}}Armatür anahtarları neden gizlendi?
-{{204987124-0-78948:}}Sağ. Bunu yapacağım.
+{{204987124-0-78948:}}Doğru. Bunu yapacağım.
 {{204987124-1-81907:}}Sihri "görebildiği"yle ne demek istiyorsun?
 {{204987124-1-81905:}}Bana Feldagard Kalesi'nden bahset.
 {{204987124-1-81903:}}Gücünü neden geyik yavrusuna verdin?
@@ -17841,9 +17841,9 @@
 {{204987124-0-81473:}}Yani bağ ve şaraphaneyi sen mi işleteceksin?
 {{204987124-0-81472:}}Kocanız hakkında….
 {{204987124-0-81470:}}Bu yüzden mi Ulfsild'in sanatı mükemmelleştirmesine yardım ettin?
-{{204987124-1-82107:}}Karalamanın işe yaramasını sağlayan şey nedir? Grimoire'lar, senaryolar ve mürekkep?
-{{204987124-1-82105:}}Karalamanın işe yaramasını sağlayan şey nedir? Grimoire'lar, senaryolar ve mürekkep?
-{{204987124-1-82100:}}Karalamanın işe yaramasını sağlayan şey nedir? Grimoire'lar, senaryolar ve mürekkep?
+{{204987124-1-82107:}}Scribing'in işe yaramasını sağlayan şey nedir? Grimoire'lar, scriptler ve mürekkep?
+{{204987124-1-82105:}}Scribing'in işe yaramasını sağlayan şey nedir? Grimoire'lar, scriptler ve mürekkep?
+{{204987124-1-82100:}}Scribing'in işe yaramasını sağlayan şey nedir? Grimoire'lar, scriptler ve mürekkep?
 {{204987124-1-82109:}}Neden Summerset adalarına benziyor?
 {{204987124-1-82108:}}Ulfsild Scribing'i neden geliştirdi?
 {{204987124-0-78624:}}Başka birini gördün mü?
@@ -18105,7 +18105,7 @@
 {{204987124-0-80909:}}Birincil benliğiniz sizi arıyor.
 {{204987124-1-81720:}}Hadi Tribute oynayalım. (|t32:32:EsoUI/Art/Icons/ServiceMapPins/servicePin_TalesOfTribute.dds|t)
 {{204987124-0-79761:}}Baron Carvain ve Leydi Raxalee ile konuşacağım.
-{{204987124-0-79763:}}Sağ. Peki bundan sonra ne yapacaksın Leramil?
+{{204987124-0-79763:}}Doğru. Peki bundan sonra ne yapacaksın Leramil?
 {{204987124-2-80834:}}Size Yayılma Ayini hakkında birkaç soru sorabilir miyim?
 {{204987124-2-80835:}}Size Yayılma Ayini hakkında birkaç soru sorabilir miyim?
 {{204987124-0-80016:}}Ne demek istiyorsun? Sonsuza kadar birlikte olamayacaklarını biliyorlar mıydı?
@@ -21805,7 +21805,7 @@
 {{198758357-0-216420:}}Tüy Patlaması
 {{198758357-0-218489:}}Aggro Penceresi
 {{198758357-0-218488:}}Şok edici Dokunuş
-{{198758357-0-209706:}}Aramak
+{{198758357-0-209706:}}Ara
 {{198758357-0-205555:}}Gölge Tekmesi
 {{198758357-0-219358:}}Yeniden yapılanma
 {{198758357-0-219359:}}Yeniden yapılanma
@@ -25926,7 +25926,7 @@
 {{198758357-0-220531:}}Kahramanlık Meşalesi
 {{198758357-0-222394:}}Işınlanma Arıza Koruması
 {{198758357-0-222395:}}Işınlanma Arıza Koruması
-{{198758357-0-213410:}}Hak talebinde bulunuluyor
+{{198758357-0-213410:}}Alınıyor
 {{198758357-0-216345:}}Yeniden Silahlanma Yükü
 {{198758357-0-217303:}}Mender'in Tahvili
 {{198758357-0-217302:}}Mender'in Tahvili
@@ -27124,10 +27124,10 @@
 {{172030117-0-3998:}}Affix Script: Berserk
 {{172030117-0-3997:}}Signature Script: Eskrimcinin Siperliği
 {{172030117-0-3996:}}Focus Script: Kanama Hasarı
-{{172030117-0-3995:}}İmza Script: Sınıf Ustalığı
+{{172030117-0-3995:}}Signature Script: Sınıf Ustalığı
 {{172030117-0-3994:}}Odaklanma Script: Fiziksel Hasar
 {{172030117-0-3993:}}Odaklanma Script: Büyü Hasarı
-{{172030117-0-3992:}}Klas Sahibi Bir İmza
+{{172030117-0-3992:}}Sınıf ile Signature
 {{172030117-0-3991:}}500 Mürekkep edinin
 {{172030117-0-3990:}}50 Mürekkep edinin
 {{172030117-17-4051:}}Blackwood'un Şampiyonu
@@ -27169,15 +27169,15 @@
 {{172030117-0-4049:}}Unutulan Prensin Kaderi
 {{172030117-0-4045:}}Zincirkıran Kaptan
 {{172030117-0-4046:}}Aziz Alessia'nın Koruyucu Gücünü Kullan
-{{172030117-3-3992:}}İmza Script Ustalığı
+{{172030117-3-3992:}}Signature Script Ustalığı
 {{172030117-0-4047:}}Usta Kaledonya'yı yen
-{{172030117-3-3993:}}İmza Script: Sage'in Çaresi
+{{172030117-3-3993:}}Signature Script: Sage'in Çaresi
 {{172030117-0-4040:}}Julianos Hacıları ile konuşun
 {{172030117-0-4041:}}Minotaur Liderini yen
 {{172030117-0-4043:}}İzindeki Takipçi
-{{172030117-3-3994:}}İmza Script: Avcı Tuzağı
+{{172030117-3-3994:}}Signature Script: Avcı Tuzağı
 {{172030117-1-3923:}}Kemerler için Shardborn Stilini Öğrenin
-{{172030117-9-3997:}}İmza Script: Wayfarer'ın Ustalığı
+{{172030117-9-3997:}}Signature Script: Wayfarer'ın Ustalığı
 {{172030117-9-3998:}}Affix Script: Expedition
 {{172030117-9-3999:}}Büyük Şifa, Leylak Moru
 {{172030117-7-3949:}}West Weald Skyshard 8
@@ -27199,10 +27199,10 @@
 {{172030117-4-3985:}}Ejderhanın Kanadı
 {{172030117-4-3986:}}Elementsel Patlama
 {{172030117-4-3988:}}Elementsel Patlama
-{{172030117-2-3993:}}İmza Script: Devam Eden Eziyet
+{{172030117-2-3993:}}Signature Script: Devam Eden Eziyet
 {{172030117-2-3992:}}Odaklanma Script Ustalığı
 {{172030117-2-3994:}}Odaklanma Script: Hasar Kalkanı
-{{172030117-2-3997:}}İmza Script: Büyüyen Etki
+{{172030117-2-3997:}}Signature Script: Büyüyen Etki
 {{172030117-2-3996:}}Odaklanma Script: Dağıt
 {{172030117-0-4017:}}Dremora'nın Öldürülmesi
 {{172030117-6-4043:}}Gerçeği Yansıtan
@@ -27281,9 +27281,9 @@
 {{172030117-0-4028:}}Sıkı kavrama
 {{172030117-0-4026:}}Mührü Kırmak
 {{172030117-0-4027:}}Paylaşılan Sorumluluklar
-{{172030117-5-3997:}}İmza Script: Crusader's Defiance
+{{172030117-5-3997:}}Signature Script: Crusader's Defiance
 {{172030117-7-3996:}}Odaklanma Script: Geri Tepme
-{{172030117-7-3997:}}İmza Script: Hareketsizleştirme Saldırısı
+{{172030117-7-3997:}}Signature Script: Hareketsizleştirme Saldırısı
 {{172030117-7-3994:}}Affix Script: Maim
 {{172030117-7-3998:}}Affix Script: Enervation
 {{172030117-7-3999:}}Cleave, Zincifre Kırmızısı
@@ -27321,7 +27321,7 @@
 {{172030117-0-3987:}}Yazarın İlk Becerisi
 {{172030117-0-3988:}}Kasa
 {{172030117-0-3989:}}5 Mürekkep edinin
-{{172030117-10-3997:}}İmza Script: Knight's Valor
+{{172030117-10-3997:}}Signature Script: Knight's Valor
 {{172030117-10-3996:}}Odaklanma Script: Zehir Hasarı
 {{172030117-10-3998:}}Affix Script: Force
 {{172030117-9-3996:}}Odaklanma Script: Çoklu Hedef
@@ -27340,11 +27340,11 @@
 {{172030117-15-3999:}}Meteor, Alevli Turuncu
 {{172030117-14-3949:}}West Weald Skyshard 15
 {{172030117-1-4066:}}Destek Beceri Sıralaması 5
-{{172030117-13-3997:}}İmza Script: Suikastçının Sefaleti
+{{172030117-13-3997:}}Signature Script: Suikastçının Sefaleti
 {{172030117-0-4151:}}Yüksek Uçan
 {{172030117-12-3999:}}Koruma Kutsaması, Gök Mavisi
 {{172030117-12-3998:}}Affix Script: Zeka ve Dayanıklılık
-{{172030117-12-3997:}}İmza Script: Anchorite'ın Gücü
+{{172030117-12-3997:}}Signature Script: Anchorite'ın Gücü
 {{172030117-12-3996:}}Odaklanma Script: Kaynakları Geri Yükleme
 {{172030117-5-3960:}}Meşe Kesici
 {{172030117-5-3969:}}Olo Gölü Kuyusu
@@ -27354,7 +27354,7 @@
 {{172030117-1-4043:}}Yanlış Umut
 {{172030117-1-4040:}}Yükselen Performansçıyı Etkileyin
 {{172030117-6-3994:}}Affix Script: Canlılık
-{{172030117-6-3997:}}İmza Script: Sülük Susuzluğu
+{{172030117-6-3997:}}Signature Script: Sülük Susuzluğu
 {{172030117-6-3996:}}Odaklanma Script: Hareketsizleştir
 {{172030117-6-3993:}}Affix Script: Denge Dışı
 {{172030117-6-3999:}}Şafak Kıran, Alacakaranlık Moru
@@ -27509,7 +27509,7 @@
 {{116521668-0-16877:}}Rapor? Okumadın değil mi? Önemi yok. Zaten benim raporum Ulrath'ınkini geçersiz kılıyor. En azından Ork hak ettiğini buldu. Nasıl olur da karşı çıkar... yani emirlerime itaatsizlik eder.\n\nİşte söz verdiğim paralı asker maaşı. Bunu hak ettin.
 {{116521668-0-16944:}}Sunak tamamen yenilendi, Scholarium'un her kanadı açık ve güçle dolu. Ve hepsi senin sayende. \n\nSen ve ben birlikte Scribing'i geri verdik, Ulfsild'in mirasını dünyaya geri verdik. Bundan ne çıkaracağını görmek için sabırsızlanıyorum.
 {{116521668-0-16433:}}Harika! Kuyu! Kolaydı. Sanırım ikimiz de büyücü olmadığımız için dünya şanslı, yoksa bu harabeleri kendimiz için talep edebilirdik!\n\nBunu istediğimden değil. Açıkça. Kim büyücü olmak ister? Neyse, işte ödülünüz.
-{{116521668-0-16431:}}Tam mı? Sağ. Onun benim için olduğu gibi benim de onun için burada olmam gerekiyor. İster vampir olarak kalmaya, ister tedaviyi aramaya karar versin, ona yardım edin. En azından bunu yapabilirim.\n\nUnutma, iyilik borçlu olmayı sevmiyorum. Öyleyse şunu al. Onu almanı istiyorum. Tüm yardımlarınız için.
+{{116521668-0-16431:}}Tham? Doğru. Onun benim için olduğu gibi benim de onun için burada olmam gerekiyor. İster vampir olarak kalmaya, ister tedaviyi aramaya karar versin, ona yardım edin. En azından bunu yapabilirim.\n\nUnutma, iyilik borçlu olmayı sevmiyorum. Öyleyse şunu al. Onu almanı istiyorum. Tüm yardımlarınız için.
 {{116521668-0-16438:}}Seçilen görüntüleri takdir etmesem de, ne demek istediğinizi anlıyorum. Evet. Nişanlanmaya giden uzun yol yalnız bir yol olmasına rağmen, bu yolda memnuniyetle yürüyeceğim.\n\nTeşekkür ederim gezgin. Bu altını ve derin saygımı kazandın.
 {{116521668-0-16864:}}Bunu saklamaman iyi bir şey. Işığı görmek? Ruhlar ve ruh büyüsü bilinmeyen olaylar değildir, ancak iyi bir şekilde belgelenmemiştir. Keshargo, Xoryn ve büyücülerinin neler yapabileceğini bilmiyor.\n\nBurada. Sağduyunun ödülü.
 {{116521668-0-16866:}}Beni övüyor ama haklı. Ne olduğunu tam olarak biliyorum. Bu o aptal Xoryn'in hatası. Ama kendimin önüne geçiyorum. \n\nBuraya meraktan geldiniz. Bu, teşvik etmeyi sevdiğim bir değer. Bunu faiz göstermenin bedeli olarak kabul edin.
@@ -28885,7 +28885,7 @@
 {{149328292-1-18500:}}Düğüm benimdir. Ben bunu hak.
 {{149328292-1-18502:}}Bu planın tek kötü yanı burada hiçbir şey yapmadan duruyor olmam.
 {{149328292-1-18503:}}Nereden geldiler?
-{{149328292-1-18504:}}Bu sefer zaferi göreceğiz. Sağ?
+{{149328292-1-18504:}}Bu sefer zaferi göreceğiz. Di mi?
 {{149328292-1-18505:}}Daha fazla iskelete ihtiyacımız var. Bulduğunuz cesetleri kaldırın.
 {{149328292-1-18506:}}Hayaletler huzursuz. Bundan hoşlanmıyorum.
 {{149328292-1-18507:}}Goblinlerle savaşmaktan nefret ediyorum!
@@ -29873,7 +29873,7 @@
 {{7949764-0-79117:}}<<1>> ile konuş
 {{7949764-0-79116:}}Sahtekar Uriel ile konuş
 {{7949764-0-80503:}}Ontus Kasabası halkıyla konuşun
-{{7949764-0-80261:}}Barikatın Çevresine Petrol Dökün
+{{7949764-0-80261:}}Barikatın Çevresine Yağ Dök
 {{7949764-0-80260:}}Yağ Kovasını Alın
 {{7949764-0-80262:}}Balistayı Çalıştır
 {{7949764-0-80264:}}Tribün Alea Idolus ile konuşun
@@ -30034,7 +30034,7 @@
 {{7949764-0-82060:}}Tirum Weed'e Doğru Sıcaklığı Ayarlayın
 {{7949764-0-79142:}}Zehir Kristallerini Topla
 {{7949764-0-79143:}}Zehir Kristallerini Topla
-{{7949764-0-82069:}}Bilge'nin Rüyasını Sürahiye Dökün
+{{7949764-0-82069:}}Bilge'nin Rüyasını Sürahiye Dök
 {{7949764-0-82068:}}Bir Bilgenin Rüyasını Doğru Şekilde Karıştırın
 {{7949764-0-81015:}}Bir Mirrormoor Saldırısını yenilgiye uğratın
 {{7949764-0-79571:}}Maerenah ile konuş
@@ -30361,9 +30361,9 @@
 {{7949764-0-79495:}}Aetherial Shard'ı alın
 {{7949764-0-80758:}}Mücadeleleri Tamamla
 {{7949764-0-78990:}}Grander Nemarcet'le konuş
-{{7949764-0-81266:}}Barikatın Çevresine Petrol Dökün
+{{7949764-0-81266:}}Barikatın Çevresine Petrol Dök
 {{7949764-0-81264:}}Narsis Dren'e dikkatli olmasını söyle
-{{7949764-0-81268:}}Barikatın Çevresine Petrol Dökün
+{{7949764-0-81268:}}Barikatın Çevresine Petrol Dök
 {{7949764-0-78993:}}Silorn'dan çık
 {{7949764-0-82007:}}Bir Fıçı West Weald Wallop Satın Alın
 {{7949764-0-82006:}}West Weald Wallop'tan bir fıçı çalın
@@ -30582,7 +30582,7 @@
 {{7949764-0-80732:}}Karga ile konuş
 {{7949764-0-80731:}}Açıklamalı Fabl'ı okuyun
 {{7949764-0-80730:}}Bir Odak Noktasındaki Objektiften Bakın
-{{7949764-0-81276:}}Barikatın Çevresine Petrol Dökün
+{{7949764-0-81276:}}Barikatın Çevresine Petrol Dök
 {{7949764-0-81270:}}Berraklık Lambasını Kullanın
 {{7949764-0-81279:}}Kalan Daedra'yı öldür
 {{7949764-0-81278:}}Balistayı Çalıştır
@@ -30695,7 +30695,7 @@
 {{7949764-0-81209:}}Edric Brussiner'la konuş
 {{7949764-0-80279:}}Komutan Merian'la konuş
 {{7949764-0-82406:}}Geriye Kalan Küçük Taşları Alın
-{{7949764-0-81267:}}Barikatın Çevresine Petrol Dökün
+{{7949764-0-81267:}}Barikatın Çevresine Petrol Dök
 {{7949764-0-79643:}}Beragon'la konuş
 {{7949764-0-79641:}}Ithelia'nın Anısını Gözlemleyin
 {{7949764-0-79646:}}<<1>> ile konuş
@@ -31028,7 +31028,7 @@
 {{7949764-0-80952:}}Keskin Diş Totemini Al
 {{7949764-0-82395:}}Mağaralara Girin
 {{7949764-0-80880:}}Legion Araç Paketini Alın
-{{7949764-0-82008:}}Belienne'in Lokumu için İçecekler Dökün
+{{7949764-0-82008:}}Belienne'in Lokumu için İçecekler Dök
 {{7949764-0-81305:}}Jerntann'ı yen
 {{7949764-0-80631:}}Anomalileri Araştırın
 {{7949764-0-80314:}}<<1>> ile konuş
@@ -31348,12 +31348,12 @@
 {{256430276-0-65951:}}İpuçları için Müttefiklerinizle Konuşun
 {{74148292-0-549:}}Gold Road'a giden alternatif yollar arasında ittifak başkentlerinden araba veya tekneyle seyahat etmek veya Yolgeçit ağını kullanmak yer alır.
 {{74148292-0-560:}}Görev ilerlemesinin yazılması her karaktere özeldir ve görev serisinin tamamı her zaman mevcuttur. Her karakterin, Scholarium'a erişebilmek için "İkinci Yazma Çağı" eğitim görevini tamamlaması gerekecek.\n\nAncak, Yazma görev serisindeki bir görevi tamamladığınızda, bu görevden elde ettiğiniz avantajlar, üzerindeki tüm karakterler tarafından kullanılabilir. o andan itibaren hesabınız.
-{{74148292-0-562:}}Her Kanadın tamamlanması aynı zamanda satıcılardaki ilgili türdeki Komut Dosyalarının kilidini de açar. Scholarium'da Chronicler Firandil'i ve Sonsuz Arşiv'de Filer Ool'u arayın; her ikisi de stoklarını her hafta dönüşümlü olarak değiştirir.\n\nScholarium Wings'i tamamlamanın avantajları, hesabınızdaki tüm karakterlerde mevcuttur. Bununla birlikte, diğer karakterlerinizdeki "Yazmanın İkinci Çağı" görevini tamamlamadan, Yazma Altarı'na veya Scholarium'a erişemezsiniz.\n\nBüyücüler Loncası Baş Büyücüsü'nün cömertliği sayesinde çeşitli Scriptler, bu görevlerin tamamlanmasının ardından kullanıma sunulacaktır. Ejderhanın Kanadı. Bu Komut Dosyalarının aranması, "Büyücüler Loncası Destekli Scriptler" Yardım dosyasında ayrıntılı olarak açıklanmıştır. Sınıf Ustalığı İmza komut dosyasına yalnızca "Sınıf Ustalık Script" Yardım dosyasında ayrıntıları verilen Sınıf Script Notları aranarak ulaşılabilir.
+{{74148292-0-562:}}Her Kanadın tamamlanması aynı zamanda satıcılardaki ilgili türdeki Script'lerinin kilidini de açar. Scholarium'da Chronicler Firandil'i ve Sonsuz Arşiv'de Filer Ool'u arayın; her ikisi de stoklarını her hafta dönüşümlü olarak değiştirir.\n\nScholarium Wings'i tamamlamanın avantajları, hesabınızdaki tüm karakterlerde mevcuttur. Bununla birlikte, diğer karakterlerinizdeki "Yazmanın İkinci Çağı" görevini tamamlamadan, Yazma Altarı'na veya Scholarium'a erişemezsiniz.\n\nBüyücüler Loncası Baş Büyücüsü'nün cömertliği sayesinde çeşitli Scriptler, bu görevlerin tamamlanmasının ardından kullanıma sunulacaktır. Ejderhanın Kanadı. Bu Script'lerin aranması, "Büyücüler Loncası Destekli Scriptler" Yardım dosyasında ayrıntılı olarak açıklanmıştır. Sınıf Ustalığı Signature Scriptine yalnızca "Sınıf Ustalık Script" Yardım dosyasında ayrıntıları verilen Sınıf Script Notları aranarak ulaşılabilir.
 {{74148292-0-558:}}Hesap genelinde kilitler açıldığından, bu avantajlar diğer karakterler oynandıktan hemen sonra elde edilir. Ancak, bir karakterin Yazma Altarı ve Scholarium'a erişmesini sağlamak için "İkinci Yazma Çağı" görevini tamamlamanız gerekir. \n\n"İndrik'in Kanadı"nı tamamladıysanız, Tarihçi Firandil, "İkinci Yazma Çağı" tamamlandıktan hemen sonra Scholarium'daki istasyonunda olacak.
 {{74148292-0-551:}}Vardığınızda Keshargo'dan Düğüm Bekliyor görevini alın. Bu görev tekrarlanabilir olduğundan Lucent Citadel'i istediğiniz sıklıkta deneyimleyebilirsiniz. Ancak unutmayın, bu görevin ödüllerini yalnızca haftada bir kez alabilirsiniz.\n\nOyuncular Denemeler Liderlik Tablosunda şöhret ve şöhret için yarışabilir.
 {{74148292-0-550:}}Scribing görevinin içeriği altı heyecan verici yeni görevden oluşuyor. Bu görevlerde ilerledikçe yeni müttefikleriniz, Scribing sistemine ve materyallerine erişimin kilidini açacak. Benzersiz ve özelleştirilebilir yeni becerileriniz için temel şablonlar olan güçlü Grimoire'ları satın alma yeteneğini kazanacaksınız. \n\nBu beceriler daha sonra Yazma Altarında, sayfalarına güçlü Scriptler eklenerek işlenir. Pek çok farklı Script türü vardır ve bunların her biri, sonuçta ortaya çıkan Yazılı Becerinin çalışma şeklini temelden değiştirir… becerinin kimi hedeflediğine ve ne tür bir hasar verdiğine kadar.
-{{74148292-0-553:}}Çizme menüsünden, Çizilmiş Beceri olarak oluşturmak istediğiniz Büyü Kitabı'nı seçin.\n\nKullanmak istediğiniz Odak, İmza ve Ekleme Komut Dosyasını seçin. Yazılı Beceri oluşturmak için bir Odak, bir İmza ve bir Ekleme Script seçmelisiniz. Tüm Komut Dosyalarının tüm Grimoire'larla uyumlu olmadığını ve tüm Komut Dosyalarının birbiriyle uyumlu olmadığını unutmayın. \n\nGrimoire'da her Script türünden biri bulunduğunda, Yazma Becerinizi oluşturmak için |cFFFFFFFPress|r <<1>> tuşuna basın. Yazılı Becerinize eklediğiniz veya değiştirdiğiniz her Komut için Parlak Mürekkep tüketilecektir. Örneğin, bir beceriyi ilk kez yazdığınızda üç Parıltılı mürekkep tüketilecektir.\n\nBir Yazılmış Becerideki Komut Dosyalarını istediğiniz kadar değiştirebilir, yeterli Luminous'a sahip olduğunuz sürece becerinin yeni sürümlerini oluşturabilirsiniz. Mürekkep. Yazılı Beceri yapımında yalnızca Parlayan Mürekkep tüketilir, Grimoire'ların ve Komut Dosyalarının kilidi kalıcı olarak açılır ve istediğiniz kadar kullanılabilir. Yapınız için doğru Yazılmış Beceriyi bulmak için istediğiniz kadar deneme yapın.
-{{74148292-0-555:}}Üç tür Script vardır: Odak, İmza ve Ekleme.\n\n|cFFFFFFOdak Scriptleri|r, Yazma Becerisinin ana işlevini tanımlar. Bu, becerinin verdiği hasarın türünü veya yeteneğin düşmanları mı yoksa müttefikleri mi hedef aldığını değiştirebilir. Odak Scriptleri aynı zamanda yeteneğin maliyetini ve kullanımının Magicka mı yoksa Dayanıklılık mı gerektireceğini de belirler.\n\n|cFFFFFF İmza Scriptleri|r Odak Komut Dosyasının etkilerini artırabilir, mevcut bir mekanikle benzersiz bir etkileşimi tetikleyebilir veya ikincil nitelikler ekleyebilir Yazılmış Beceriye.\n\n|cFFFFFFAFfix Scriptleri|r, sonuçta ortaya çıkan Becerinin etkilediği hedeflere bağlı olarak Yazılmış Beceriye güçlendirmeler veya zayıflatmalar ekler.\n\nBütün Komutlar tüm Grimoire'lara uygulanamaz. Ayrıca Grimoire ile uyumlu olan tüm Scriptler birbiriyle uyumlu değildir. Sizin için işe yarayan kombinasyonları keşfetmek için toplayın ve deneyin.
+{{74148292-0-553:}}Çizme menüsünden, Çizilmiş Beceri olarak oluşturmak istediğiniz Büyü Kitabı'nı seçin.\n\nKullanmak istediğiniz Odak, Signature ve Affix Script seçin. Yazılı Beceri oluşturmak için bir Focus, bir Signature ve bir Affix Script seçmelisiniz. Tüm Script'lerin tüm Grimoire'larla uyumlu olmadığını ve tüm Script'lerin birbiriyle uyumlu olmadığını unutmayın. \n\nGrimoire'da her Script türünden biri bulunduğunda, Yazma Becerinizi oluşturmak için |cFFFFFFFPress|r <<1>> tuşuna basın. Yazılı Becerinize eklediğiniz veya değiştirdiğiniz her Komut için Parlak Mürekkep tüketilecektir. Örneğin, bir beceriyi ilk kez yazdığınızda üç Parıltılı mürekkep tüketilecektir.\n\nBir Scribed Yeteneğindeki Script'leri istediğiniz kadar değiştirebilir, yeterli Luminous'a sahip olduğunuz sürece becerinin yeni sürümlerini oluşturabilirsiniz. Mürekkep. Yazılı Beceri yapımında yalnızca Parlayan Mürekkep tüketilir, Grimoire'ların ve Script'lerin kilidi kalıcı olarak açılır ve istediğiniz kadar kullanılabilir. Yapınız için doğru Yazılmış Beceriyi bulmak için istediğiniz kadar deneme yapın.
+{{74148292-0-555:}}Üç tür Script vardır: Focus, Signature ve Affix.\n\n|cFFFFFFOdak Scriptleri|r, Yazma Becerisinin ana işlevini tanımlar. Bu, becerinin verdiği hasarın türünü veya yeteneğin düşmanları mı yoksa müttefikleri mi hedef aldığını değiştirebilir. Odak Scriptleri aynı zamanda yeteneğin maliyetini ve kullanımının Magicka mı yoksa Dayanıklılık mı gerektireceğini de belirler.\n\n|cFFFFFFSignature Scriptleri|r Focus Script'inin etkilerini artırabilir, mevcut bir mekanikle benzersiz bir etkileşimi tetikleyebilir veya ikincil nitelikler ekleyebilir Yazılmış Beceriye.\n\n|cFFFFFFAFfix Scriptleri|r, sonuçta ortaya çıkan Becerinin etkilediği hedeflere bağlı olarak Yazılmış Beceriye güçlendirmeler veya zayıflatmalar ekler.\n\nBütün Komutlar tüm Grimoire'lara uygulanamaz. Ayrıca Grimoire ile uyumlu olan tüm Scriptler birbiriyle uyumlu değildir. Sizin için işe yarayan kombinasyonları keşfetmek için toplayın ve deneyin.
 {{74148292-0-563:}}Beceri Stilleri, başarıların kilidini açarak ve görevleri tamamlayarak ve bunları Crown Store'dan satın alarak kazanılabilir.
 {{74148292-0-554:}}Grimoire'lar ayrıca Grimoire ile ilişkili beceri çizgisiyle ilgili belirli başarıların tamamlanmasını gerektirir. Örneğin, Yay Beceri Kasası için Grimoire'ı satın almak için "Yay Çırağı" Başarısını tamamlamanız gerekir.\n\nBir karakter için Grimoire edinildiğinde, hesabınızdaki diğer karakterler bunları adresindeki Scholarium'daki Chronicler Firandil'den satın alabilirler. indirimli fiyat.
 {{175502389-0-17910:}}Spinner Urthrendir
@@ -31746,7 +31746,7 @@
 {{139139780-0-8715:}}Scruut, gerçekliğin yıpranmış dokusunu onarmak için Daedric kalıntılarının enerjisini kullanacak bir büyü içeren Apocrypha'dan bir parşömen sağladı.
 {{139139780-0-8780:}}Tuzakçının notu, arkadaşları için genç bir guzzard yakalamaya çalıştıklarını açıklıyor.
 {{139139780-0-8784:}}Versidue solucanağzı yorgun görünüyor ama bunun dışında zarar görmemiş.
-{{160227428-0-383:}}Her türden bir komut dosyası ekleyerek Grimoire'ınızı özelleştirin:\n• |cFFFFFFFocus Scriptleri|r Becerinizin işlevini tanımlar.\n• |cFFFFFFİmza Scriptleri|r benzersiz efektler verir. \n• |cFFFFFFAFfix Scriptleri|r seçtiğiniz son bir faydayı ekleyin.\n\nTüm Script yuvaları doldurulduktan sonra, Craft yapmak için <<1>> tuşuna basın veya seçimleri temizlemek için <<2>> tuşuna basın.
+{{160227428-0-383:}}Her türden bir komut dosyası ekleyerek Grimoire'ınızı özelleştirin:\n• |cFFFFFFFocus Scriptleri|r Becerinizin işlevini tanımlar.\n• |cFFFFFFSignature Scriptleri|r benzersiz efektler verir. \n• |cFFFFFFAFfix Scriptleri|r seçtiğiniz son bir faydayı ekleyin.\n\nTüm Script yuvaları doldurulduktan sonra, Craft yapmak için <<1>> tuşuna basın veya seçimleri temizlemek için <<2>> tuşuna basın.
 {{168415844-0-16421:}}Genç bir çiftin eski bir Orman Elf ayini gerçekleştirmesine ve topluluklarından evlenme izni almasına yardım ettiniz.
 {{268015829-0-832:}}Lucent Kalesi
 {{268015829-0-831:}}Lucent Kalesi
@@ -31788,8 +31788,8 @@
 {{87522148-0-293:}}<<1>>, Altın Yolun Kahramanı
 {{51109077-0-33:}}Altın Yolu
 {{155022052-0-382:}}Başlamak için |cFFFFFFGrimoire|r'ınızı seçin. Her Grimoire, mevcut bir beceri çizgisiyle ilişkili benzersiz bir beceriyi temsil eder.
-{{155022052-0-383:}}Her türden bir komut dosyası ekleyerek Grimoire'ınızı özelleştirin:\n• |cFFFFFFFocus Scriptleri|r Becerinizin işlevini tanımlar.\n• |cFFFFFFİmza Scriptleri|r benzersiz efektler verir. \n• |cFFFFFFAFfix Scriptleri|r seçtiğiniz son bir faydayı ekleyin.\n\nTüm Script yuvaları doldurulduktan sonra, Craft yapmak için <<1>> tuşuna basın veya seçimleri temizlemek için <<2>> tuşuna basın.
-{{155022052-0-384:}}|cFFFFFFLuminous Ink|r, Karalama eylemini tamamlamak için gereklidir. Eklenen yeni komut dosyası sayısına eşit miktarda mürekkeple ücretlendirileceksiniz.\n\nMürekkep, Grimoires ve Komut Dosyalarını dünyadaki birçok yöntemle edinebilirsiniz. Scholarium'u keşfetmeye devam ederken ipuçlarına karşı gözünüzü açık tutun.
+{{155022052-0-383:}}Her türden bir komut dosyası ekleyerek Grimoire'ınızı özelleştirin:\n• |cFFFFFFFocus Scriptleri|r Becerinizin işlevini tanımlar.\n• |cFFFFFFSignature Scriptleri|r benzersiz efektler verir. \n• |cFFFFFFAFfix Scriptleri|r seçtiğiniz son bir faydayı ekleyin.\n\nTüm Script yuvaları doldurulduktan sonra, Craft yapmak için <<1>> tuşuna basın veya seçimleri temizlemek için <<2>> tuşuna basın.
+{{155022052-0-384:}}|cFFFFFFLuminous Ink|r, Karalama eylemini tamamlamak için gereklidir. Eklenen yeni komut dosyası sayısına eşit miktarda mürekkeple ücretlendirileceksiniz.\n\nMürekkep, Grimoires ve Script'leri dünyadaki birçok yöntemle edinebilirsiniz. Scholarium'u keşfetmeye devam ederken ipuçlarına karşı gözünüzü açık tutun.
 {{155022052-0-386:}}Gelişmiş yapıları seçmek veya Beceri Danışmanını devre dışı bırakmak amacıyla Danışman Ayarlarına erişmek için <<1>> tuşuna basın.
 {{151638485-0-869:}}/dans kutlaması
 {{151638485-0-872:}}/doğru görüş
@@ -32418,11 +32418,11 @@
 {{242841733-0-207013:}}Xoryn'in Ayakkabıları
 {{242841733-0-207010:}}Xoryn'in Restorasyon Ekibi
 {{242841733-0-208037:}}Bağlı Signature Script: Wayfarer'ın Ustalığı
-{{242841733-0-208036:}}Bağlı İmza Script: Anchorite'ın Gücü
-{{242841733-0-208031:}}Ciltli İmza Script: Druid'in Dirilişi
+{{242841733-0-208036:}}Bağlı Signature Script: Anchorite'ın Gücü
+{{242841733-0-208031:}}Bağlı Signature Script: Druid'in Dirilişi
 {{242841733-0-206804:}}Boş Arca Muhafızları
 {{242841733-0-208265:}}Weald Asması
-{{242841733-0-204579:}}İmza Script: Sınıf Ustalığı
+{{242841733-0-204579:}}Signature Script: Sınıf Ustalığı
 {{242841733-0-206975:}}Xoryn'in Jerkin'i
 {{242841733-0-208000:}}Bağlı Odaklanma Script: Zehir Hasarı
 {{242841733-0-208001:}}Bağlı Odak Script: Hastalık Hasarı
@@ -32514,7 +32514,7 @@
 {{242841733-0-205929:}}Highland Sentinel Kaskı
 {{242841733-0-204764:}}Ağaç, Uzun Sonbahar Konik Selvi
 {{242841733-0-204589:}}Signature Script: Savaşçının Fırsatı
-{{242841733-0-204588:}}İmza Script: Wayfarer'ın Ustalığı
+{{242841733-0-204588:}}Signature Script: Wayfarer'ın Ustalığı
 {{242841733-0-205343:}}Ayleid Sığınağı Topuzu
 {{242841733-0-205268:}}Ayleid Sığınağı Hançer
 {{242841733-0-205266:}}Ayleid Sığınağı Maul
@@ -32731,9 +32731,9 @@
 {{242841733-0-207043:}}Xoryn'in Kılıcı
 {{242841733-0-207042:}}Xoryn'in Topuzu
 {{242841733-0-204585:}}Signature Script: Eskrimcinin Siperliği
-{{242841733-0-204584:}}İmza Script: Crusader's Defiance
-{{242841733-0-204587:}}İmza Script: Anchorite'ın Gücü
-{{242841733-0-204581:}}İmza Script: Warmage'ın Savunması
+{{242841733-0-204584:}}Signature Script: Crusader's Defiance
+{{242841733-0-204587:}}Signature Script: Anchorite'ın Gücü
+{{242841733-0-204581:}}Signature Script: Warmage'ın Savunması
 {{242841733-0-204580:}}Signature Script: Sage'in Çaresi
 {{242841733-0-204583:}}Signature Script: Hırsızın Çabukluğu
 {{242841733-0-207770:}}Lucent Echoes Mükemmelleştirilmiş Omuzluklar
@@ -33289,7 +33289,7 @@
 {{242841733-0-206342:}}Savaş Botlarının Konuları
 {{242841733-0-206346:}}Savaş Kolu Polislerinin Konuları
 {{242841733-0-208163:}}Indrik Analizi Mührü
-{{242841733-0-208167:}}Sınıf Komut Dosyası İkilemi
+{{242841733-0-208167:}}Sınıf Script İkilemi
 {{242841733-0-208166:}}Ejderha Analizi Mührü
 {{242841733-0-207898:}}Uygulama: Dawnwood Sürahi, Uzun
 {{242841733-0-207899:}}Diyagram: Dawnwood Kazanı, Kapalı
@@ -33349,7 +33349,7 @@
 {{242841733-0-208035:}}Bağlı Signature Script: Gladyatörün Azmi
 {{242841733-0-208034:}}Bağlı Signature Script: Eskrimcinin Siperliği
 {{242841733-0-207385:}}Mora Scribe'ın Mükemmelleştirilmiş Ayakkabıları
-{{242841733-0-208030:}}Bağlı İmza Script: Warmage'ın Savunması
+{{242841733-0-208030:}}Bağlı Signature Script: Warmage'ın Savunması
 {{242841733-0-205637:}}Tharriker'ın Sabatonları
 {{242841733-0-205633:}}Tharriker'ın Yıldırım Asası
 {{242841733-0-204769:}}Çalı, Sonbahar Meşesi
@@ -33458,7 +33458,7 @@
 {{242841733-0-207054:}}Xoryn'in Topuzu
 {{242841733-0-204592:}}Affix Script: Denge Dışı
 {{242841733-0-204593:}}Affix Script: Kesme
-{{242841733-0-204590:}}İmza Script: Cavalier'in Saldırısı
+{{242841733-0-204590:}}Signature Script: Cavalier'in Saldırısı
 {{242841733-0-204596:}}Affix Script: Resolve
 {{242841733-0-204597:}}Affix Script: Evasion
 {{242841733-0-204594:}}Affix Script: Savagery and Prophecy
@@ -33808,7 +33808,7 @@
 {{242841733-0-206575:}}Mora Scribe'ın Cehennem Asası
 {{242841733-0-206283:}}Savaş Büyük Kılıcının Konuları
 {{242841733-0-207777:}}Lucent Echoes Mükemmelleştirilmiş Korse
-{{242841733-0-207949:}}İmza Script: Büyüyen Etki
+{{242841733-0-207949:}}Signature Script: Büyüyen Etki
 {{242841733-0-207945:}}Lucent Kalesi Parlayan Hazine
 {{242841733-0-207941:}}Tüm Grimoire'lar
 {{242841733-0-207776:}}Lucent Echoes Mükemmelleştirilmiş Korse
@@ -34053,9 +34053,9 @@
 {{242841733-0-205001:}}Weald'ın Kalkanı
 {{242841733-0-207793:}}Xoryn'in Mükemmelleştirilmiş Pantolonu
 {{242841733-0-205000:}}Weald'ın Yenileme Asası
-{{242841733-0-204573:}}İmza Script: Avcı Tuzağı
-{{242841733-0-204575:}}İmza Script: Sülük Susuzluğu
-{{242841733-0-204577:}}İmza Script: Suikastçının Sefaleti
+{{242841733-0-204573:}}Signature Script: Avcı Tuzağı
+{{242841733-0-204575:}}Signature Script: Sülük Susuzluğu
+{{242841733-0-204577:}}Signature Script: Suikastçının Sefaleti
 {{242841733-0-205007:}}Weald'ın Jerkin'i
 {{242841733-0-203526:}}Stil Sayfası: Ayleid Lich Jerkin
 {{242841733-0-203527:}}Stil Sayfası: Ayleid Lich Şapkası
@@ -34903,11 +34903,11 @@
 {{242841733-0-205484:}}Tharriker'ın Topuzu
 {{242841733-0-205483:}}Tharriker'ın Baltası
 {{242841733-0-205480:}}Tharriker'ın Muhafızları
-{{242841733-0-208028:}}Bağlı İmza Script: Sınıf Ustalığı
+{{242841733-0-208028:}}Bağlı Signature Script: Sınıf Ustalığı
 {{242841733-0-207319:}}Mora Scribe'ın Mükemmelleştirilmiş Hançeri
-{{242841733-0-208026:}}Bağlı İmza Script: Suikastçının Sefaleti
-{{242841733-0-208024:}}Bağlı İmza Script: Sülük Susuzluğu
-{{242841733-0-208025:}}Bağlı İmza Script: Hareketsizleştirme Saldırısı
+{{242841733-0-208026:}}Bağlı Signature Script: Suikastçının Sefaleti
+{{242841733-0-208024:}}Bağlı Signature Script: Sülük Susuzluğu
+{{242841733-0-208025:}}Bağlı Signature Script: Hareketsizleştirme Saldırısı
 {{242841733-0-206842:}}Lucent, Yıldırım Asasını Yankılıyor
 {{242841733-0-205008:}}Weald Apoletleri
 {{242841733-0-206360:}}Savaş Kalkanı Konuları
@@ -35038,15 +35038,15 @@
 {{242841733-0-207343:}}Mora Scribe'ın Mükemmelleştirilmiş Buz Asası
 {{242841733-0-207340:}}Mora Scribe'ın Mükemmelleştirilmiş Buz Asası
 {{242841733-0-207341:}}Mora Scribe'ın Mükemmelleştirilmiş Buz Asası
-{{242841733-0-204606:}}Affix Script: Zorla
-{{242841733-0-204607:}}Affix Komut Dosyası: Güvenlik Açığı
-{{242841733-0-204604:}}Affix Script: Kahramanlık
-{{242841733-0-204605:}}Affix Komut Dosyası: Zeka ve Dayanıklılık
-{{242841733-0-204602:}}Affix Script: Koruma
-{{242841733-0-204603:}}Affix Script: Cesaret
-{{242841733-0-204600:}}Affix Komut Dosyası: Vahşet ve Büyücülük
-{{242841733-0-204601:}}Affix Script: Güçlendir
-{{242841733-0-204608:}}Affix Script: Sakatlama
+{{242841733-0-204606:}}Affix Script: Force
+{{242841733-0-204607:}}Affix Script: Vulnerability
+{{242841733-0-204604:}}Affix Script: Heroism
+{{242841733-0-204605:}}Affix Script: Intellect and Endurance
+{{242841733-0-204602:}}Affix Script: Protection
+{{242841733-0-204603:}}Affix Script: Courage
+{{242841733-0-204600:}}Affix Script: Brutality and Sorcery
+{{242841733-0-204601:}}Affix Script: Empower
+{{242841733-0-204608:}}Affix Script: Maim
 {{242841733-0-206401:}}Savaş Omuzluklarının İplikleri
 {{242841733-0-206798:}}Null Arca Yenileme Asası
 {{242841733-0-205910:}}Yayla Nöbetçi Kalkanı
@@ -37792,7 +37792,7 @@
 {{55049764-1-16219:}}Sanırım eski moda bir handfast yapacağız, değil mi? Bir Yeşilkonuş'un düğünü. Orada sürdürülecek pek çok gelenek var.
 {{55049764-1-16212:}}Eğer arkadaşlarınız varsa onlardan size katılmalarını isteyebilirsiniz. Keşif ekibinin hâlâ saldırı altında olup olmadığını ya da neler olduğunu bilmiyorum. Son derece tehlikeli olabilir. \n\nNe zaman hazır olursanız portal oradadır.
 {{55049764-1-16210:}}Gizemli düğüm güvende ve Xoryn bir süre daha kendini toparlayamayacaktır. Keshargo, özellikle bunun gibi önemli seferlerde yetenekli savaşçıların etrafta olmasının ne kadar faydalı olduğunu hatırlayacaktır.
-{{55049764-1-16211:}}Sağ. Artık her şeyi açıklayabilirim ama gerçekten Keshargo'yla konuşmalısın. Güya bu karışık keşif gezisinden o sorumlu.\n\nUmarım seni Xoryn'in peşine gönderir. Eğer bu savaş benim sıfır arkamı bozarsa üzüleceğim.
+{{55049764-1-16211:}}Doğru. Artık her şeyi açıklayabilirim ama gerçekten Keshargo'yla konuşmalısın. Güya bu karışık keşif gezisinden o sorumlu.\n\nUmarım seni Xoryn'in peşine gönderir. Eğer bu savaş benim sıfır arkamı bozarsa üzüleceğim.
 {{55049764-1-16217:}}Bir filoyu kaç kez kaybederseniz kaybedin, bu asla kolaylaşmaz. \n\nOturup durmana gerek yok, paralı asker. Birkaç dakika sonra kendim yola çıkmaya hazır olacağım. O hain Ulrath'ın peşine düşen devriyeye bizzat liderlik etmeyi planlıyorum.
 {{55049764-1-16214:}}Gerekirse seninle savaşırız. Hiçbir lanet vampir benden ya da annemden yemek çıkaramayacak!
 {{55049764-27-15793:}}Tıpkı Kont Verandis'in bana öğrettiği gibi, sadece dikkat ederseniz her zaman öğrenecek bir şeyler vardır.\n\nSaha görevlisi bir ölüm tazısının saldırısına uğradı, bu da vampir faaliyetinin kesin bir göstergesi. Ve zengin bir bilgi sağladı, sence de öyle değil mi?
